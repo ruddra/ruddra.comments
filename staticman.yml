@@ -9,7 +9,7 @@ comments:
       options: 
         format: iso8601
       type: date
-  moderation: false
+  moderation: true
   path: "comments/{options.slug}"
   notifications:
     enabled: true
