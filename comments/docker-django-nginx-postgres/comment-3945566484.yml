@@ -1,0 +1,6 @@
+_id: 3945566484
+name: Dan
+email: 0a365b47fdaee5c39d7ef51cc7bb0365
+reply_to: 3945560994
+comment: FIXED IT... for anyone else that gets here, there was an issue with celery... updating the requirements file from 4.0.0 to 4.1.1 fixed it
+date: '2018-06-15T11:37:51Z' 

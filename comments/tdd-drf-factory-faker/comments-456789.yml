@@ -1,0 +1,6 @@
+_id: 456789
+name: Arnab
+email: 32eeb1c619ba12f413b8f94d9d308024
+reply_to: 45678
+comment: I don't think its necessary. You can define a new file like `factory.py` and inside it you can define the Factory class. Then inside test, you can use from `.factory import BlogFactory`.
+date: '2018-12-23T00:00:00Z' 

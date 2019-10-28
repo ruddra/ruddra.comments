@@ -1,0 +1,6 @@
+_id: 3328943339
+name: Jesus
+email: 5c056b8f404670d43eb13c28b210007a
+reply_to: ''
+comment: "I finally made it work!, thanks again!, I have just a little problem, how can I run the migrations? because if I write makemigrations without docker (just `python manage.py makemigrations`) I am getting an error because `'HOST' 'db' is not found"
+date: '2017-05-28T17:38:53Z' 

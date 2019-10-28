@@ -1,0 +1,6 @@
+_id: 4019516257
+name: Виктор Ди
+email: 19f8a51b49a1829dad5fcd1836ae09b6
+reply_to: ''
+comment: "the app was not able to connect to db until I renamed the containers: web, nginx and db."
+date: '2018-08-03T03:06:22Z' 

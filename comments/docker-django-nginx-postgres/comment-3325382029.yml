@@ -1,0 +1,11 @@
+_id: 3325382029
+name: Jesus
+email: 5c056b8f404670d43eb13c28b210007a
+reply_to: ''
+comment: "Thanks a lot for this post, it´s much better than the official one, I am totally new on this and I have a question (maybe it´s a silly question). When you setup Django with PostgreSQL each one has to be on it´s own server or virtual machine, I am trying to setup this but I am getting errors:
+```
+could not connect to server Connection refused  
+web_1 | Is the server running on host 'localhost' (127.0.0.1) and accepting  
+web_1 | TCP/IP connections on port 5432?
+```"
+date: '2017-05-26T05:44:25Z' 

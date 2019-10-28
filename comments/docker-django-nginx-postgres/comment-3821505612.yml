@@ -1,0 +1,6 @@
+_id: 3821505612
+name: Ruddra
+email: 32eeb1c619ba12f413b8f94d9d308024
+reply_to: 3815880908
+comment: '"Bind for 0.0.0.0:8000 failed: port is already allocated" - This is quite self explanatory. 8000 port is being used in another program. I am sorry, but you need to find and solve this issue yourself.'
+date: '2018-03-24T04:26:41Z' 

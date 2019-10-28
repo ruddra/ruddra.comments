@@ -1,0 +1,30 @@
+_id: 3905910388
+name: Ruddra
+email: 32eeb1c619ba12f413b8f94d9d308024
+reply_to: 3905304262
+comment: "You can just use this code:  
+```  
+# somehow you got email or username and put it in data  
+associated_users= User.objects.filter(Q(email=data)|Q(username=data))  
+ if associated_users.exists():  
+ for user in associated_users:  
+ c = {  
+ 'email': user.email,  
+ 'domain': request.META['HTTP_HOST'],  
+ 'site_name': 'your site',  
+ 'uid': urlsafe_base64_encode(force_bytes(user.pk)),  
+ 'user': user,  
+ 'token': default_token_generator.make_token(user),  
+ 'protocol': 'http',  
+ }  
+ subject_template_name='registration/password_reset_subject.txt'   
+ # copied from django/contrib/admin/templates/registration/password_reset_subject.txt to templates directory  
+ email_template_name='registration/password_reset_email.html'   
+ # copied from django/contrib/admin/templates/registration/password_reset_email.html to templates directory  
+ subject = loader.render_to_string(subject_template_name, c)  
+ # Email subject *must not* contain newlines  
+ subject = ''.join(subject.splitlines())  
+ email = loader.render_to_string(email_template_name, c)  
+ send_mail(subject, email, DEFAULT_FROM_EMAIL , [user.email], fail_silently=False)  
+```"
+date: '2018-05-18T03:14:39Z' 

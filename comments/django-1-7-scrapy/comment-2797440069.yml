@@ -1,0 +1,12 @@
+_id: 2797440069
+name: Dário Marcelino
+email: 73f471882c8968fed658a608e05cc49b
+reply_to: ''
+comment: "I'm using Django 1.9 and I had to add
+```
+import django
+
+django.setup()
+```
+to scrappy settings.py for it run. Thanks"
+date: '2016-07-22T15:14:51Z' 

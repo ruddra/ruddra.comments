@@ -1,0 +1,6 @@
+_id: 3479345785
+name: Issam Hammad
+email: 3d35ce6a8d1bc552d8c26907be92cf81
+reply_to: ''
+comment: "Hi, Thanks for these instructions. I was able to run my web locally using Docker Terminal on Windows with 'docker-compose build' &amp; 'docker-compose-up', However, After creating the image, (Image created Successfully) I am not able to run the web from the image itself I used docker run -p [newport]:8000 [image], looks to me the container immediately exists after executing, when I try to browse the new port nothing is there .. I did netstat -t , no binding is there to the new port... Any idea whats wrong? I am new to Docker."
+date: '2017-08-21T13:07:38Z' 

@@ -1,0 +1,10 @@
+_id: 3600080286
+name: Rohaq
+email: 91580f0a823aacf99a9e292cb9317c91
+reply_to: 3101556975
+comment: "Try putting the container name in instead, using
+```
+ALLOWED_HOSTS = ['web']
+```
+worked for me!"
+date: '2017-11-04T17:27:16Z' 

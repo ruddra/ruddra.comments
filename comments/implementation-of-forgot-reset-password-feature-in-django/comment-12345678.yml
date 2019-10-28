@@ -1,0 +1,9 @@
+_id: 12345678
+name: ares19896
+email: 6e0810b2a9c34aff79f1672519b0680b
+reply_to: ''
+comment: "In registration/password_reset_email.html:
+```{{ domain }}{% url 'reset_password_confirm' uidb64=uid token=token %}```
+I want to show in email, this link is 'Reset Password'.
+Please help me"
+date: '2019-10-08T11:26:05Z' 

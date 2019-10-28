@@ -1,0 +1,6 @@
+_id: 123212124
+name: JR177
+email: caca0257c8924b75cddf052290bfb5d7
+reply_to: ''
+comment: "I'm unsure how to design the 'views' for this solution. My current view saves the form inputs to the default User model and cannot get it to save to the new model. I also hit this 'uniqueconstraint' problem."
+date: '2019-08-12T02:00:00Z' 

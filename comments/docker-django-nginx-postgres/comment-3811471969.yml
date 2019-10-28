@@ -1,0 +1,6 @@
+_id: 3811471969
+name: Ruddra
+email: 32eeb1c619ba12f413b8f94d9d308024
+reply_to: 3810896451
+comment: There are several things wrong here. In django, you are running the app in 8000 port, but in Nginx, you are using web:8001, which should not work. Remove static volume from docker-compose nginx service. Also for debugging purpose, access shell of both web and nginx container. Go to static directory and run \`ls\` to check if static files exists or not.
+date: '2018-03-18T03:46:45Z' 

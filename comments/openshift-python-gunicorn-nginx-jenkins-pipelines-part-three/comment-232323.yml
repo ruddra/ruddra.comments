@@ -1,0 +1,8 @@
+_id: 232323
+name: RekhaSabbineni22
+email: 48247305422f2ed2af49d8a4afbc9c63
+reply_to: ''
+comment: "Hi Rudra,
+
+I went through your blog on automated deployment from jenkins to openshift.I have followed the same steps and tried to import the yaml file in Openshift and started the pipeline.But not sure why I could not see any stages there. Kindly help me."
+date: '2019-06-07T00:00:00Z'

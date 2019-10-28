@@ -1,0 +1,11 @@
+_id: 3945532065
+name: Dan
+email: 0a365b47fdaee5c39d7ef51cc7bb0365
+reply_to: 3945531830
+comment: 'this is my `docker ps`:
+
+CONTAINER ID IMAGE COMMAND CREATED STATUS PORTS NAMES  
+032e46e131f2 nginx:latest "nginx -g "daemon of…" 16 minutes ago Up 12 minutes 80/tcp, 0.0.0.0:8000-&gt;8000/tcp nz01  
+9d7049646279 redis:latest "docker-entrypoint.s…" About an hour ago Up 12 minutes 0.0.0.0:6379-&gt;6379/tcp rz01  
+2f71f22010e7 postgres:latest "docker-entrypoint.s…" About an hour ago Up 12 minutes 5432/tcp pz01'
+date: "2018-06-15T10:56:01Z" 

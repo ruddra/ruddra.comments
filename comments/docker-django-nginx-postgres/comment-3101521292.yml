@@ -1,0 +1,21 @@
+_id: 3101521292
+name: Salun Marvin
+email: 3a8da962053e1441f0ed9cf7b21b0d45
+reply_to: ''
+comment: "Awesome Tutorial, but I can't reach my web page. On the web logs It seems that Gunicorn is working normally.  
+```
+django01 | [2017-01-16 00:40:22 +0000] [9] [INFO] Starting gunicorn 19.6.0  
+django01 | [2017-01-16 00:40:22 +0000] [9] [INFO] Listening at: http://0.0.0.0:8000 (9)  
+django01 | [2017-01-16 00:40:22 +0000] [9] [INFO] Using worker: sync  
+django01 | [2017-01-16 00:40:23 +0000] [12] [INFO] Booting worker with pid: 12
+```
+But my Nginx logs only says: Attaching to nginx01
+
+I didn't create a /config/ folder, just created a django.conf file and in my docker-compose.yml I changed volumes to:  
+volumes:  
+```
+ - ./src:/src  
+ - ./nginx:/etc/nginx/conf.d
+```
+Don't know whats wrong :("
+date: '2017-01-16T00:50:23Z' 

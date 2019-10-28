@@ -1,0 +1,3842 @@
+{
+	"disqus": {
+		"category": {
+			"forum": "ruddracom",
+			"title": "General",
+			"isDefault": "true",
+			"_dsq:id": "3978367"
+		},
+		"thread": [
+			{
+				"id": "15",
+				"forum": "ruddracom",
+				"category": {
+					"_dsq:id": "3978367"
+				},
+				"link": "https://ruddra.com/posts/dynamically-constructing-filters-based-on-string-input-using-sqlalchemy/",
+				"title": "Dynamically constructing filters based on string input using SQLAlchemy",
+				"message": "",
+				"createdAt": "2015-09-18T05:39:05Z",
+				"author": {
+					"name": "Arnab Kumar Shil",
+					"isAnonymous": "false",
+					"username": "disqus_gyYUH5SQcq"
+				},
+				"isClosed": "false",
+				"isDeleted": "false",
+				"_dsq:id": "4140568708"
+			},
+			{
+				"id": "13",
+				"forum": "ruddracom",
+				"category": {
+					"_dsq:id": "3978367"
+				},
+				"link": "https://ruddra.com/posts/some-useful-tools-function/",
+				"title": "Some Useful Tools/Function for Django",
+				"message": "",
+				"createdAt": "2015-09-18T14:44:44Z",
+				"author": {
+					"name": "Arnab Kumar Shil",
+					"isAnonymous": "false",
+					"username": "disqus_gyYUH5SQcq"
+				},
+				"isClosed": "false",
+				"isDeleted": "false",
+				"_dsq:id": "4141928240"
+			},
+			{
+				"id": "16",
+				"forum": "ruddracom",
+				"category": {
+					"_dsq:id": "3978367"
+				},
+				"link": "https://ruddra.com/posts/make-a-blog-using-django-part-1/",
+				"title": "Change Column Header Dynamically in Django Tables2",
+				"message": "",
+				"createdAt": "2015-09-18T18:14:52Z",
+				"author": {
+					"name": "Arnab Kumar Shil",
+					"isAnonymous": "false",
+					"username": "disqus_gyYUH5SQcq"
+				},
+				"isClosed": "false",
+				"isDeleted": "false",
+				"_dsq:id": "4142505684"
+			},
+			{
+				"id": "",
+				"forum": "ruddracom",
+				"category": {
+					"_dsq:id": "3978367"
+				},
+				"link": "https://ruddra.com/posts/write-restful-api-based-email-client-using-tornado/",
+				"title": "Write RESTful API Based Email Client using Tornado",
+				"message": "",
+				"createdAt": "2015-09-19T19:13:08Z",
+				"author": {
+					"name": "Arnab Kumar Shil",
+					"isAnonymous": "false",
+					"username": "disqus_gyYUH5SQcq"
+				},
+				"isClosed": "false",
+				"isDeleted": "false",
+				"_dsq:id": "4145446737"
+			},
+			{
+				"id": "10",
+				"forum": "ruddracom",
+				"category": {
+					"_dsq:id": "3978367"
+				},
+				"link": "https://ruddra.com/posts/working-with-formset/",
+				"title": "Working with Formset",
+				"message": "",
+				"createdAt": "2015-09-20T02:19:31Z",
+				"author": {
+					"name": "Arnab Kumar Shil",
+					"isAnonymous": "false",
+					"username": "disqus_gyYUH5SQcq"
+				},
+				"isClosed": "false",
+				"isDeleted": "false",
+				"_dsq:id": "4146231003"
+			},
+			{
+				"id": "9",
+				"forum": "ruddracom",
+				"category": {
+					"_dsq:id": "3978367"
+				},
+				"link": "https://ruddra.com/posts/syncdb-vs-migration/",
+				"title": "Syncdb vs Migration",
+				"message": "",
+				"createdAt": "2015-09-22T05:02:44Z",
+				"author": {
+					"name": "Arnab Kumar Shil",
+					"isAnonymous": "false",
+					"username": "disqus_gyYUH5SQcq"
+				},
+				"isClosed": "false",
+				"isDeleted": "false",
+				"_dsq:id": "4153122478"
+			},
+			{
+				"id": "7",
+				"forum": "ruddracom",
+				"category": {
+					"_dsq:id": "3978367"
+				},
+				"link": "https://ruddra.com/posts/using-intellijidea-within-an-exisiting-virtualenv/",
+				"title": "Using IntellijIdea Within An Exisiting Virtualenv",
+				"message": "",
+				"createdAt": "2015-09-30T00:45:41Z",
+				"author": {
+					"name": "Arnab Kumar Shil",
+					"isAnonymous": "false",
+					"username": "disqus_gyYUH5SQcq"
+				},
+				"isClosed": "false",
+				"isDeleted": "false",
+				"_dsq:id": "4178632941"
+			},
+			{
+				"id": "",
+				"forum": "ruddracom",
+				"category": {
+					"_dsq:id": "3978367"
+				},
+				"link": "https://ruddra.com/posts/perodic-tasks-by-celery-3-1-example/",
+				"title": "Perodic Tasks By Celery 3.1 Example",
+				"message": "",
+				"createdAt": "2015-10-08T16:54:51Z",
+				"author": {
+					"name": "Arnab Kumar Shil",
+					"isAnonymous": "false",
+					"username": "disqus_gyYUH5SQcq"
+				},
+				"isClosed": "false",
+				"isDeleted": "false",
+				"_dsq:id": "4206473217"
+			},
+			{
+				"id": "",
+				"forum": "ruddracom",
+				"category": {
+					"_dsq:id": "3978367"
+				},
+				"link": "https://ruddra.com/posts/dynamically-constructing-filters-based-on-string-input-using-sqlalchemy",
+				"title": "Dynamically constructing filters based on string input using SQLAlchemy",
+				"message": "",
+				"createdAt": "2016-04-06T14:36:34Z",
+				"author": {
+					"name": "Arnab Kumar Shil",
+					"isAnonymous": "false",
+					"username": "disqus_gyYUH5SQcq"
+				},
+				"isClosed": "false",
+				"isDeleted": "false",
+				"_dsq:id": "4725048540"
+			},
+			{
+				"id": "",
+				"forum": "ruddracom",
+				"category": {
+					"_dsq:id": "3978367"
+				},
+				"link": "https://ruddra.com/posts/make-apple-notifications-from-rss-feed-using-python/",
+				"title": "Make OSX Notifications From RSS Feed Using Python",
+				"message": "",
+				"createdAt": "2016-07-29T09:01:16Z",
+				"author": {
+					"name": "Arnab Kumar Shil",
+					"isAnonymous": "false",
+					"username": "disqus_gyYUH5SQcq"
+				},
+				"isClosed": "false",
+				"isDeleted": "false",
+				"_dsq:id": "5023471555"
+			},
+			{
+				"id": "",
+				"forum": "ruddracom",
+				"category": {
+					"_dsq:id": "3978367"
+				},
+				"link": "https://ruddra.com/posts/django-1-7-scrapy/",
+				"title": "Django 1.7 + Scrapy",
+				"message": "",
+				"createdAt": "2016-08-14T07:20:11Z",
+				"author": {
+					"name": "Arnab Kumar Shil",
+					"isAnonymous": "false",
+					"username": "disqus_gyYUH5SQcq"
+				},
+				"isClosed": "false",
+				"isDeleted": "false",
+				"_dsq:id": "5064497807"
+			},
+			{
+				"id": "",
+				"forum": "ruddracom",
+				"category": {
+					"_dsq:id": "3978367"
+				},
+				"link": "https://ruddra.com/posts/make-csv-file-using-mysql-and-python/",
+				"title": "Make .CSV file using MySQL and Python",
+				"message": "",
+				"createdAt": "2016-08-26T09:06:50Z",
+				"author": {
+					"name": "Arnab Kumar Shil",
+					"isAnonymous": "false",
+					"username": "disqus_gyYUH5SQcq"
+				},
+				"isClosed": "false",
+				"isDeleted": "false",
+				"_dsq:id": "5096127081"
+			},
+			{
+				"id": "",
+				"forum": "ruddracom",
+				"category": {
+					"_dsq:id": "3978367"
+				},
+				"link": "https://ruddra.com/posts/make-a-blog-using-django-part-2/",
+				"title": "Make a Blog using Django Part 2",
+				"message": "",
+				"createdAt": "2016-08-27T07:52:01Z",
+				"author": {
+					"name": "Arnab Kumar Shil",
+					"isAnonymous": "false",
+					"username": "disqus_gyYUH5SQcq"
+				},
+				"isClosed": "false",
+				"isDeleted": "false",
+				"_dsq:id": "5098468531"
+			},
+			{
+				"id": "27",
+				"forum": "ruddracom",
+				"category": {
+					"_dsq:id": "3978367"
+				},
+				"link": "https://ruddra.com/posts/django-with-angular-js/",
+				"title": "Django With Angular Js",
+				"message": "",
+				"createdAt": "2017-02-24T20:00:06Z",
+				"author": {
+					"name": "Arnab Kumar Shil",
+					"isAnonymous": "false",
+					"username": "disqus_gyYUH5SQcq"
+				},
+				"isClosed": "false",
+				"isDeleted": "false",
+				"_dsq:id": "5581662352"
+			},
+			{
+				"id": "28",
+				"forum": "ruddracom",
+				"category": {
+					"_dsq:id": "3978367"
+				},
+				"link": "https://ruddra.com/posts/django-with-angularjs-part-two/",
+				"title": "Django With AngularJs (Part 2: Build Frontend using AngularJs)",
+				"message": "",
+				"createdAt": "2017-03-03T14:03:45Z",
+				"author": {
+					"name": "Arnab Kumar Shil",
+					"isAnonymous": "false",
+					"username": "disqus_gyYUH5SQcq"
+				},
+				"isClosed": "false",
+				"isDeleted": "false",
+				"_dsq:id": "5600015727"
+			},
+			{
+				"id": "",
+				"forum": "ruddracom",
+				"category": {
+					"_dsq:id": "3978367"
+				},
+				"link": "https://ruddra.com/posts/how-to-configure-django-tornado-in-pycharm-community-edition",
+				"title": "How to configure Django/Tornado in PyCharm Community Edition",
+				"message": "",
+				"createdAt": "2017-05-12T09:43:21Z",
+				"author": {
+					"name": "Arnab Kumar Shil",
+					"isAnonymous": "false",
+					"username": "disqus_gyYUH5SQcq"
+				},
+				"isClosed": "false",
+				"isDeleted": "false",
+				"_dsq:id": "5809946142"
+			},
+			{
+				"id": "31",
+				"forum": "ruddracom",
+				"category": {
+					"_dsq:id": "3978367"
+				},
+				"link": "https://ruddra.com",
+				"title": "Jui",
+				"message": "",
+				"createdAt": "2017-07-03T17:43:32Z",
+				"author": {
+					"name": "Arnab Kumar Shil",
+					"isAnonymous": "false",
+					"username": "disqus_gyYUH5SQcq"
+				},
+				"isClosed": "false",
+				"isDeleted": "false",
+				"_dsq:id": "5961094308"
+			},
+			{
+				"id": "",
+				"forum": "ruddracom",
+				"category": {
+					"_dsq:id": "3978367"
+				},
+				"link": "https://ruddra.com/posts/play-with-pillow/",
+				"title": "Play With Pillow",
+				"message": "",
+				"createdAt": "2018-04-29T08:43:26Z",
+				"author": {
+					"name": "Arnab Kumar Shil",
+					"isAnonymous": "false",
+					"username": "disqus_gyYUH5SQcq"
+				},
+				"isClosed": "false",
+				"isDeleted": "false",
+				"_dsq:id": "6641246745"
+			},
+			{
+				"id": "",
+				"forum": "ruddracom",
+				"category": {
+					"_dsq:id": "3978367"
+				},
+				"link": "https://ruddra.com/posts/docker-do-stuff-using-celery-using-redis-as-broker/",
+				"title": "Docker: Use Celery in Django(Redis as Broker)",
+				"message": "",
+				"createdAt": "2018-04-29T08:57:03Z",
+				"author": {
+					"name": "Arnab Kumar Shil",
+					"isAnonymous": "false",
+					"username": "disqus_gyYUH5SQcq"
+				},
+				"isClosed": "false",
+				"isDeleted": "false",
+				"_dsq:id": "6641263602"
+			},
+			{
+				"id": "",
+				"forum": "ruddracom",
+				"category": {
+					"_dsq:id": "3978367"
+				},
+				"link": "https://ruddra.com/posts/how-to-configure-django-tornado-in-pycharm-community-edition/",
+				"title": "How to configure Django/Tornado in PyCharm Community Edition",
+				"message": "",
+				"createdAt": "2018-04-29T09:11:06Z",
+				"author": {
+					"name": "Arnab Kumar Shil",
+					"isAnonymous": "false",
+					"username": "disqus_gyYUH5SQcq"
+				},
+				"isClosed": "false",
+				"isDeleted": "false",
+				"_dsq:id": "6641280255"
+			},
+			{
+				"id": "",
+				"forum": "ruddracom",
+				"category": {
+					"_dsq:id": "3978367"
+				},
+				"link": "https://ruddra.com/posts/serve-static-files-by-nginx-from-django-using-docker/",
+				"title": "Serve Static Files by Nginx from Django using Docker",
+				"message": "",
+				"createdAt": "2018-04-29T09:31:34Z",
+				"author": {
+					"name": "Arnab Kumar Shil",
+					"isAnonymous": "false",
+					"username": "disqus_gyYUH5SQcq"
+				},
+				"isClosed": "false",
+				"isDeleted": "false",
+				"_dsq:id": "6641304912"
+			},
+			{
+				"id": "",
+				"forum": "ruddracom",
+				"category": {
+					"_dsq:id": "3978367"
+				},
+				"link": "https://ruddra.com/posts/python-selenium-with-phantomjs-to-capture-screenshots/",
+				"title": "Python: Selenium with PhantomJs to capture Screenshots",
+				"message": "",
+				"createdAt": "2018-04-29T09:35:43Z",
+				"author": {
+					"name": "Arnab Kumar Shil",
+					"isAnonymous": "false",
+					"username": "disqus_gyYUH5SQcq"
+				},
+				"isClosed": "false",
+				"isDeleted": "false",
+				"_dsq:id": "6641309753"
+			},
+			{
+				"id": "",
+				"forum": "ruddracom",
+				"category": {
+					"_dsq:id": "3978367"
+				},
+				"link": "https://ruddra.com/",
+				"title": "Boilerplate For Angular 1.X and Django(Powered by Webpack2, Docker, Yarn, DRF)",
+				"message": "",
+				"createdAt": "2018-04-29T10:03:23Z",
+				"author": {
+					"name": "Arnab Kumar Shil",
+					"isAnonymous": "false",
+					"username": "disqus_gyYUH5SQcq"
+				},
+				"isClosed": "false",
+				"isDeleted": "false",
+				"_dsq:id": "6641342299"
+			},
+			{
+				"id": "",
+				"forum": "ruddracom",
+				"category": {
+					"_dsq:id": "3978367"
+				},
+				"link": "https://ruddra.com/posts/migrating-to-ghost/",
+				"title": "Migrating To Ghost",
+				"message": "",
+				"createdAt": "2018-04-29T10:31:07Z",
+				"author": {
+					"name": "Arnab Kumar Shil",
+					"isAnonymous": "false",
+					"username": "disqus_gyYUH5SQcq"
+				},
+				"isClosed": "false",
+				"isDeleted": "false",
+				"_dsq:id": "6641376691"
+			},
+			{
+				"id": "",
+				"forum": "ruddracom",
+				"category": {
+					"_dsq:id": "3978367"
+				},
+				"link": "https://ruddra.com/posts/richtext-editor-in-django-admin-site/",
+				"title": "RichText Editor in Django Admin Site",
+				"message": "",
+				"createdAt": "2018-04-29T11:07:13Z",
+				"author": {
+					"name": "Arnab Kumar Shil",
+					"isAnonymous": "false",
+					"username": "disqus_gyYUH5SQcq"
+				},
+				"isClosed": "false",
+				"isDeleted": "false",
+				"_dsq:id": "6641423464"
+			},
+			{
+				"id": "",
+				"forum": "ruddracom",
+				"category": {
+					"_dsq:id": "3978367"
+				},
+				"link": "https://ruddra.com/posts/deploy-django-to-openshift-3/",
+				"title": "Deploy Django to Openshift Powered by MySQL and Gunicorn",
+				"message": "",
+				"createdAt": "2018-04-29T11:18:07Z",
+				"author": {
+					"name": "Arnab Kumar Shil",
+					"isAnonymous": "false",
+					"username": "disqus_gyYUH5SQcq"
+				},
+				"isClosed": "false",
+				"isDeleted": "false",
+				"_dsq:id": "6641437183"
+			},
+			{
+				"id": "",
+				"forum": "ruddracom",
+				"category": {
+					"_dsq:id": "3978367"
+				},
+				"link": "https://ruddra.com/posts/sample-ajax-get-post-request-in-django/",
+				"title": "Sample Ajax GET/POST Request in Django",
+				"message": "",
+				"createdAt": "2018-04-29T11:18:19Z",
+				"author": {
+					"name": "Arnab Kumar Shil",
+					"isAnonymous": "false",
+					"username": "disqus_gyYUH5SQcq"
+				},
+				"isClosed": "false",
+				"isDeleted": "false",
+				"_dsq:id": "6641437464"
+			},
+			{
+				"id": "",
+				"forum": "ruddracom",
+				"category": {
+					"_dsq:id": "3978367"
+				},
+				"link": "https://ruddra.com/posts/bandarban-journey-to-keokaradong/",
+				"title": "Bandarban: Journey to Keokradong",
+				"message": "",
+				"createdAt": "2018-04-29T13:19:04Z",
+				"author": {
+					"name": "Arnab Kumar Shil",
+					"isAnonymous": "false",
+					"username": "disqus_gyYUH5SQcq"
+				},
+				"isClosed": "false",
+				"isDeleted": "false",
+				"_dsq:id": "6641590982"
+			},
+			{
+				"id": "",
+				"forum": "ruddracom",
+				"category": {
+					"_dsq:id": "3978367"
+				},
+				"link": "https://ruddra.com/posts/ubuntu-protip-launching-chrome-apps-at-startup/",
+				"title": "Ubuntu Hacks: Launching Chrome Apps at Startup",
+				"message": "",
+				"createdAt": "2018-04-29T13:22:45Z",
+				"author": {
+					"name": "Arnab Kumar Shil",
+					"isAnonymous": "false",
+					"username": "disqus_gyYUH5SQcq"
+				},
+				"isClosed": "false",
+				"isDeleted": "false",
+				"_dsq:id": "6641596690"
+			},
+			{
+				"id": "",
+				"forum": "ruddracom",
+				"category": {
+					"_dsq:id": "3978367"
+				},
+				"link": "https://ruddra.com/posts/documentation-of-django-encrypt-file/",
+				"title": "Documentation: Django Encrypt File",
+				"message": "",
+				"createdAt": "2018-04-30T00:24:28Z",
+				"author": {
+					"name": "Arnab Kumar Shil",
+					"isAnonymous": "false",
+					"username": "disqus_gyYUH5SQcq"
+				},
+				"isClosed": "false",
+				"isDeleted": "false",
+				"_dsq:id": "6642476661"
+			},
+			{
+				"id": "",
+				"forum": "ruddracom",
+				"category": {
+					"_dsq:id": "3978367"
+				},
+				"link": "https://ruddra.com/posts/make-a-blog-using-django-part-1-2/",
+				"title": "Make a Blog using Django Part 1",
+				"message": "",
+				"createdAt": "2018-04-30T14:17:26Z",
+				"author": {
+					"name": "Arnab Kumar Shil",
+					"isAnonymous": "false",
+					"username": "disqus_gyYUH5SQcq"
+				},
+				"isClosed": "false",
+				"isDeleted": "false",
+				"_dsq:id": "6643568268"
+			},
+			{
+				"id": "",
+				"forum": "ruddracom",
+				"category": {
+					"_dsq:id": "3978367"
+				},
+				"link": "https://ruddra.com/posts/vs-code-for-python-development/",
+				"title": "Using VS Code for Python/Django Development",
+				"message": "",
+				"createdAt": "2018-05-01T19:44:27Z",
+				"author": {
+					"name": "Arnab Kumar Shil",
+					"isAnonymous": "false",
+					"username": "disqus_gyYUH5SQcq"
+				},
+				"isClosed": "false",
+				"isDeleted": "false",
+				"_dsq:id": "6646003366"
+			},
+			{
+				"id": "",
+				"forum": "ruddracom",
+				"category": {
+					"_dsq:id": "3978367"
+				},
+				"link": "https://ruddra.com/posts/migrating-from-ghost-11-to-1-xx-using-docker/",
+				"title": "Migration from Ghost 0.11 to 1.XX Using Docker",
+				"message": "",
+				"createdAt": "2018-05-02T10:41:41Z",
+				"author": {
+					"name": "Arnab Kumar Shil",
+					"isAnonymous": "false",
+					"username": "disqus_gyYUH5SQcq"
+				},
+				"isClosed": "false",
+				"isDeleted": "false",
+				"_dsq:id": "6647029539"
+			},
+			{
+				"id": "",
+				"forum": "ruddracom",
+				"category": {
+					"_dsq:id": "3978367"
+				},
+				"link": "https://ruddra.com/posts/journey-to-bhutan/",
+				"title": "Journey to the Land of Thunder Dragon",
+				"message": "",
+				"createdAt": "2018-05-02T11:13:47Z",
+				"author": {
+					"name": "Arnab Kumar Shil",
+					"isAnonymous": "false",
+					"username": "disqus_gyYUH5SQcq"
+				},
+				"isClosed": "false",
+				"isDeleted": "false",
+				"_dsq:id": "6647069094"
+			},
+			{
+				"id": "",
+				"forum": "ruddracom",
+				"category": {
+					"_dsq:id": "3978367"
+				},
+				"link": "https://ruddra.com/posts/implementation-of-forgot-reset-password-feature-in-django/",
+				"title": "Implementation of 'Forgot/Reset Password' feature in Django",
+				"message": "",
+				"createdAt": "2018-05-04T14:12:46Z",
+				"author": {
+					"name": "Arnab Kumar Shil",
+					"isAnonymous": "false",
+					"username": "disqus_gyYUH5SQcq"
+				},
+				"isClosed": "false",
+				"isDeleted": "false",
+				"_dsq:id": "6651272407"
+			},
+			{
+				"id": "",
+				"forum": "ruddracom",
+				"category": {
+					"_dsq:id": "3978367"
+				},
+				"link": "https://ruddra.com/posts/richtext-editor-in-admin-site/",
+				"title": "RichText Editor in Django Admin Site",
+				"message": "",
+				"createdAt": "2018-05-08T14:37:09Z",
+				"author": {
+					"name": "Arnab Kumar Shil",
+					"isAnonymous": "false",
+					"username": "disqus_gyYUH5SQcq"
+				},
+				"isClosed": "false",
+				"isDeleted": "false",
+				"_dsq:id": "6658994758"
+			},
+			{
+				"id": "",
+				"forum": "ruddracom",
+				"category": {
+					"_dsq:id": "3978367"
+				},
+				"link": "https://ruddra.com/posts/django-translation-using-po-file/",
+				"title": "Django Translation Using .PO File",
+				"message": "",
+				"createdAt": "2018-05-17T10:11:27Z",
+				"author": {
+					"name": "Arnab Kumar Shil",
+					"isAnonymous": "false",
+					"username": "disqus_gyYUH5SQcq"
+				},
+				"isClosed": "false",
+				"isDeleted": "false",
+				"_dsq:id": "6675871054"
+			},
+			{
+				"id": "5b6efc0d2a5e750001e0db89",
+				"forum": "ruddracom",
+				"category": {
+					"_dsq:id": "3978367"
+				},
+				"link": "https://ruddra.com/posts/openshift-python-gunicorn-nginx-jenkins-pipelines/",
+				"title": "Modern CI/CD using Python+Gunicorn+NGINX+Jenkins Pipelines to Openshift (Part One)",
+				"message": "",
+				"createdAt": "2018-08-11T16:38:44Z",
+				"author": {
+					"name": "Arnab Kumar Shil",
+					"isAnonymous": "false",
+					"username": "disqus_gyYUH5SQcq"
+				},
+				"isClosed": "false",
+				"isDeleted": "false",
+				"_dsq:id": "6848148399"
+			},
+			{
+				"id": "5b6f12b62a5e750001e0db93",
+				"forum": "ruddracom",
+				"category": {
+					"_dsq:id": "3978367"
+				},
+				"link": "https://ruddra.com/posts/openshift-python-gunicorn-nginx-jenkins-pipelines-part-two/",
+				"title": "Modern CI/CD using Python+Gunicorn+NGINX+Jenkins Pipelines to Openshift (Part Two)",
+				"message": "",
+				"createdAt": "2018-08-11T19:41:37Z",
+				"author": {
+					"name": "Arnab Kumar Shil",
+					"isAnonymous": "false",
+					"username": "disqus_gyYUH5SQcq"
+				},
+				"isClosed": "false",
+				"isDeleted": "false",
+				"_dsq:id": "6848396113"
+			},
+			{
+				"id": "5b6f3bd02a5e750001e0db9e",
+				"forum": "ruddracom",
+				"category": {
+					"_dsq:id": "3978367"
+				},
+				"link": "https://ruddra.com/posts/gunicorn-nginx-jenkins-pipelines-part-three/",
+				"title": "Modern CI/CD using Python+Gunicorn+NGINX+Jenkins Pipelines to Openshift (Part Three)",
+				"message": "",
+				"createdAt": "2018-08-11T21:36:03Z",
+				"author": {
+					"name": "Arnab Kumar Shil",
+					"isAnonymous": "false",
+					"username": "disqus_gyYUH5SQcq"
+				},
+				"isClosed": "false",
+				"isDeleted": "false",
+				"_dsq:id": "6848537055"
+			},
+			{
+				"id": "",
+				"forum": "ruddracom",
+				"category": {
+					"_dsq:id": "3978367"
+				},
+				"link": "https://ruddra.com/posts/openshift-python-gunicorn-nginx-jenkins-pipelines-part-three/",
+				"title": "Modern CI/CD Using Python+Gunicorn+NGINX+Jenkins Pipeline to Openshift (Part Three)",
+				"message": "",
+				"createdAt": "2018-10-12T16:54:23Z",
+				"author": {
+					"name": "Arnab Kumar Shil",
+					"isAnonymous": "false",
+					"username": "disqus_gyYUH5SQcq"
+				},
+				"isClosed": "false",
+				"isDeleted": "false",
+				"_dsq:id": "6966106703"
+			},
+			{
+				"id": "",
+				"forum": "ruddracom",
+				"category": {
+					"_dsq:id": "3978367"
+				},
+				"link": "https://ruddra.com/posts/django-openshift-pipeline/",
+				"title": "Deploy Django to Openshift Using Jenkins Pipeline(CI/CD)",
+				"message": "",
+				"createdAt": "2018-10-12T16:54:49Z",
+				"author": {
+					"name": "Arnab Kumar Shil",
+					"isAnonymous": "false",
+					"username": "disqus_gyYUH5SQcq"
+				},
+				"isClosed": "false",
+				"isDeleted": "false",
+				"_dsq:id": "6966107355"
+			},
+			{
+				"id": "",
+				"forum": "ruddracom",
+				"category": {
+					"_dsq:id": "3978367"
+				},
+				"link": "https://ruddra.com/posts/bandarban-nafakhum-amiakhum-satbhaikhum/",
+				"title": "[Travel]Bandarban: In Search of Waterfalls",
+				"message": "",
+				"createdAt": "2018-10-12T17:34:53Z",
+				"author": {
+					"name": "Arnab Kumar Shil",
+					"isAnonymous": "false",
+					"username": "disqus_gyYUH5SQcq"
+				},
+				"isClosed": "false",
+				"isDeleted": "false",
+				"_dsq:id": "6966175457"
+			},
+			{
+				"id": "",
+				"forum": "ruddracom",
+				"category": {
+					"_dsq:id": "3978367"
+				},
+				"link": "https://ruddra.com/about/",
+				"title": "About Me",
+				"message": "",
+				"createdAt": "2018-10-12T18:08:21Z",
+				"author": {
+					"name": "Arnab Kumar Shil",
+					"isAnonymous": "false",
+					"username": "disqus_gyYUH5SQcq"
+				},
+				"isClosed": "false",
+				"isDeleted": "false",
+				"_dsq:id": "6966233744"
+			},
+			{
+				"id": "",
+				"forum": "ruddracom",
+				"category": {
+					"_dsq:id": "3978367"
+				},
+				"link": "https://ruddra.com/posts/boilerplate-django-with-angularjs-powered-by-webpack2-yarn-docker-drf/",
+				"title": "Boilerplate For Angular 1.X and Django(Powered by Webpack2, Docker, Yarn, DRF)",
+				"message": "",
+				"createdAt": "2018-10-12T18:35:45Z",
+				"author": {
+					"name": "Arnab Kumar Shil",
+					"isAnonymous": "false",
+					"username": "disqus_gyYUH5SQcq"
+				},
+				"isClosed": "false",
+				"isDeleted": "false",
+				"_dsq:id": "6966281197"
+			},
+			{
+				"id": "",
+				"forum": "ruddracom",
+				"category": {
+					"_dsq:id": "3978367"
+				},
+				"link": "https://ruddra.com/posts/docker-django-nginx-postgres/",
+				"title": "Django+Gunicorn+NGINX+Postgres Using Docker",
+				"message": "",
+				"createdAt": "2018-10-12T18:56:54Z",
+				"author": {
+					"name": "Arnab Kumar Shil",
+					"isAnonymous": "false",
+					"username": "disqus_gyYUH5SQcq"
+				},
+				"isClosed": "false",
+				"isDeleted": "false",
+				"_dsq:id": "6966316310"
+			},
+			{
+				"id": "",
+				"forum": "ruddracom",
+				"category": {
+					"_dsq:id": "3978367"
+				},
+				"link": "http://ruddra.com/posts/openshift-python-gunicorn-nginx-jenkins-pipelines-part-one/",
+				"title": "Deploy A Python App to Openshift: Planning and Preparations",
+				"message": "",
+				"createdAt": "2018-10-12T20:35:34Z",
+				"author": {
+					"name": "Arnab Kumar Shil",
+					"isAnonymous": "false",
+					"username": "disqus_gyYUH5SQcq"
+				},
+				"isClosed": "false",
+				"isDeleted": "false",
+				"_dsq:id": "6966470984"
+			},
+			{
+				"id": "14",
+				"forum": "ruddracom",
+				"category": {
+					"_dsq:id": "3978367"
+				},
+				"link": "http://ruddra.com/posts/how-to-configure-django-tornado-in-pycharm-community-edition/",
+				"title": "How to configure Django/Tornado in PyCharm Community Edition",
+				"message": "",
+				"createdAt": "2018-10-12T20:36:34Z",
+				"author": {
+					"name": "Arnab Kumar Shil",
+					"isAnonymous": "false",
+					"username": "disqus_gyYUH5SQcq"
+				},
+				"isClosed": "false",
+				"isDeleted": "false",
+				"_dsq:id": "6966472443"
+			},
+			{
+				"id": "",
+				"forum": "ruddracom",
+				"category": {
+					"_dsq:id": "3978367"
+				},
+				"link": "http://ruddra.com/projects/",
+				"title": "Open Source Applications by Ruddra",
+				"message": "",
+				"createdAt": "2018-10-12T20:42:02Z",
+				"author": {
+					"name": "Arnab Kumar Shil",
+					"isAnonymous": "false",
+					"username": "disqus_gyYUH5SQcq"
+				},
+				"isClosed": "false",
+				"isDeleted": "false",
+				"_dsq:id": "6966479490"
+			},
+			{
+				"id": "",
+				"forum": "ruddracom",
+				"category": {
+					"_dsq:id": "3978367"
+				},
+				"link": "http://ruddra.com/migration-from-ghost-1-2-to-2-2/",
+				"title": "Migration From Ghost 1.25.2 to 2.2",
+				"message": "",
+				"createdAt": "2018-10-12T20:56:18Z",
+				"author": {
+					"name": "Arnab Kumar Shil",
+					"isAnonymous": "false",
+					"username": "disqus_gyYUH5SQcq"
+				},
+				"isClosed": "false",
+				"isDeleted": "false",
+				"_dsq:id": "6966497345"
+			},
+			{
+				"id": "22",
+				"forum": "ruddracom",
+				"category": {
+					"_dsq:id": "3978367"
+				},
+				"link": "http://ruddra.com/posts/docker-django-nginx-postgres/",
+				"title": "Django+Gunicorn+NGINX+Postgres Using Docker",
+				"message": "",
+				"createdAt": "2018-10-12T20:57:22Z",
+				"author": {
+					"name": "Arnab Kumar Shil",
+					"isAnonymous": "false",
+					"username": "disqus_gyYUH5SQcq"
+				},
+				"isClosed": "false",
+				"isDeleted": "false",
+				"_dsq:id": "6966498588"
+			},
+			{
+				"id": "33",
+				"forum": "ruddracom",
+				"category": {
+					"_dsq:id": "3978367"
+				},
+				"link": "http://ruddra.com/posts/vs-code-for-python-development/",
+				"title": "Using VS Code for Python/Django Development",
+				"message": "",
+				"createdAt": "2018-10-13T06:36:37Z",
+				"author": {
+					"name": "Arnab Kumar Shil",
+					"isAnonymous": "false",
+					"username": "disqus_gyYUH5SQcq"
+				},
+				"isClosed": "false",
+				"isDeleted": "false",
+				"_dsq:id": "6967238317"
+			},
+			{
+				"id": "",
+				"forum": "ruddracom",
+				"category": {
+					"_dsq:id": "3978367"
+				},
+				"link": "http://ruddra.com/posts/control-application-flow-from-redux-middleware/",
+				"title": "Control Application Flow from Redux Middleware using React Router 4",
+				"message": "",
+				"createdAt": "2018-10-13T16:54:17Z",
+				"author": {
+					"name": "Arnab Kumar Shil",
+					"isAnonymous": "false",
+					"username": "disqus_gyYUH5SQcq"
+				},
+				"isClosed": "false",
+				"isDeleted": "false",
+				"_dsq:id": "6968030036"
+			},
+			{
+				"id": "",
+				"forum": "ruddracom",
+				"category": {
+					"_dsq:id": "3978367"
+				},
+				"link": "http://ruddra.com/posts/control-application-flow-from-redux-middleware/",
+				"title": "Control Application Flow from Redux Middleware using React Router 4",
+				"message": "",
+				"createdAt": "2018-10-13T17:31:08Z",
+				"author": {
+					"name": "Arnab Kumar Shil",
+					"isAnonymous": "false",
+					"username": "disqus_gyYUH5SQcq"
+				},
+				"isClosed": "false",
+				"isDeleted": "false",
+				"_dsq:id": "6968089660"
+			},
+			{
+				"id": "",
+				"forum": "ruddracom",
+				"category": {
+					"_dsq:id": "3978367"
+				},
+				"link": "http://ruddra.com/posts/using-react-router-4-from-redux-using-middleware/",
+				"title": "Using React Router 4 from Redux Using Middleware",
+				"message": "",
+				"createdAt": "2018-10-13T18:07:11Z",
+				"author": {
+					"name": "Arnab Kumar Shil",
+					"isAnonymous": "false",
+					"username": "disqus_gyYUH5SQcq"
+				},
+				"isClosed": "false",
+				"isDeleted": "false",
+				"_dsq:id": "6968159410"
+			},
+			{
+				"id": "24",
+				"forum": "ruddracom",
+				"category": {
+					"_dsq:id": "3978367"
+				},
+				"link": "http://ruddra.com/posts/serve-static-files-by-nginx-from-django-using-docker/",
+				"title": "Serve Static Files by Nginx from Django using Docker",
+				"message": "",
+				"createdAt": "2018-10-13T21:20:31Z",
+				"author": {
+					"name": "Arnab Kumar Shil",
+					"isAnonymous": "false",
+					"username": "disqus_gyYUH5SQcq"
+				},
+				"isClosed": "false",
+				"isDeleted": "false",
+				"_dsq:id": "6968438623"
+			},
+			{
+				"id": "19",
+				"forum": "ruddracom",
+				"category": {
+					"_dsq:id": "3978367"
+				},
+				"link": "http://ruddra.com/posts/django-1-7-scrapy/",
+				"title": "Django 1.7 + Scrapy",
+				"message": "",
+				"createdAt": "2018-10-15T16:31:37Z",
+				"author": {
+					"name": "Arnab Kumar Shil",
+					"isAnonymous": "false",
+					"username": "disqus_gyYUH5SQcq"
+				},
+				"isClosed": "false",
+				"isDeleted": "false",
+				"_dsq:id": "6972240074"
+			},
+			{
+				"id": "12",
+				"forum": "ruddracom",
+				"category": {
+					"_dsq:id": "3978367"
+				},
+				"link": "http://ruddra.com/posts/implementation-of-forgot-reset-password-feature-in-django/",
+				"title": "Implementation of 'Forgot/Reset Password' feature in Django",
+				"message": "",
+				"createdAt": "2018-10-17T15:17:12Z",
+				"author": {
+					"name": "Arnab Kumar Shil",
+					"isAnonymous": "false",
+					"username": "disqus_gyYUH5SQcq"
+				},
+				"isClosed": "false",
+				"isDeleted": "false",
+				"_dsq:id": "6976901730"
+			},
+			{
+				"id": "18",
+				"forum": "ruddracom",
+				"category": {
+					"_dsq:id": "3978367"
+				},
+				"link": "http://ruddra.com/posts/make-a-blog-using-django-part-2/",
+				"title": "Make a Blog using Django Part 2",
+				"message": "",
+				"createdAt": "2018-10-18T13:32:38Z",
+				"author": {
+					"name": "Arnab Kumar Shil",
+					"isAnonymous": "false",
+					"username": "disqus_gyYUH5SQcq"
+				},
+				"isClosed": "false",
+				"isDeleted": "false",
+				"_dsq:id": "6978856937"
+			},
+			{
+				"id": "",
+				"forum": "ruddracom",
+				"category": {
+					"_dsq:id": "3978367"
+				},
+				"link": "https://ruddra.com/migrating-from-ghost-11-to-1-xx-using-docker/",
+				"title": "Migration from Ghost 0.11 to 1.XX Using Docker",
+				"message": "",
+				"createdAt": "2018-10-20T19:55:08Z",
+				"author": {
+					"name": "Arnab Kumar Shil",
+					"isAnonymous": "false",
+					"username": "disqus_gyYUH5SQcq"
+				},
+				"isClosed": "false",
+				"isDeleted": "false",
+				"_dsq:id": "6983921572"
+			},
+			{
+				"id": "",
+				"forum": "ruddracom",
+				"category": {
+					"_dsq:id": "3978367"
+				},
+				"link": "https://ruddra.com/docker-django-nginx-postgres/",
+				"title": "Django+Gunicorn+NGINX+Postgres Using Docker",
+				"message": "",
+				"createdAt": "2018-10-20T19:58:08Z",
+				"author": {
+					"name": "Arnab Kumar Shil",
+					"isAnonymous": "false",
+					"username": "disqus_gyYUH5SQcq"
+				},
+				"isClosed": "false",
+				"isDeleted": "false",
+				"_dsq:id": "6983926543"
+			},
+			{
+				"id": "25",
+				"forum": "ruddracom",
+				"category": {
+					"_dsq:id": "3978367"
+				},
+				"link": "http://ruddra.com/posts/docker-do-stuff-using-celery-using-redis-as-broker/",
+				"title": "Docker: Use Celery in Django(Redis as Broker)",
+				"message": "",
+				"createdAt": "2018-11-20T20:09:39Z",
+				"author": {
+					"name": "Arnab Kumar Shil",
+					"isAnonymous": "false",
+					"username": "disqus_gyYUH5SQcq"
+				},
+				"isClosed": "false",
+				"isDeleted": "false",
+				"_dsq:id": "7060538958"
+			}
+		],
+		"post": [
+			{
+				"id": "",
+				"message": "<p>Hi,</p><p>This template throwing the below error.</p><p>Reverse for 'password_reset_confirm' with arguments '()' and keyword arguments '{u'uidb64': 'Mw', u'token': u'4a1-0432bcab41a9fde28f68'}' not found. 0 pattern(s) tried: []</p><p>Please respond as soon as possible..</p><p>Thank you.</p>",
+				"createdAt": "2016-03-08T11:26:05Z",
+				"isDeleted": "false",
+				"isSpam": "false",
+				"author": {
+					"name": "Uma Maheswara Rao Pinninti",
+					"isAnonymous": "false",
+					"username": "umamaheswararaopinninti"
+				},
+				"thread": {
+					"_dsq:id": "6651272407"
+				},
+				"_dsq:id": "2557573360"
+			},
+			{
+				"id": "",
+				"message": "<p>Check this answer, which should solve your problem :) <a href=\"http://stackoverflow.com/questions/30336617/django-1-7-8-not-sending-emails-with-password-reset/30762182#30762182\" rel=\"nofollow noopener\" title=\"http://stackoverflow.com/questions/30336617/django-1-7-8-not-sending-emails-with-password-reset/30762182#30762182\">http://stackoverflow.com/qu...</a></p>",
+				"createdAt": "2016-07-14T17:40:00Z",
+				"isDeleted": "false",
+				"isSpam": "false",
+				"author": {
+					"name": "Arnab Kumar Shil",
+					"isAnonymous": "false",
+					"username": "disqus_gyYUH5SQcq"
+				},
+				"thread": {
+					"_dsq:id": "6651272407"
+				},
+				"parent": {
+					"_dsq:id": "2557573360"
+				},
+				"_dsq:id": "2783268440"
+			},
+			{
+				"id": "",
+				"message": "<p>I'm using Django 1.9 and I had to add</p><p>import django</p><p>django.setup()</p><p>to scrappy <a href=\"http://settings.py\" rel=\"nofollow noopener\" title=\"settings.py\">settings.py</a> for it run. Thanks</p>",
+				"createdAt": "2016-07-22T15:14:51Z",
+				"isDeleted": "false",
+				"isSpam": "false",
+				"author": {
+					"name": "Dário Marcelino",
+					"isAnonymous": "false",
+					"username": "dmarcelino"
+				},
+				"thread": {
+					"_dsq:id": "5064497807"
+				},
+				"_dsq:id": "2797440069"
+			},
+			{
+				"id": "",
+				"message": "<p>I can not see the screenshots..</p>",
+				"createdAt": "2016-10-20T07:05:38Z",
+				"isDeleted": "false",
+				"isSpam": "false",
+				"author": {
+					"name": "Ashutosh",
+					"isAnonymous": "false",
+					"username": "disqus_Tz0gftHKSg"
+				},
+				"thread": {
+					"_dsq:id": "6651272407"
+				},
+				"_dsq:id": "2959798812"
+			},
+			{
+				"id": "",
+				"message": "<p>also i can not see the template code of other templates</p>",
+				"createdAt": "2016-10-20T07:06:33Z",
+				"isDeleted": "false",
+				"isSpam": "false",
+				"author": {
+					"name": "Ashutosh",
+					"isAnonymous": "false",
+					"username": "disqus_Tz0gftHKSg"
+				},
+				"thread": {
+					"_dsq:id": "6651272407"
+				},
+				"_dsq:id": "2959799402"
+			},
+			{
+				"id": "",
+				"message": "<p>Thanks for noticing. I have updated the post :)</p>",
+				"createdAt": "2016-10-21T05:39:14Z",
+				"isDeleted": "false",
+				"isSpam": "false",
+				"author": {
+					"name": "Ruddra",
+					"isAnonymous": "false",
+					"username": "skyrudy"
+				},
+				"thread": {
+					"_dsq:id": "6651272407"
+				},
+				"parent": {
+					"_dsq:id": "2959799402"
+				},
+				"_dsq:id": "2961691630"
+			},
+			{
+				"id": "",
+				"message": "<p>i have tried the your by cloning it from from repo . on gunicron --bind my i am putting my server ip . its not working .please help</p>",
+				"createdAt": "2016-11-04T12:41:46Z",
+				"isDeleted": "true",
+				"isSpam": "false",
+				"author": {
+					"name": "Sidhartha Mahato",
+					"isAnonymous": "false",
+					"username": "sidharthamahato"
+				},
+				"thread": {
+					"_dsq:id": "6966316310"
+				},
+				"_dsq:id": "2984437734"
+			},
+			{
+				"id": "",
+				"message": "<p>i have tried the example by cloneing the project directly on server but on (gunicorn --bind) i have replaced the localhost with my server ip .but its showing \"invalid address\" error . i have attached the screenshot ,please check and help !! <a href=\"https://uploads.disquscdn.com/images/5f8a4ae195c8b334c680a890624beaf384b40371b9ad197a2ac7d9bb3dcbd4bb.png\" rel=\"nofollow noopener\" title=\"https://uploads.disquscdn.com/images/5f8a4ae195c8b334c680a890624beaf384b40371b9ad197a2ac7d9bb3dcbd4bb.png\">https://uploads.disquscdn.c...</a></p>",
+				"createdAt": "2016-11-04T12:45:01Z",
+				"isDeleted": "false",
+				"isSpam": "false",
+				"author": {
+					"name": "Sidhartha Mahato",
+					"isAnonymous": "false",
+					"username": "sidharthamahato"
+				},
+				"thread": {
+					"_dsq:id": "6966316310"
+				},
+				"_dsq:id": "2984441647"
+			},
+			{
+				"id": "",
+				"message": "<p>Hi, thank you for mentioning the issue. I have updated the master branch of the github repo with a fix, it should solve the issue. :) Hope it helps.</p>",
+				"createdAt": "2016-11-04T16:19:12Z",
+				"isDeleted": "false",
+				"isSpam": "false",
+				"author": {
+					"name": "Ruddra",
+					"isAnonymous": "false",
+					"username": "skyrudy"
+				},
+				"thread": {
+					"_dsq:id": "6966316310"
+				},
+				"parent": {
+					"_dsq:id": "2984441647"
+				},
+				"_dsq:id": "2984764951"
+			},
+			{
+				"id": "",
+				"message": "<p>Sir can you provide some tutorials on saltstack ?</p>",
+				"createdAt": "2016-11-14T17:53:05Z",
+				"isDeleted": "false",
+				"isSpam": "false",
+				"author": {
+					"name": "Sidhartha Mahato",
+					"isAnonymous": "false",
+					"username": "sidharthamahato"
+				},
+				"thread": {
+					"_dsq:id": "6966316310"
+				},
+				"parent": {
+					"_dsq:id": "2984764951"
+				},
+				"_dsq:id": "3001862848"
+			},
+			{
+				"id": "",
+				"message": "<p>In your docker file 4th step is giving error.Please change it from<br>ADD requirements.pip /config/  <br>to <br>ADD config/requirements.pip /config/</p>",
+				"createdAt": "2016-11-18T11:28:33Z",
+				"isDeleted": "false",
+				"isSpam": "false",
+				"author": {
+					"name": "Chirag Gupta",
+					"isAnonymous": "false",
+					"username": "disqus_QG5VDVJJ2G"
+				},
+				"thread": {
+					"_dsq:id": "6966316310"
+				},
+				"_dsq:id": "3008186600"
+			},
+			{
+				"id": "",
+				"message": "<p>Hi,<br>I use non standard settings file. How can I configure Pycharm community to run Django project with it?</p>",
+				"createdAt": "2016-11-21T00:37:37Z",
+				"isDeleted": "false",
+				"isSpam": "true",
+				"author": {
+					"name": "Hunting",
+					"isAnonymous": "false",
+					"username": "disqus_laZ2qJkPY1"
+				},
+				"thread": {
+					"_dsq:id": "6641280255"
+				},
+				"_dsq:id": "3012239664"
+			},
+			{
+				"id": "",
+				"message": "<p>Thanks for noticing. Updated post :) .</p>",
+				"createdAt": "2016-11-21T15:47:58Z",
+				"isDeleted": "false",
+				"isSpam": "false",
+				"author": {
+					"name": "Ruddra",
+					"isAnonymous": "false",
+					"username": "skyrudy"
+				},
+				"thread": {
+					"_dsq:id": "6966316310"
+				},
+				"parent": {
+					"_dsq:id": "3008186600"
+				},
+				"_dsq:id": "3013144487"
+			},
+			{
+				"id": "",
+				"message": "<p>I am not really familiar with saltstack. But if I get familiar, I will do some tutorials upon it.</p>",
+				"createdAt": "2016-11-21T15:49:17Z",
+				"isDeleted": "false",
+				"isSpam": "false",
+				"author": {
+					"name": "Ruddra",
+					"isAnonymous": "false",
+					"username": "skyrudy"
+				},
+				"thread": {
+					"_dsq:id": "6966316310"
+				},
+				"parent": {
+					"_dsq:id": "3001862848"
+				},
+				"_dsq:id": "3013146500"
+			},
+			{
+				"id": "",
+				"message": "<p><a href=\"https://uploads.disquscdn.com/images/8942b32e1fe88c887c81e14a4df9b76eb861ace9edb381df1bd2da6d2cdc9267.png\" rel=\"nofollow noopener\" title=\"https://uploads.disquscdn.com/images/8942b32e1fe88c887c81e14a4df9b76eb861ace9edb381df1bd2da6d2cdc9267.png\">https://uploads.disquscdn.c...</a>  <a href=\"https://uploads.disquscdn.com/images/6369dccd8ee55642a1218ebd34b1fcf00c0e3e6eb632e2c54d4c615b887b6e17.png\" rel=\"nofollow noopener\" title=\"https://uploads.disquscdn.com/images/6369dccd8ee55642a1218ebd34b1fcf00c0e3e6eb632e2c54d4c615b887b6e17.png\">https://uploads.disquscdn.c...</a></p>",
+				"createdAt": "2016-11-23T05:09:14Z",
+				"isDeleted": "true",
+				"isSpam": "false",
+				"author": {
+					"name": "Sidhartha Mahato",
+					"isAnonymous": "false",
+					"username": "sidharthamahato"
+				},
+				"thread": {
+					"_dsq:id": "6966316310"
+				},
+				"parent": {
+					"_dsq:id": "3013146500"
+				},
+				"_dsq:id": "3016072919"
+			},
+			{
+				"id": "",
+				"message": "<p>I have tried the latest code . I have only replaced the \"src\" with my django project . As i am trying host it on digital ocean server i have replaced \"gunicorn bind \" with my server ip .but it is giving error  and i have changed  the server name to my digital ocean ip address in nginx configuration file . Please help !! <a href=\"https://uploads.disquscdn.com/images/8942b32e1fe88c887c81e14a4df9b76eb861ace9edb381df1bd2da6d2cdc9267.png\" rel=\"nofollow noopener\" title=\"https://uploads.disquscdn.com/images/8942b32e1fe88c887c81e14a4df9b76eb861ace9edb381df1bd2da6d2cdc9267.png\">https://uploads.disquscdn.c...</a>  <a href=\"https://uploads.disquscdn.com/images/6369dccd8ee55642a1218ebd34b1fcf00c0e3e6eb632e2c54d4c615b887b6e17.png\" rel=\"nofollow noopener\" title=\"https://uploads.disquscdn.com/images/6369dccd8ee55642a1218ebd34b1fcf00c0e3e6eb632e2c54d4c615b887b6e17.png\">https://uploads.disquscdn.c...</a></p>",
+				"createdAt": "2016-11-23T05:10:45Z",
+				"isDeleted": "false",
+				"isSpam": "false",
+				"author": {
+					"name": "Sidhartha Mahato",
+					"isAnonymous": "false",
+					"username": "sidharthamahato"
+				},
+				"thread": {
+					"_dsq:id": "6966316310"
+				},
+				"_dsq:id": "3016074116"
+			},
+			{
+				"id": "",
+				"message": "<p>Thank You! is very useful.</p>",
+				"createdAt": "2016-12-11T09:08:16Z",
+				"isDeleted": "false",
+				"isSpam": "false",
+				"author": {
+					"name": "Alex",
+					"isAnonymous": "false",
+					"username": "disqus_2wGoaCfpnI"
+				},
+				"thread": {
+					"_dsq:id": "6651272407"
+				},
+				"_dsq:id": "3046596299"
+			},
+			{
+				"id": "",
+				"message": "<p>Awesome Tutorial, but I can't reach my web page. On the web logs It seems that Gunicorn is working normally.<br>django01 | [2017-01-16 00:40:22 +0000] [9] [INFO] Starting gunicorn 19.6.0<br>django01 | [2017-01-16 00:40:22 +0000] [9] [INFO] Listening at: http://0.0.0.0:8000 (9)<br>django01 | [2017-01-16 00:40:22 +0000] [9] [INFO] Using worker: sync<br>django01 | [2017-01-16 00:40:23 +0000] [12] [INFO] Booting worker with pid: 12</p><p>But my Nginx logs only says: Attaching to nginx01</p><p>I didn't create a /config/ folder, just created a django.conf file and in my docker-compose.yml I changed volumes to:<br>volumes:<br>      - ./src:/src<br>      - ./nginx:/etc/nginx/conf.d</p><p>Don't know whats wrong :(</p>",
+				"createdAt": "2017-01-16T00:50:23Z",
+				"isDeleted": "false",
+				"isSpam": "false",
+				"author": {
+					"name": "Salun Marvin",
+					"isAnonymous": "false",
+					"username": "salunmarvin"
+				},
+				"thread": {
+					"_dsq:id": "6966316310"
+				},
+				"_dsq:id": "3101521292"
+			},
+			{
+				"id": "",
+				"message": "<p>Well, just changed my structure just to follow yours, and It worked! Thanks, I'll try to see what was wrong with my structure. <br>Now I'm getting a 502 Bad Gateway error, I'll try to figure it out.</p>",
+				"createdAt": "2017-01-16T01:19:09Z",
+				"isDeleted": "false",
+				"isSpam": "false",
+				"author": {
+					"name": "Salun Marvin",
+					"isAnonymous": "false",
+					"username": "salunmarvin"
+				},
+				"thread": {
+					"_dsq:id": "6966316310"
+				},
+				"parent": {
+					"_dsq:id": "3101521292"
+				},
+				"_dsq:id": "3101552755"
+			},
+			{
+				"id": "",
+				"message": "<p>Me again: put my container IP on \"allowed-hosts\" in <a href=\"http://settings.py\" rel=\"nofollow noopener\" title=\"settings.py\">settings.py</a>, and It's done!</p>",
+				"createdAt": "2017-01-16T01:23:00Z",
+				"isDeleted": "false",
+				"isSpam": "false",
+				"author": {
+					"name": "Salun Marvin",
+					"isAnonymous": "false",
+					"username": "salunmarvin"
+				},
+				"thread": {
+					"_dsq:id": "6966316310"
+				},
+				"parent": {
+					"_dsq:id": "3101552755"
+				},
+				"_dsq:id": "3101556975"
+			},
+			{
+				"id": "",
+				"message": "<p>Hi ,</p><p>Where is this method get_model_class() defined?</p>",
+				"createdAt": "2017-01-18T12:06:24Z",
+				"isDeleted": "false",
+				"isSpam": "false",
+				"author": {
+					"name": "Gopinath Rasu",
+					"isAnonymous": "false",
+					"username": "gopinathrasu"
+				},
+				"thread": {
+					"_dsq:id": "4140568708"
+				},
+				"_dsq:id": "3105704605"
+			},
+			{
+				"id": "",
+				"message": "<p>Hi Sidhartha, Sorry for late response. You should not replace the server and upstream name. You should keep it as it is said in the tutorial. :)</p>",
+				"createdAt": "2017-01-20T19:20:32Z",
+				"isDeleted": "false",
+				"isSpam": "false",
+				"author": {
+					"name": "Ruddra",
+					"isAnonymous": "false",
+					"username": "skyrudy"
+				},
+				"thread": {
+					"_dsq:id": "6966316310"
+				},
+				"parent": {
+					"_dsq:id": "3016074116"
+				},
+				"_dsq:id": "3110125596"
+			},
+			{
+				"id": "",
+				"message": "<p>Great article, very useful! However, I cannot find django/contrib/admin/templates/registration/password_reset_subject.txt</p>",
+				"createdAt": "2017-02-01T17:13:28Z",
+				"isDeleted": "false",
+				"isSpam": "false",
+				"author": {
+					"name": "Aswa",
+					"isAnonymous": "false",
+					"username": "disqus_xqOZIrCh3U"
+				},
+				"thread": {
+					"_dsq:id": "6651272407"
+				},
+				"_dsq:id": "3132342514"
+			},
+			{
+				"id": "",
+				"message": "<p>you have to write it yourself i think. Create a folder named registration in your template folder and add the file inside of the folder</p>",
+				"createdAt": "2017-02-07T05:13:48Z",
+				"isDeleted": "false",
+				"isSpam": "false",
+				"author": {
+					"name": "m1ckaveli",
+					"isAnonymous": "false",
+					"username": "m1ckaveli"
+				},
+				"thread": {
+					"_dsq:id": "6651272407"
+				},
+				"parent": {
+					"_dsq:id": "3132342514"
+				},
+				"_dsq:id": "3141340695"
+			},
+			{
+				"id": "",
+				"message": "<p>hello, good stuff indeed, but I face problems deploying the very same thing on another server. What changes do you think need to be done to the nginx.conf file for the same?</p>",
+				"createdAt": "2017-02-07T18:17:13Z",
+				"isDeleted": "false",
+				"isSpam": "false",
+				"author": {
+					"name": "Sumit Khanna",
+					"isAnonymous": "false",
+					"username": "disqus_FgyPjpxfyG"
+				},
+				"thread": {
+					"_dsq:id": "6966316310"
+				},
+				"_dsq:id": "3142687259"
+			},
+			{
+				"id": "",
+				"message": "<p>Hello Ruddra, I was trying to configure the django in pycharm commuity edition 2016.3 , i have tried above steps, after that how do i create fresh project using django template moreover I don't see the django template in pycharm.<br>How do i achieve this in order to create a fresh project.</p><p>In case django cant be seen as template in pycharm then how do i create project files manually?</p>",
+				"createdAt": "2017-03-12T14:08:06Z",
+				"isDeleted": "false",
+				"isSpam": "false",
+				"author": {
+					"name": "Anith Raj",
+					"isAnonymous": "false",
+					"username": "anithraj"
+				},
+				"thread": {
+					"_dsq:id": "6641280255"
+				},
+				"_dsq:id": "3200354568"
+			},
+			{
+				"id": "",
+				"message": "<p>What parts of the setup need to change so that nGinx is available on port 80 to the \"outside world\" but gunicorn still keeps using port 8000?</p>",
+				"createdAt": "2017-03-18T13:09:17Z",
+				"isDeleted": "false",
+				"isSpam": "false",
+				"author": {
+					"name": "gamesbook",
+					"isAnonymous": "false",
+					"username": "gamesbook"
+				},
+				"thread": {
+					"_dsq:id": "6966316310"
+				},
+				"_dsq:id": "3210365775"
+			},
+			{
+				"id": "",
+				"message": "<p>You need to change in `server` section</p>",
+				"createdAt": "2017-03-18T13:15:50Z",
+				"isDeleted": "false",
+				"isSpam": "false",
+				"author": {
+					"name": "Ruddra",
+					"isAnonymous": "false",
+					"username": "skyrudy"
+				},
+				"thread": {
+					"_dsq:id": "6966316310"
+				},
+				"parent": {
+					"_dsq:id": "3210365775"
+				},
+				"_dsq:id": "3210372347"
+			},
+			{
+				"id": "",
+				"message": "<p>Try adding project root in settings&gt;Project&gt;Project Structure&gt; Add new root</p>",
+				"createdAt": "2017-03-18T13:18:01Z",
+				"isDeleted": "false",
+				"isSpam": "false",
+				"author": {
+					"name": "Ruddra",
+					"isAnonymous": "false",
+					"username": "skyrudy"
+				},
+				"thread": {
+					"_dsq:id": "6641280255"
+				},
+				"parent": {
+					"_dsq:id": "3200354568"
+				},
+				"_dsq:id": "3210374517"
+			},
+			{
+				"id": "",
+				"message": "<p>Cool!! :)</p>",
+				"createdAt": "2017-03-18T13:18:55Z",
+				"isDeleted": "false",
+				"isSpam": "false",
+				"author": {
+					"name": "Ruddra",
+					"isAnonymous": "false",
+					"username": "skyrudy"
+				},
+				"thread": {
+					"_dsq:id": "6966316310"
+				},
+				"parent": {
+					"_dsq:id": "3101556975"
+				},
+				"_dsq:id": "3210375451"
+			},
+			{
+				"id": "",
+				"message": "<p>docker exec dg01 bash -c \"python <a href=\"http://manage.py\" rel=\"nofollow noopener\" title=\"manage.py\">manage.py</a> collectstatic --noinput\"</p><p>This worked for me, not the collectstatic command in the guide</p>",
+				"createdAt": "2017-03-20T23:17:21Z",
+				"isDeleted": "false",
+				"isSpam": "false",
+				"author": {
+					"name": "Luis Naranjo",
+					"isAnonymous": "false",
+					"username": "disqus_NRx0k3reSp"
+				},
+				"thread": {
+					"_dsq:id": "6641304912"
+				},
+				"_dsq:id": "3214192144"
+			},
+			{
+				"id": "",
+				"message": "<p>just kidding this still doesn't work for me</p>",
+				"createdAt": "2017-03-21T01:13:15Z",
+				"isDeleted": "false",
+				"isSpam": "false",
+				"author": {
+					"name": "Luis Naranjo",
+					"isAnonymous": "false",
+					"username": "disqus_NRx0k3reSp"
+				},
+				"thread": {
+					"_dsq:id": "6641304912"
+				},
+				"parent": {
+					"_dsq:id": "3214192144"
+				},
+				"_dsq:id": "3214340664"
+			},
+			{
+				"id": "",
+				"message": "<p>what is the username and password</p>",
+				"createdAt": "2017-03-22T16:31:25Z",
+				"isDeleted": "false",
+				"isSpam": "false",
+				"author": {
+					"name": "sravani",
+					"isAnonymous": "false",
+					"username": "disqus_DzDnI3BlJd"
+				},
+				"thread": {
+					"_dsq:id": "6651272407"
+				},
+				"_dsq:id": "3217234054"
+			},
+			{
+				"id": "",
+				"message": "<p>My requirement.txt is containing lots of libraries ,So while creating the virtualenv most of the time it gives error,So \"RUN pip install -r /config/requirements.pip  \" this step fails for me .how to resolve ?</p>",
+				"createdAt": "2017-03-27T05:30:23Z",
+				"isDeleted": "false",
+				"isSpam": "false",
+				"author": {
+					"name": "Sidhartha Mahato",
+					"isAnonymous": "false",
+					"username": "sidharthamahato"
+				},
+				"thread": {
+					"_dsq:id": "6966316310"
+				},
+				"_dsq:id": "3225247320"
+			},
+			{
+				"id": "",
+				"message": "<p>I haven't faced this issue yet. For now, I think you can split the requirements.pip into multiple files and run them one after another. Hope that will resolve the issue.</p>",
+				"createdAt": "2017-03-29T04:08:22Z",
+				"isDeleted": "false",
+				"isSpam": "false",
+				"author": {
+					"name": "Ruddra",
+					"isAnonymous": "false",
+					"username": "skyrudy"
+				},
+				"thread": {
+					"_dsq:id": "6966316310"
+				},
+				"parent": {
+					"_dsq:id": "3225247320"
+				},
+				"_dsq:id": "3228821350"
+			},
+			{
+				"id": "",
+				"message": "<p>You can create user in your system and use the user's username and password</p>",
+				"createdAt": "2017-03-29T08:00:28Z",
+				"isDeleted": "false",
+				"isSpam": "false",
+				"author": {
+					"name": "Ruddra",
+					"isAnonymous": "false",
+					"username": "skyrudy"
+				},
+				"thread": {
+					"_dsq:id": "6651272407"
+				},
+				"parent": {
+					"_dsq:id": "3217234054"
+				},
+				"_dsq:id": "3228987868"
+			},
+			{
+				"id": "",
+				"message": "<p>@disqus_NRx0k3reSp:disqus from where you have your .yml file try running: docker-compose run &lt;django_container_name&gt; python <a href=\"http://manage.py\" rel=\"nofollow noopener\" title=\"manage.py\">manage.py</a> collectstatic.</p><p>This might also help: <a href=\"https://docs.docker.com/compose/production/#modify-your-compose-file-for-production\" rel=\"nofollow noopener\" title=\"https://docs.docker.com/compose/production/#modify-your-compose-file-for-production\">https://docs.docker.com/com...</a></p><p>bon chance</p>",
+				"createdAt": "2017-03-30T11:33:47Z",
+				"isDeleted": "false",
+				"isSpam": "false",
+				"author": {
+					"name": "Mohamed Amr Elgeneidy",
+					"isAnonymous": "false",
+					"username": "mohamedamrelgeneidy"
+				},
+				"thread": {
+					"_dsq:id": "6641304912"
+				},
+				"_dsq:id": "3231309627"
+			},
+			{
+				"id": "",
+				"message": "<p>Thanks alot for you post!</p>",
+				"createdAt": "2017-03-31T17:00:09Z",
+				"isDeleted": "false",
+				"isSpam": "false",
+				"author": {
+					"name": "Rohini Chaudhary",
+					"isAnonymous": "false",
+					"username": "rohini_chaudhary"
+				},
+				"thread": {
+					"_dsq:id": "6966316310"
+				},
+				"_dsq:id": "3233553840"
+			},
+			{
+				"id": "",
+				"message": "<p>Nice information about django Thanks for sharing it<br><a href=\"http://www.besanttechnologies.com/training-courses/python-training-institute-in-chennai\" rel=\"nofollow noopener\" title=\"http://www.besanttechnologies.com/training-courses/python-training-institute-in-chennai\"> Python Training in Chennai </a></p>",
+				"createdAt": "2017-04-07T07:37:15Z",
+				"isDeleted": "false",
+				"isSpam": "true",
+				"author": {
+					"name": "inigojoseph",
+					"isAnonymous": "false",
+					"username": "disqus_Sm6nzA9UGL"
+				},
+				"thread": {
+					"_dsq:id": "6643568268"
+				},
+				"_dsq:id": "3244331350"
+			},
+			{
+				"id": "",
+				"message": "<p>Another <a href=\"https://github.com/pahaz/docker-compose-django-postgresql-redis-example\" rel=\"nofollow noopener\" title=\"https://github.com/pahaz/docker-compose-django-postgresql-redis-example\">Django + PostgreSQL + Nginx + Redis + Celery + WebSocket server</a> example</p>",
+				"createdAt": "2017-04-11T18:24:48Z",
+				"isDeleted": "false",
+				"isSpam": "false",
+				"author": {
+					"name": "disqus_iJAJ3VREVG",
+					"isAnonymous": "false",
+					"username": "disqus_iJAJ3VREVG"
+				},
+				"thread": {
+					"_dsq:id": "6966316310"
+				},
+				"_dsq:id": "3251262331"
+			},
+			{
+				"id": "",
+				"message": "<p>Thank you for the post!<br>The tutorial might be changed(Apr.2017) since you wrote this post: <a href=\"https://docs.docker.com/compose/django/\" rel=\"nofollow noopener\" title=\"https://docs.docker.com/compose/django/\">https://docs.docker.com/com...</a><br>I have made it work reading your post. Here is my repo:<br><a href=\"https://github.com/wataruoguchi/setup_app/tree/master/docker_compose\" rel=\"nofollow noopener\" title=\"https://github.com/wataruoguchi/setup_app/tree/master/docker_compose\">https://github.com/wataruog...</a></p><p>Again, thank you so much!</p>",
+				"createdAt": "2017-04-12T09:09:31Z",
+				"isDeleted": "false",
+				"isSpam": "false",
+				"author": {
+					"name": "Wataru Oguchi",
+					"isAnonymous": "false",
+					"username": "wataruoguchi"
+				},
+				"thread": {
+					"_dsq:id": "6966316310"
+				},
+				"_dsq:id": "3252272048"
+			},
+			{
+				"id": "",
+				"message": "<p>Thanks a lot for this post, it´s much better than the official one, I am totally new on this and I have a question (maybe it´s a silly question). When you setup Django with PostgreSQL each one has to be on it´s own server or virtual machine, I am trying to setup this but I am getting errors:</p><p>could not connect to server: Connection refused<br>web_1  | Is the server running on host \"localhost\" (127.0.0.1) and accepting<br>web_1  | TCP/IP connections on port 5432?</p>",
+				"createdAt": "2017-05-26T05:44:25Z",
+				"isDeleted": "false",
+				"isSpam": "false",
+				"author": {
+					"name": "Jesus",
+					"isAnonymous": "false",
+					"username": "Gzuz07"
+				},
+				"thread": {
+					"_dsq:id": "6966316310"
+				},
+				"_dsq:id": "3325382029"
+			},
+			{
+				"id": "",
+				"message": "<p>I finally made it work!, thanks again!, I have just a little problem, how can I run the migrations? because if I write makemigrations without docker (just python <a href=\"http://manage.py\" rel=\"nofollow noopener\" title=\"manage.py\">manage.py</a> makemigrations) I am getting an error because 'HOST': 'db' is not found</p>",
+				"createdAt": "2017-05-28T17:38:53Z",
+				"isDeleted": "false",
+				"isSpam": "false",
+				"author": {
+					"name": "Jesus",
+					"isAnonymous": "false",
+					"username": "Gzuz07"
+				},
+				"thread": {
+					"_dsq:id": "6966316310"
+				},
+				"_dsq:id": "3328943339"
+			},
+			{
+				"id": "",
+				"message": "<p>Hi, sorry I couldn't reply on your earlier comment. Anyways, you have go to the docker's shell and run this command. Run `docker exec -ti web bash` and go to the directory containing <a href=\"http://manage.py\" rel=\"nofollow noopener\" title=\"manage.py\">manage.py</a> and run the migration commands. Hope it helps</p>",
+				"createdAt": "2017-05-28T17:42:02Z",
+				"isDeleted": "false",
+				"isSpam": "false",
+				"author": {
+					"name": "Ruddra",
+					"isAnonymous": "false",
+					"username": "skyrudy"
+				},
+				"thread": {
+					"_dsq:id": "6966316310"
+				},
+				"parent": {
+					"_dsq:id": "3328943339"
+				},
+				"_dsq:id": "3328947425"
+			},
+			{
+				"id": "",
+				"message": "<p>Thank you very much Ruddra!</p>",
+				"createdAt": "2017-06-01T22:20:13Z",
+				"isDeleted": "false",
+				"isSpam": "false",
+				"author": {
+					"name": "Jesus",
+					"isAnonymous": "false",
+					"username": "Gzuz07"
+				},
+				"thread": {
+					"_dsq:id": "6966316310"
+				},
+				"parent": {
+					"_dsq:id": "3328947425"
+				},
+				"_dsq:id": "3336060972"
+			},
+			{
+				"id": "",
+				"message": "<p>after adding new root  what should we have to do please guide because i m new in django and python</p>",
+				"createdAt": "2017-06-09T08:21:18Z",
+				"isDeleted": "false",
+				"isSpam": "false",
+				"author": {
+					"name": "Saraswati Sonani",
+					"isAnonymous": "false",
+					"username": "saraswatisonani"
+				},
+				"thread": {
+					"_dsq:id": "6641280255"
+				},
+				"_dsq:id": "3349797504"
+			},
+			{
+				"id": "",
+				"message": "<p>You just need to run the project from the Play Icon on the top bar of pycharm. Check <a href=\"https://www.jetbrains.com/help/pycharm/run-debug-configuration.html\" rel=\"nofollow noopener\" title=\"https://www.jetbrains.com/help/pycharm/run-debug-configuration.html\">https://www.jetbrains.com/h...</a>, <a href=\"https://stackoverflow.com/questions/20877106/using-intellijidea-within-an-existing-virtualenv\" rel=\"nofollow noopener\" title=\"https://stackoverflow.com/questions/20877106/using-intellijidea-within-an-existing-virtualenv\">https://stackoverflow.com/q...</a> and</p>",
+				"createdAt": "2017-06-11T03:38:30Z",
+				"isDeleted": "false",
+				"isSpam": "false",
+				"author": {
+					"name": "Ruddra",
+					"isAnonymous": "false",
+					"username": "skyrudy"
+				},
+				"thread": {
+					"_dsq:id": "6641280255"
+				},
+				"parent": {
+					"_dsq:id": "3349797504"
+				},
+				"_dsq:id": "3353186509"
+			},
+			{
+				"id": "",
+				"message": "<p>Thank you very much Rudra</p>",
+				"createdAt": "2017-06-14T08:08:12Z",
+				"isDeleted": "false",
+				"isSpam": "false",
+				"author": {
+					"name": "Saraswati Sonani",
+					"isAnonymous": "false",
+					"username": "saraswatisonani"
+				},
+				"thread": {
+					"_dsq:id": "6641280255"
+				},
+				"_dsq:id": "3359354403"
+			},
+			{
+				"id": "",
+				"message": "<p>Hello Ruddra, I was trying to configure the django in pycharm commuity <br>edition 2016.3 , i have tried above steps, after that how do i create <br>fresh project using django template moreover I don't see the django <br>template in pycharm.<br>How do i achieve this in order to create a fresh project.</p>",
+				"createdAt": "2017-06-14T08:09:13Z",
+				"isDeleted": "false",
+				"isSpam": "false",
+				"author": {
+					"name": "Saraswati Sonani",
+					"isAnonymous": "false",
+					"username": "saraswatisonani"
+				},
+				"thread": {
+					"_dsq:id": "6641280255"
+				},
+				"_dsq:id": "3359356925"
+			},
+			{
+				"id": "",
+				"message": "<p>I'm getting an error : ModuleNotFoundError: No module named 'utility', with celery, why is that ?</p>",
+				"createdAt": "2017-06-15T17:52:27Z",
+				"isDeleted": "false",
+				"isSpam": "false",
+				"author": {
+					"name": "R3SE",
+					"isAnonymous": "false",
+					"username": "R3SE"
+				},
+				"thread": {
+					"_dsq:id": "6641263602"
+				},
+				"_dsq:id": "3363748471"
+			},
+			{
+				"id": "",
+				"message": "<p>Pycharm community edition doesn't support template/html coding. You can use other IDE like Atom or VSCode for it. And rather than creating django project using Pycharm, I think you can create it more simply by running this command `<a href=\"http://django-admin.py\" rel=\"nofollow noopener\" title=\"django-admin.py\">django-admin.py</a> startproject myproject`, then import it in given instructions.</p>",
+				"createdAt": "2017-06-17T10:15:02Z",
+				"isDeleted": "false",
+				"isSpam": "false",
+				"author": {
+					"name": "Ruddra",
+					"isAnonymous": "false",
+					"username": "skyrudy"
+				},
+				"thread": {
+					"_dsq:id": "6641280255"
+				},
+				"parent": {
+					"_dsq:id": "3359356925"
+				},
+				"_dsq:id": "3366485597"
+			},
+			{
+				"id": "",
+				"message": "<p>Did you solved it?</p>",
+				"createdAt": "2017-06-22T01:53:49Z",
+				"isDeleted": "false",
+				"isSpam": "false",
+				"author": {
+					"name": "SalahAdDinYusuf",
+					"isAnonymous": "false",
+					"username": "SalahAdDinYusuf"
+				},
+				"thread": {
+					"_dsq:id": "6641304912"
+				},
+				"parent": {
+					"_dsq:id": "3214340664"
+				},
+				"_dsq:id": "3377569059"
+			},
+			{
+				"id": "",
+				"message": "<p>Hello Ruddra, I´ve been working only with Django and Postgress so far, I followed your tutorial before and it helped me a lot, now I am about to integrate gunicorn and Nginx, but I noticed your docker-compose file uses version: \"2\", is there a difference if I am using version 3? I guess the part that says</p><p>command: bash -c \"python <a href=\"http://manage.py\" rel=\"nofollow noopener\" title=\"manage.py\">manage.py</a> makemigrations &amp;&amp; python <a href=\"http://manage.py\" rel=\"nofollow noopener\" title=\"manage.py\">manage.py</a> migrate &amp;&amp; gunicorn mydjango.wsgi -b 0.0.0.0:8000\"</p><p>I am going to get it from the DOCKERFILE through an image, and I have seen in some tutorials they use a file called entrypoint (which I don´t really understand but can learn if this is the right path)</p><p>Another question is, I have been looking and comparing different tutorials, and sometimes in the DOCKERFILE I see from Ubuntu 14.02 (or any version) and sometimes I see from Python 3.6 (or any version), why is this? I am really new at this so excuse me if this is a silly question</p>",
+				"createdAt": "2017-06-29T06:08:17Z",
+				"isDeleted": "false",
+				"isSpam": "false",
+				"author": {
+					"name": "Jesus",
+					"isAnonymous": "false",
+					"username": "Gzuz07"
+				},
+				"thread": {
+					"_dsq:id": "6966316310"
+				},
+				"_dsq:id": "3391011974"
+			},
+			{
+				"id": "",
+				"message": "<p>1:  This does not seem to work:<br>pip install djangoencryptfile</p><p>2: Bug here?:<br>open('<a href=\"http://readme.md\" rel=\"nofollow noopener\" title=\"readme.md\">readme.md</a>', 'rb') as inputfile: <br>should this be:<br>with open('<a href=\"http://readme.md\" rel=\"nofollow noopener\" title=\"readme.md\">readme.md</a>', 'rb') as inputfile:</p><p>3:  Another bug here<br>usefile = File(inputfile, name='<a href=\"http://readme.md\" rel=\"nofollow noopener\" title=\"readme.md\">readme.md</a>')<br>    encrypted_file = service.encrypt_file(useFile, password, extension='enc')  #</p><p>case mismatch between usefile and useFile</p>",
+				"createdAt": "2017-07-07T20:39:41Z",
+				"isDeleted": "false",
+				"isSpam": "false",
+				"author": {
+					"name": "Steve",
+					"isAnonymous": "false",
+					"username": "disqus_KTNaRdIzUs"
+				},
+				"thread": {
+					"_dsq:id": "6642476661"
+				},
+				"_dsq:id": "3405211298"
+			},
+			{
+				"id": "",
+				"message": "<p>DockerFile?</p>",
+				"createdAt": "2017-08-04T10:35:55Z",
+				"isDeleted": "true",
+				"isSpam": "false",
+				"author": {
+					"name": "Ali Yaman",
+					"isAnonymous": "false",
+					"username": "AliYmn"
+				},
+				"thread": {
+					"_dsq:id": "6966316310"
+				},
+				"_dsq:id": "3451200640"
+			},
+			{
+				"id": "",
+				"message": "<p>Hello there. I kind have this working. In your Dockerfile you just need insert a CMD command, just like this:</p><p>CMD [\"gunicorn\", \"app.wsgi:application\", \"--name\", \"app\", \"--workers\", \"3\", \"--user=www-data\", \"--group=www-data\", \"--log-level=debug\", \"--bind=unix:/var/www/app/run/gunicorn.sock\"]</p><p>and you have your gunicorn runing inside your app-container. Remember that your Dockerfile can have only one CMD command. <br>The 'location' in your nginx is the gunicorn.sock</p><p>    location / {<br>        include proxy_params;<br>        proxy_pass <br>  http://unix:/var/www/app/run/gunicorn.sock;<br>      }</p>",
+				"createdAt": "2017-08-05T13:04:49Z",
+				"isDeleted": "false",
+				"isSpam": "false",
+				"author": {
+					"name": "Salomão Pinheiro Coelho Júnior",
+					"isAnonymous": "false",
+					"username": "salomopinheirocoelhojnior"
+				},
+				"thread": {
+					"_dsq:id": "6966316310"
+				},
+				"parent": {
+					"_dsq:id": "3391011974"
+				},
+				"_dsq:id": "3452894242"
+			},
+			{
+				"id": "",
+				"message": "<p>Thanks Salomão, let me check if I understood, the bind=unix:/var/www/app/run/gunicorn.sock binds the connection to an url which is inside the gunicorn.sock file and I have to have a reference to it from nginx config location? What is this gunicorn.sock, in the official web page <a href=\"http://gunicorn-docs.readthedocs.io/en/19.2.1/deploy.html#nginx-configuration\" rel=\"nofollow noopener\" title=\"http://gunicorn-docs.readthedocs.io/en/19.2.1/deploy.html#nginx-configuration\">http://gunicorn-docs.readth...</a></p><p>I see this: <br>upstream app_server {<br>        server unix:/tmp/gunicorn.sock fail_timeout=0;<br>        # For a TCP configuration:<br>        # server 192.168.0.7:8000 fail_timeout=0;<br>    }</p><p>Thanks again for your response</p>",
+				"createdAt": "2017-08-08T05:02:48Z",
+				"isDeleted": "false",
+				"isSpam": "false",
+				"author": {
+					"name": "Jesus",
+					"isAnonymous": "false",
+					"username": "Gzuz07"
+				},
+				"thread": {
+					"_dsq:id": "6966316310"
+				},
+				"parent": {
+					"_dsq:id": "3452894242"
+				},
+				"_dsq:id": "3457178321"
+			},
+			{
+				"id": "",
+				"message": "<p>I getting this err: python: can't open file '<a href=\"http://manage.py\" rel=\"nofollow noopener\" title=\"manage.py\">manage.py</a>': [Errno 2] No such file or directory</p><p>full output:<br>ttaching to TWVpsql, TWVdjango, TWVnginx<br>WVpsql  | LOG:  database system was shut down at 2017-08-08 07:29:00 UTC<br>WVdjango | python: can't open file '<a href=\"http://manage.py\" rel=\"nofollow noopener\" title=\"manage.py\">manage.py</a>': [Errno 2] No such file or directory<br>WVpsql  | LOG:  MultiXact member wraparound protections are now enabled<br>WVpsql  | LOG:  database system is ready to accept connections<br>WVdjango exited with code 2<br>WVnginx | 2017/08/08 07:29:15 [emerg] 1#1: host not found in upstream \"web:8000\" in /etc/nginx/conf.d/TWV.conf:3<br>WVnginx | nginx: [emerg] host not found in upstream \"web:8000\" in /etc/nginx/conf.d/TWV.conf:3<br>WVnginx exited with code 1</p>",
+				"createdAt": "2017-08-08T07:34:11Z",
+				"isDeleted": "false",
+				"isSpam": "false",
+				"author": {
+					"name": "vijay",
+					"isAnonymous": "false",
+					"username": "disqus_VB9DTPbzJh"
+				},
+				"thread": {
+					"_dsq:id": "6966316310"
+				},
+				"_dsq:id": "3457271288"
+			},
+			{
+				"id": "",
+				"message": "<p>Great tutorial, thanks!</p>",
+				"createdAt": "2017-08-16T22:07:55Z",
+				"isDeleted": "false",
+				"isSpam": "false",
+				"author": {
+					"name": "Yiğit Genç",
+					"isAnonymous": "false",
+					"username": "disqus_ofRoLkhdIO"
+				},
+				"thread": {
+					"_dsq:id": "6966316310"
+				},
+				"_dsq:id": "3471739974"
+			},
+			{
+				"id": "",
+				"message": "<p>Hi,</p><p>Thanks for these instructions. I was able to run my web locally using Docker Terminal on Windows with \"docker-compose build\" &amp; \"docker-compose-up\", However, After creating the image, (Image created Successfully) I am not able to run the web from the image itself I used docker run -p [newport]:8000 [image], looks to me the container immediately exists  after executing, when I try to browse the new port nothing is there .. I did netstat -t , no binding is there to the new port... Any idea whats wrong?</p><p>I am new to Docker.</p>",
+				"createdAt": "2017-08-21T13:07:38Z",
+				"isDeleted": "true",
+				"isSpam": "false",
+				"author": {
+					"name": "Issam Hammad",
+					"isAnonymous": "false",
+					"username": "issamhammad"
+				},
+				"thread": {
+					"_dsq:id": "6966316310"
+				},
+				"_dsq:id": "3479345785"
+			},
+			{
+				"id": "",
+				"message": "<p>can you suggest me the process with the help of which we can change the drop down list with respect to other</p>",
+				"createdAt": "2017-08-28T12:35:51Z",
+				"isDeleted": "false",
+				"isSpam": "false",
+				"author": {
+					"name": "Shivam Taneja",
+					"isAnonymous": "false",
+					"username": "shivam_taneja"
+				},
+				"thread": {
+					"_dsq:id": "6641437464"
+				},
+				"_dsq:id": "3490551075"
+			},
+			{
+				"id": "",
+				"message": "<p>is this the complete process of ajax including views and templates</p>",
+				"createdAt": "2017-08-28T12:36:42Z",
+				"isDeleted": "false",
+				"isSpam": "false",
+				"author": {
+					"name": "Shivam Taneja",
+					"isAnonymous": "false",
+					"username": "shivam_taneja"
+				},
+				"thread": {
+					"_dsq:id": "6641437464"
+				},
+				"_dsq:id": "3490552207"
+			},
+			{
+				"id": "",
+				"message": "<p>Just in case if you are get blocked, you can use a free proxy with thousands of IP addresses for Scrapy at <a href=\"https://proxy.webshare.io/\" rel=\"nofollow noopener\" title=\"https://proxy.webshare.io/\">https://proxy.webshare.io/</a></p>",
+				"createdAt": "2017-09-04T21:09:29Z",
+				"isDeleted": "false",
+				"isSpam": "true",
+				"author": {
+					"name": "Webshare.io",
+					"isAnonymous": "false",
+					"username": "webshareio"
+				},
+				"thread": {
+					"_dsq:id": "5064497807"
+				},
+				"_dsq:id": "3502087224"
+			},
+			{
+				"id": "",
+				"message": "<p>I have mypy enabled in my VSCode. It is more useful than pylint IMHO.</p>",
+				"createdAt": "2017-09-05T15:42:02Z",
+				"isDeleted": "false",
+				"isSpam": "false",
+				"author": {
+					"name": "Pavel Řihošek",
+					"isAnonymous": "false",
+					"username": "pavelihoek"
+				},
+				"thread": {
+					"_dsq:id": "6646003366"
+				},
+				"_dsq:id": "3503137962"
+			},
+			{
+				"id": "",
+				"message": "<p>I added:<br>RUN python <a href=\"http://manage.py\" rel=\"nofollow noopener\" title=\"manage.py\">manage.py</a> collectstatic --noinput <br>to my Dockerfile and it works fine on the web service but the Volume /static still empty in the ngnix service. How can I do to get /static from web copied to /static on nginx ?</p>",
+				"createdAt": "2017-09-21T21:44:55Z",
+				"isDeleted": "false",
+				"isSpam": "false",
+				"author": {
+					"name": "Giovanni Opromolla",
+					"isAnonymous": "false",
+					"username": "giovanniopromolla"
+				},
+				"thread": {
+					"_dsq:id": "6641304912"
+				},
+				"_dsq:id": "3529063083"
+			},
+			{
+				"id": "",
+				"message": "<p>Thanks, I did not know about mypy. Will try it out.</p>",
+				"createdAt": "2017-09-30T08:50:23Z",
+				"isDeleted": "false",
+				"isSpam": "false",
+				"author": {
+					"name": "Ruddra",
+					"isAnonymous": "false",
+					"username": "skyrudy"
+				},
+				"thread": {
+					"_dsq:id": "6646003366"
+				},
+				"parent": {
+					"_dsq:id": "3503137962"
+				},
+				"_dsq:id": "3543515615"
+			},
+			{
+				"id": "",
+				"message": "<p>Hi - I'm curious about why in this example the nginx mydjango.conf file specifies <br>    listen 8001;</p><p>while in your previous example it was<br>    listen 8000;</p>",
+				"createdAt": "2017-10-05T21:03:45Z",
+				"isDeleted": "false",
+				"isSpam": "false",
+				"author": {
+					"name": "Alex",
+					"isAnonymous": "false",
+					"username": "alexandreackermans"
+				},
+				"thread": {
+					"_dsq:id": "6641304912"
+				},
+				"_dsq:id": "3552423110"
+			},
+			{
+				"id": "",
+				"message": "<p>I don't think its a big deal, you can change it to :8000 :)</p>",
+				"createdAt": "2017-10-06T03:58:33Z",
+				"isDeleted": "false",
+				"isSpam": "false",
+				"author": {
+					"name": "Ruddra",
+					"isAnonymous": "false",
+					"username": "skyrudy"
+				},
+				"thread": {
+					"_dsq:id": "6641304912"
+				},
+				"parent": {
+					"_dsq:id": "3552423110"
+				},
+				"_dsq:id": "3552872258"
+			},
+			{
+				"id": "",
+				"message": "<p>As far as I know, it should share the directory. I will look into it</p>",
+				"createdAt": "2017-10-06T03:59:13Z",
+				"isDeleted": "false",
+				"isSpam": "false",
+				"author": {
+					"name": "Ruddra",
+					"isAnonymous": "false",
+					"username": "skyrudy"
+				},
+				"thread": {
+					"_dsq:id": "6641304912"
+				},
+				"parent": {
+					"_dsq:id": "3529063083"
+				},
+				"_dsq:id": "3552872782"
+			},
+			{
+				"id": "",
+				"message": "<p>Hi there,</p><p>which is your advice to differentiate the <a href=\"http://local.py\" rel=\"nofollow noopener\" title=\"local.py\">local.py</a> environment with the <a href=\"http://production.py\" rel=\"nofollow noopener\" title=\"production.py\">production.py</a> enviroment? (i.e different credentials for the database?)</p><p>Thanks!</p>",
+				"createdAt": "2017-10-13T08:55:42Z",
+				"isDeleted": "false",
+				"isSpam": "false",
+				"author": {
+					"name": "bed777",
+					"isAnonymous": "false",
+					"username": "bed777"
+				},
+				"thread": {
+					"_dsq:id": "6966316310"
+				},
+				"_dsq:id": "3565256063"
+			},
+			{
+				"id": "",
+				"message": "<p>Try putting the container name in instead, using:</p><p>ALLOWED_HOSTS = ['web']</p><p>worked for me!</p>",
+				"createdAt": "2017-11-04T17:27:16Z",
+				"isDeleted": "false",
+				"isSpam": "false",
+				"author": {
+					"name": "Rohaq",
+					"isAnonymous": "false",
+					"username": "disqus_4wG9MIKJdn"
+				},
+				"thread": {
+					"_dsq:id": "6966316310"
+				},
+				"parent": {
+					"_dsq:id": "3101556975"
+				},
+				"_dsq:id": "3600080286"
+			},
+			{
+				"id": "",
+				"message": "<p>Did you?</p>",
+				"createdAt": "2017-11-10T17:46:39Z",
+				"isDeleted": "false",
+				"isSpam": "false",
+				"author": {
+					"name": "SalahAdDinYusuf",
+					"isAnonymous": "false",
+					"username": "SalahAdDinYusuf"
+				},
+				"thread": {
+					"_dsq:id": "6641304912"
+				},
+				"parent": {
+					"_dsq:id": "3214340664"
+				},
+				"_dsq:id": "3609953175"
+			},
+			{
+				"id": "",
+				"message": "<p>in section IGNORING UNNECESSARY FILES, is should be \"**/*.pyc\" not \"**/*,pyc\"</p>",
+				"createdAt": "2017-11-13T02:37:17Z",
+				"isDeleted": "false",
+				"isSpam": "false",
+				"author": {
+					"name": "qiwihui",
+					"isAnonymous": "false",
+					"username": "qiwihui"
+				},
+				"thread": {
+					"_dsq:id": "6646003366"
+				},
+				"_dsq:id": "3613219728"
+			},
+			{
+				"id": "",
+				"message": "<p>Thanks for noticing. Fixing it :)</p>",
+				"createdAt": "2017-11-14T14:54:44Z",
+				"isDeleted": "false",
+				"isSpam": "false",
+				"author": {
+					"name": "Ruddra",
+					"isAnonymous": "false",
+					"username": "skyrudy"
+				},
+				"thread": {
+					"_dsq:id": "6646003366"
+				},
+				"parent": {
+					"_dsq:id": "3613219728"
+				},
+				"_dsq:id": "3615593521"
+			},
+			{
+				"id": "",
+				"message": "<p>do you have a <a href=\"http://manage.py\" rel=\"nofollow noopener\" title=\"manage.py\">manage.py</a> in src/ <br>If that's absent you don't have a correct django app in src/</p>",
+				"createdAt": "2017-11-22T09:10:59Z",
+				"isDeleted": "false",
+				"isSpam": "false",
+				"author": {
+					"name": "Rene Dohmen",
+					"isAnonymous": "false",
+					"username": "renedohmen"
+				},
+				"thread": {
+					"_dsq:id": "6966316310"
+				},
+				"parent": {
+					"_dsq:id": "3457271288"
+				},
+				"_dsq:id": "3627771115"
+			},
+			{
+				"id": "",
+				"message": "<p>I think you should also do `pip install pylint-django` when using</p><p>\"python.linting.pylintArgs\": [</p><p>        \"--load-plugins\",<br>        \"pylint_django\"<br>    ],</p>",
+				"createdAt": "2017-11-25T14:35:49Z",
+				"isDeleted": "false",
+				"isSpam": "false",
+				"author": {
+					"name": "Pirmin Schneider",
+					"isAnonymous": "false",
+					"username": "pirminschneider"
+				},
+				"thread": {
+					"_dsq:id": "6646003366"
+				},
+				"_dsq:id": "3632292787"
+			},
+			{
+				"id": "",
+				"message": "<p>Anybody has such problem?</p><p>ModuleNotFoundError: No module named 'utility'</p>",
+				"createdAt": "2017-11-28T02:46:39Z",
+				"isDeleted": "false",
+				"isSpam": "false",
+				"author": {
+					"name": "Rovshan Musayev",
+					"isAnonymous": "false",
+					"username": "rovshan_musayev"
+				},
+				"thread": {
+					"_dsq:id": "6966316310"
+				},
+				"_dsq:id": "3635847601"
+			},
+			{
+				"id": "",
+				"message": "<p>hello rudra sir  iam getting problem on connection of django in pycharm 2017 version can u help me please and i had already follow the above steps but in my coonection path  <a href=\"http://manage.py\" rel=\"nofollow noopener\" title=\"manage.py\">manage.py</a> not going to be shown sir</p>",
+				"createdAt": "2017-11-28T08:38:40Z",
+				"isDeleted": "false",
+				"isSpam": "false",
+				"author": {
+					"name": "Srikanth Atkapuram",
+					"isAnonymous": "false",
+					"username": "srikanthatkapuram"
+				},
+				"thread": {
+					"_dsq:id": "6641280255"
+				},
+				"_dsq:id": "3636108568"
+			},
+			{
+				"id": "",
+				"message": "<p>{% for product in form.products %}<br>      &lt;tbody class=\"product-instances\"&gt;</p><p>      &lt;tr&gt; <br>        &lt;td&gt;{{ <a href=\"http://product.name\" rel=\"nofollow noopener\" title=\"product.name\">product.name</a>  }}&lt;/td&gt;<br>        &lt;td&gt;{{ product.quantity }}&lt;/td&gt;   <br>        &lt;td&gt;{{ product.price }}&lt;/td&gt;<br>        &lt;td&gt; &lt;input id=\"input_add\" type=\"button\" name=\"add\" value=\" Add More \" class=\"tr_clone_add btn data_input\"&gt; &lt;/td&gt;<br>      &lt;/tr&gt;<br>       &lt;/tbody&gt;<br>{% endfor %}</p>",
+				"createdAt": "2017-12-05T11:38:46Z",
+				"isDeleted": "false",
+				"isSpam": "false",
+				"author": {
+					"name": "Raja Polipilli",
+					"isAnonymous": "false",
+					"username": "rajapolipilli"
+				},
+				"thread": {
+					"_dsq:id": "4146231003"
+				},
+				"_dsq:id": "3647377434"
+			},
+			{
+				"id": "",
+				"message": "<p>Thanks for the tutorial! My nginx produces no logs at all and cannot connect to it using a browser. Anyone else having this?</p>",
+				"createdAt": "2017-12-05T23:03:08Z",
+				"isDeleted": "false",
+				"isSpam": "true",
+				"author": {
+					"name": "ncdude",
+					"isAnonymous": "false",
+					"username": "disqus_RpU4mGHXg1"
+				},
+				"thread": {
+					"_dsq:id": "6966316310"
+				},
+				"_dsq:id": "3648456429"
+			},
+			{
+				"id": "",
+				"message": "<p>You can ommit/skip step 2. It is not required. Just make sure that in step 3 the alias  is the whole path (here /src/static, or in general $WORKDIR/STATIC_ROOT or $WORKDIR/MEDIA_ROOT) and location matches STATIC_URL or MEDIA_URL.</p>",
+				"createdAt": "2017-12-11T20:20:19Z",
+				"isDeleted": "false",
+				"isSpam": "false",
+				"author": {
+					"name": "Johannes Nordmann",
+					"isAnonymous": "false",
+					"username": "johannesnordmann"
+				},
+				"thread": {
+					"_dsq:id": "6641304912"
+				},
+				"_dsq:id": "3657591035"
+			},
+			{
+				"id": "",
+				"message": "<p>I have 2017.3. The above did not work. What did was putting settings in the script path and adding django setting module with a value of mysite.settimgs to the environmental variable.</p>",
+				"createdAt": "2017-12-23T19:24:33Z",
+				"isDeleted": "false",
+				"isSpam": "false",
+				"author": {
+					"name": "Malik Rumi",
+					"isAnonymous": "false",
+					"username": "malikrumi"
+				},
+				"thread": {
+					"_dsq:id": "6641280255"
+				},
+				"_dsq:id": "3676049370"
+			},
+			{
+				"id": "",
+				"message": "<p>and if I want to use my own template? it does not look stylish with django admin, thanks</p>",
+				"createdAt": "2017-12-23T21:31:29Z",
+				"isDeleted": "false",
+				"isSpam": "false",
+				"author": {
+					"name": "Alejandro Hurtado",
+					"isAnonymous": "false",
+					"username": "disqus_zkes9rZzIl"
+				},
+				"thread": {
+					"_dsq:id": "6651272407"
+				},
+				"_dsq:id": "3676185629"
+			},
+			{
+				"id": "",
+				"message": "<p>You can do that. It is not a big deal. Just change your template_name in Views.</p>",
+				"createdAt": "2017-12-24T12:22:29Z",
+				"isDeleted": "false",
+				"isSpam": "false",
+				"author": {
+					"name": "Ruddra",
+					"isAnonymous": "false",
+					"username": "skyrudy"
+				},
+				"thread": {
+					"_dsq:id": "6651272407"
+				},
+				"parent": {
+					"_dsq:id": "3676185629"
+				},
+				"_dsq:id": "3676782385"
+			},
+			{
+				"id": "",
+				"message": "<p>I wanna do this but I don't speak english and don't know programming. :P</p>",
+				"createdAt": "2017-12-29T14:22:25Z",
+				"isDeleted": "false",
+				"isSpam": "false",
+				"author": {
+					"name": "Pablo Ferreira",
+					"isAnonymous": "false",
+					"username": "disqus_GIYrq5sb8W"
+				},
+				"thread": {
+					"_dsq:id": "6641280255"
+				},
+				"_dsq:id": "3683019706"
+			},
+			{
+				"id": "",
+				"message": "<p>Hi there! Great article, thanks very much for sharing.<br>By any chance, is there a way of changing the language and region settings which can be seen in the resulting screenshots?</p><p>Cheers,<br>Thorben</p>",
+				"createdAt": "2018-01-04T18:30:36Z",
+				"isDeleted": "false",
+				"isSpam": "false",
+				"author": {
+					"name": "Thorben Wölk",
+					"isAnonymous": "false",
+					"username": "thorbenwlk"
+				},
+				"thread": {
+					"_dsq:id": "6641309753"
+				},
+				"_dsq:id": "3691751611"
+			},
+			{
+				"id": "",
+				"message": "<p>If you can change the language and region settings from your browser, then you can simulate this using selenium, and then you can take the desired screenshot :)</p>",
+				"createdAt": "2018-01-05T04:42:12Z",
+				"isDeleted": "false",
+				"isSpam": "false",
+				"author": {
+					"name": "Ruddra",
+					"isAnonymous": "false",
+					"username": "skyrudy"
+				},
+				"thread": {
+					"_dsq:id": "6641309753"
+				},
+				"parent": {
+					"_dsq:id": "3691751611"
+				},
+				"_dsq:id": "3692557110"
+			},
+			{
+				"id": "",
+				"message": "<p>You are an angel..</p>",
+				"createdAt": "2018-01-11T20:15:16Z",
+				"isDeleted": "false",
+				"isSpam": "false",
+				"author": {
+					"name": "Mehmet Yener Yilmaz",
+					"isAnonymous": "false",
+					"username": "mehmetyeneryilmaz"
+				},
+				"thread": {
+					"_dsq:id": "6641280255"
+				},
+				"_dsq:id": "3703179323"
+			},
+			{
+				"id": "",
+				"message": "<p>Great tutorial! Only thing you missed to explain is setting ALLOWED_HOSTS = ['web'] to get your app running.</p>",
+				"createdAt": "2018-01-16T19:06:44Z",
+				"isDeleted": "false",
+				"isSpam": "false",
+				"author": {
+					"name": "Joost Slijkoort",
+					"isAnonymous": "false",
+					"username": "joostslijkoort"
+				},
+				"thread": {
+					"_dsq:id": "6966316310"
+				},
+				"_dsq:id": "3711060512"
+			},
+			{
+				"id": "",
+				"message": "<p>thanks for the post. This helped me a lot!</p>",
+				"createdAt": "2018-02-08T15:12:37Z",
+				"isDeleted": "false",
+				"isSpam": "false",
+				"author": {
+					"name": "joel",
+					"isAnonymous": "false",
+					"username": "disqus_Qyr2LIbNiw"
+				},
+				"thread": {
+					"_dsq:id": "6641304912"
+				},
+				"_dsq:id": "3748703513"
+			},
+			{
+				"id": "",
+				"message": "<p>I've based my current project on the information posted here and it has worked great until I tried deploying my project using docker-machine. It seems like the src-folder containing my app isn't created properly when running on the remote docker instance but the folders for nginx, which is shared between the djangoproject and nginx are created ok. If I do the exact same and run docker-compose build &amp;&amp; docker-compose up locally or log in using ssh and do it on the server it runs just fine. Deploying using docker-machine was sort of the idea to solve my deployment problems so an article based on this one but deploying using docker-machine would be great. Keep up the great work! :-)</p>",
+				"createdAt": "2018-02-28T20:07:52Z",
+				"isDeleted": "false",
+				"isSpam": "false",
+				"author": {
+					"name": "Thomas Weholt",
+					"isAnonymous": "false",
+					"username": "thomas_weholt"
+				},
+				"thread": {
+					"_dsq:id": "6641304912"
+				},
+				"_dsq:id": "3780732728"
+			},
+			{
+				"id": "",
+				"message": "<p>this is awesomeness, thanks.<br>referrring to this SOF thread &gt; <a href=\"https://stackoverflow.com/questions/30227466/combine-several-images-horizontally-with-python/30228789#30228789\" rel=\"nofollow noopener\" title=\"https://stackoverflow.com/questions/30227466/combine-several-images-horizontally-with-python/30228789#30228789\">https://stackoverflow.com/q...</a><br>could you please psudo code an example. where multiple operations can be done on images collection (list) (resize, brightness etc) before stacking. thanks in advance. <br>actually in my case, thumbnail method instead of resizing doesn't work.</p>",
+				"createdAt": "2018-03-10T13:59:17Z",
+				"isDeleted": "false",
+				"isSpam": "false",
+				"author": {
+					"name": "haseeb ahmed",
+					"isAnonymous": "false",
+					"username": "disqus_mfgCqCxdmJ"
+				},
+				"thread": {
+					"_dsq:id": "6641246745"
+				},
+				"_dsq:id": "3796205790"
+			},
+			{
+				"id": "",
+				"message": "<p>Hi, Thank you for this blog post.</p><p>Could you please confirm is this method possible on FREE Plan of open shift? I get a error message saying build strategy Docker is not allowed.</p>",
+				"createdAt": "2018-03-10T21:12:08Z",
+				"isDeleted": "false",
+				"isSpam": "false",
+				"author": {
+					"name": "Rajs",
+					"isAnonymous": "false",
+					"username": "just10minutes"
+				},
+				"thread": {
+					"_dsq:id": "6966281197"
+				},
+				"_dsq:id": "3796744228"
+			},
+			{
+				"id": "",
+				"message": "<p>Well, I also faced the same issue. Its related role management of Openshift Online. Maybe you can look into this: <a href=\"https://bugzilla.redhat.com/show_bug.cgi?id=1336345\" rel=\"nofollow noopener\" title=\"https://bugzilla.redhat.com/show_bug.cgi?id=1336345\">https://bugzilla.redhat.com...</a></p>",
+				"createdAt": "2018-03-11T03:59:33Z",
+				"isDeleted": "false",
+				"isSpam": "false",
+				"author": {
+					"name": "Ruddra",
+					"isAnonymous": "false",
+					"username": "skyrudy"
+				},
+				"thread": {
+					"_dsq:id": "6966281197"
+				},
+				"parent": {
+					"_dsq:id": "3796744228"
+				},
+				"_dsq:id": "3797127820"
+			},
+			{
+				"id": "",
+				"message": "<p>Nice article.</p>",
+				"createdAt": "2018-03-14T10:00:19Z",
+				"isDeleted": "false",
+				"isSpam": "false",
+				"author": {
+					"name": "jamie.william",
+					"isAnonymous": "false",
+					"username": "disqus_nFSBZsJENA"
+				},
+				"thread": {
+					"_dsq:id": "6646003366"
+				},
+				"_dsq:id": "3802564905"
+			},
+			{
+				"id": "",
+				"message": "<p>Its fixed now. Please pull the latest code.</p>",
+				"createdAt": "2018-03-16T17:58:32Z",
+				"isDeleted": "false",
+				"isSpam": "false",
+				"author": {
+					"name": "Ruddra",
+					"isAnonymous": "false",
+					"username": "skyrudy"
+				},
+				"thread": {
+					"_dsq:id": "6966316310"
+				},
+				"parent": {
+					"_dsq:id": "3635847601"
+				},
+				"_dsq:id": "3809323752"
+			},
+			{
+				"id": "",
+				"message": "<p>I personally use this:<br>```<br>try:<br>    import * from .local_settings<br>except ImportError:<br>    pass<br>```<br><a href=\"http://local_settings.py\" rel=\"nofollow noopener\" title=\"local_settings.py\">local_settings.py</a> can be put in gitignore. You can put your DB configs and other server related stuff there.</p>",
+				"createdAt": "2018-03-16T18:01:38Z",
+				"isDeleted": "false",
+				"isSpam": "false",
+				"author": {
+					"name": "Ruddra",
+					"isAnonymous": "false",
+					"username": "skyrudy"
+				},
+				"thread": {
+					"_dsq:id": "6966316310"
+				},
+				"parent": {
+					"_dsq:id": "3565256063"
+				},
+				"_dsq:id": "3809328931"
+			},
+			{
+				"id": "",
+				"message": "<p>I am using docker 3 with django 2.0.3 and I have my static files within a static folder in my app. I also have my html files in a template folder within the app directory. I used your code here as well as in your static file serving tutorial, however, I cannot seem to get the static files to be served using your code. Also using your code, I cannot seem to have nginx run as it says the port has already been allocated.</p><p>When I change the port, it just says bad gateway.</p><p>Help please.</p>",
+				"createdAt": "2018-03-16T21:08:13Z",
+				"isDeleted": "false",
+				"isSpam": "false",
+				"author": {
+					"name": "guest",
+					"isAnonymous": "false",
+					"username": "disqus_fI3b6U1AII"
+				},
+				"thread": {
+					"_dsq:id": "6966316310"
+				},
+				"_dsq:id": "3809619539"
+			},
+			{
+				"id": "",
+				"message": "<p>Its hard to say anything. Its better if you check the logs and pinpoint the bugs. Also check the code in config&gt;mydjango.conf in given repository with this Blog.</p>",
+				"createdAt": "2018-03-17T03:56:52Z",
+				"isDeleted": "false",
+				"isSpam": "false",
+				"author": {
+					"name": "Ruddra",
+					"isAnonymous": "false",
+					"username": "skyrudy"
+				},
+				"thread": {
+					"_dsq:id": "6966316310"
+				},
+				"parent": {
+					"_dsq:id": "3809619539"
+				},
+				"_dsq:id": "3810083765"
+			},
+			{
+				"id": "",
+				"message": "<p>My nginx config is the same as the one you have in the repository. As for the logs, everything seems fine. The only thing that is out of place is when it says static not found: then uri given.</p>",
+				"createdAt": "2018-03-17T18:26:01Z",
+				"isDeleted": "false",
+				"isSpam": "false",
+				"author": {
+					"name": "guest",
+					"isAnonymous": "false",
+					"username": "disqus_fI3b6U1AII"
+				},
+				"thread": {
+					"_dsq:id": "6966316310"
+				},
+				"parent": {
+					"_dsq:id": "3810083765"
+				},
+				"_dsq:id": "3810862441"
+			},
+			{
+				"id": "",
+				"message": "<p>You need to use collectstatic and put the static files in static directory. After that, you need to restart your server</p>",
+				"createdAt": "2018-03-17T18:39:16Z",
+				"isDeleted": "false",
+				"isSpam": "false",
+				"author": {
+					"name": "Ruddra",
+					"isAnonymous": "false",
+					"username": "skyrudy"
+				},
+				"thread": {
+					"_dsq:id": "6966316310"
+				},
+				"parent": {
+					"_dsq:id": "3810862441"
+				},
+				"_dsq:id": "3810881135"
+			},
+			{
+				"id": "",
+				"message": "<p>Yes. That is what I did. And the errors I received are the result. I had put the colletcstatic command in the bash commands in the docker-compose file, so the command runs every time I do docker-compose up --build</p>",
+				"createdAt": "2018-03-17T18:50:15Z",
+				"isDeleted": "false",
+				"isSpam": "false",
+				"author": {
+					"name": "guest",
+					"isAnonymous": "false",
+					"username": "disqus_fI3b6U1AII"
+				},
+				"thread": {
+					"_dsq:id": "6966316310"
+				},
+				"parent": {
+					"_dsq:id": "3810881135"
+				},
+				"_dsq:id": "3810896451"
+			},
+			{
+				"id": "",
+				"message": "<p>Here is my docker-compose.yml file: <a href=\"https://pastebin.com/mtqL15TZ\" rel=\"nofollow noopener\" title=\"https://pastebin.com/mtqL15TZ\">https://pastebin.com/mtqL15TZ</a></p>",
+				"createdAt": "2018-03-17T18:52:16Z",
+				"isDeleted": "true",
+				"isSpam": "false",
+				"author": {
+					"name": "guest",
+					"isAnonymous": "false",
+					"username": "disqus_fI3b6U1AII"
+				},
+				"thread": {
+					"_dsq:id": "6966316310"
+				},
+				"parent": {
+					"_dsq:id": "3810881135"
+				},
+				"_dsq:id": "3810899267"
+			},
+			{
+				"id": "",
+				"message": "<p>Here is my docker-compose file: <br><a href=\"https://pastebin.com/h2K2p5Wn\" rel=\"nofollow noopener\" title=\"https://pastebin.com/h2K2p5Wn\">https://pastebin.com/h2K2p5Wn</a></p><p>And my nginx config file:</p><p><a href=\"https://pastebin.com/Ln8K3LHH\" rel=\"nofollow noopener\" title=\"https://pastebin.com/Ln8K3LHH\">https://pastebin.com/Ln8K3LHH</a></p>",
+				"createdAt": "2018-03-17T18:55:42Z",
+				"isDeleted": "false",
+				"isSpam": "false",
+				"author": {
+					"name": "guest",
+					"isAnonymous": "false",
+					"username": "disqus_fI3b6U1AII"
+				},
+				"thread": {
+					"_dsq:id": "6966316310"
+				},
+				"parent": {
+					"_dsq:id": "3810881135"
+				},
+				"_dsq:id": "3810905176"
+			},
+			{
+				"id": "",
+				"message": "<p>There are several things wrong here. In django, you are running the app in 8000 port, but in Nginx, you are using web:8001, which should not work. Remove static volume from docker-compose nginx service. Also for debugging purpose, access shell of both web and nginx container. Go to static directory and run `ls` to check if static files exists or not.</p>",
+				"createdAt": "2018-03-18T03:46:45Z",
+				"isDeleted": "false",
+				"isSpam": "false",
+				"author": {
+					"name": "Ruddra",
+					"isAnonymous": "false",
+					"username": "skyrudy"
+				},
+				"thread": {
+					"_dsq:id": "6966316310"
+				},
+				"parent": {
+					"_dsq:id": "3810896451"
+				},
+				"_dsq:id": "3811471969"
+			},
+			{
+				"id": "",
+				"message": "<p>Alright&lt; i returned the nginx port to 8000 as you say, however, I keep getting this error: <a href=\"https://pastebin.com/8xwAxzbb\" rel=\"nofollow noopener\" title=\"https://pastebin.com/8xwAxzbb\">https://pastebin.com/8xwAxzbb</a> I cannot login to the containers shell for  I cannot get past the error.</p>",
+				"createdAt": "2018-03-20T19:24:10Z",
+				"isDeleted": "false",
+				"isSpam": "false",
+				"author": {
+					"name": "guest",
+					"isAnonymous": "false",
+					"username": "disqus_6bisLI0aPW"
+				},
+				"thread": {
+					"_dsq:id": "6966316310"
+				},
+				"parent": {
+					"_dsq:id": "3811471969"
+				},
+				"_dsq:id": "3815880908"
+			},
+			{
+				"id": "",
+				"message": "<p>Okay, i returned the nginx port to 8000 as you say, however, I keep getting this error: <a href=\"https://pastebin.com/8xwAxzbb\" rel=\"nofollow noopener\" title=\"https://pastebin.com/8xwAxzbb\">https://pastebin.com/8xwAxzbb</a> I cannot login to the containers shell for I cannot get past the error.</p>",
+				"createdAt": "2018-03-23T19:29:52Z",
+				"isDeleted": "true",
+				"isSpam": "false",
+				"author": {
+					"name": "guest",
+					"isAnonymous": "false",
+					"username": "disqus_6bisLI0aPW"
+				},
+				"thread": {
+					"_dsq:id": "6966316310"
+				},
+				"_dsq:id": "3820889766"
+			},
+			{
+				"id": "",
+				"message": "<p>\"Bind for 0.0.0.0:8000 failed: port is already allocated\" - This is quite self explanatory. 8000 port is being used in another program. I am sorry, but you need to find and solve this issue yourself.</p>",
+				"createdAt": "2018-03-24T04:26:41Z",
+				"isDeleted": "false",
+				"isSpam": "false",
+				"author": {
+					"name": "Ruddra",
+					"isAnonymous": "false",
+					"username": "skyrudy"
+				},
+				"thread": {
+					"_dsq:id": "6966316310"
+				},
+				"parent": {
+					"_dsq:id": "3815880908"
+				},
+				"_dsq:id": "3821505612"
+			},
+			{
+				"id": "",
+				"message": "<p>TemplateDoesNotExist at /account/reset_password why shows this error..</p>",
+				"createdAt": "2018-03-27T09:31:58Z",
+				"isDeleted": "false",
+				"isSpam": "false",
+				"author": {
+					"name": "Prabhash Tiwari",
+					"isAnonymous": "false",
+					"username": "prabhashtiwari"
+				},
+				"thread": {
+					"_dsq:id": "6651272407"
+				},
+				"_dsq:id": "3826293467"
+			},
+			{
+				"id": "",
+				"message": "<p>Hi, can you please create an issue on the github repository with the error stacktrace? In that way, I can easily figure out if something is wrong. Also don't forget to mention which django version you are using. Thanks</p>",
+				"createdAt": "2018-03-27T17:27:26Z",
+				"isDeleted": "false",
+				"isSpam": "false",
+				"author": {
+					"name": "Ruddra",
+					"isAnonymous": "false",
+					"username": "skyrudy"
+				},
+				"thread": {
+					"_dsq:id": "6651272407"
+				},
+				"parent": {
+					"_dsq:id": "3826293467"
+				},
+				"_dsq:id": "3826936437"
+			},
+			{
+				"id": "",
+				"message": "<p>For me, I had the key \"settings\" already inside the workspace folder. I had to add the key-values under settings instead of the root.</p>",
+				"createdAt": "2018-04-04T11:25:51Z",
+				"isDeleted": "false",
+				"isSpam": "false",
+				"author": {
+					"name": "Lian",
+					"isAnonymous": "false",
+					"username": "disqus_cTMLEaeNJW"
+				},
+				"thread": {
+					"_dsq:id": "6646003366"
+				},
+				"_dsq:id": "3838498511"
+			},
+			{
+				"id": "",
+				"message": "<p>You're a lifesaver!</p>",
+				"createdAt": "2018-04-09T09:38:37Z",
+				"isDeleted": "false",
+				"isSpam": "false",
+				"author": {
+					"name": "Tré Dudman",
+					"isAnonymous": "false",
+					"username": "trdudman"
+				},
+				"thread": {
+					"_dsq:id": "6641304912"
+				},
+				"_dsq:id": "3845997125"
+			},
+			{
+				"id": "",
+				"message": "<p>I notice your docker-compose.yml has version:2. I was trying to follow this with version:3, and I was getting errors of</p><p></p><pre>\"Mounts denied: \\r\\nThe path /static\\r\\nis not shared from OS X and is not known to Docker.\\r\\nYou can configure shared paths from Docker -&gt; Preferences... -&gt; File Sharing\"<br></pre><p></p><p>I ended up changing my docker-compose.yml to use a top-level named volume. So, instead of putting in<br></p><pre> - /static:/static<br></pre><p><br>in web and nginx, I put in<br></p><pre> - static-volume:/static<br></pre><p><br>And at the end of the docker-compose.yml file, I added<br></p><pre>volumes:<br>  static-volume:<br></pre><p></p><p>And it all worked!</p><p>Thanks for the great tutorials!</p>",
+				"createdAt": "2018-04-13T23:06:28Z",
+				"isDeleted": "false",
+				"isSpam": "true",
+				"author": {
+					"name": "TCBullfrog",
+					"isAnonymous": "false",
+					"username": "TCBullfrog"
+				},
+				"thread": {
+					"_dsq:id": "6641304912"
+				},
+				"_dsq:id": "3854241585"
+			},
+			{
+				"id": "",
+				"message": "<p>Thank you for the blog post actually ran into the allowed_hosts error and luckily you covered it in your post!</p>",
+				"createdAt": "2018-04-16T20:33:55Z",
+				"isDeleted": "false",
+				"isSpam": "false",
+				"author": {
+					"name": "Rayner D",
+					"isAnonymous": "false",
+					"username": "rayner123"
+				},
+				"thread": {
+					"_dsq:id": "6966281197"
+				},
+				"_dsq:id": "3858383615"
+			},
+			{
+				"id": "",
+				"message": "<p>So your code doesn't work... and it's ok.. ?</p>",
+				"createdAt": "2018-04-25T01:03:11Z",
+				"isDeleted": "false",
+				"isSpam": "false",
+				"author": {
+					"name": "Tema",
+					"isAnonymous": "false",
+					"username": "disqus_CpbcAFw3xI"
+				},
+				"thread": {
+					"_dsq:id": "6641304912"
+				},
+				"parent": {
+					"_dsq:id": "3552872258"
+				},
+				"_dsq:id": "3871111670"
+			},
+			{
+				"id": "",
+				"message": "<p>Hi, The code should be working, and if you need working example, please follow the github link given with the post. Hope it helps :) .</p>",
+				"createdAt": "2018-04-25T05:58:16Z",
+				"isDeleted": "false",
+				"isSpam": "false",
+				"author": {
+					"name": "Ruddra",
+					"isAnonymous": "false",
+					"username": "skyrudy"
+				},
+				"thread": {
+					"_dsq:id": "6641304912"
+				},
+				"parent": {
+					"_dsq:id": "3871111670"
+				},
+				"_dsq:id": "3871595535"
+			},
+			{
+				"id": "",
+				"message": "<p>where should i put it?</p>",
+				"createdAt": "2018-04-25T08:56:32Z",
+				"isDeleted": "false",
+				"isSpam": "false",
+				"author": {
+					"name": "Haris Jafri",
+					"isAnonymous": "false",
+					"username": "harisjafri"
+				},
+				"thread": {
+					"_dsq:id": "5064497807"
+				},
+				"parent": {
+					"_dsq:id": "2797440069"
+				},
+				"_dsq:id": "3871698806"
+			},
+			{
+				"id": "",
+				"message": "<p>i still get error,,using django 2.0</p>",
+				"createdAt": "2018-04-25T08:56:48Z",
+				"isDeleted": "false",
+				"isSpam": "false",
+				"author": {
+					"name": "Haris Jafri",
+					"isAnonymous": "false",
+					"username": "harisjafri"
+				},
+				"thread": {
+					"_dsq:id": "5064497807"
+				},
+				"parent": {
+					"_dsq:id": "3871698806"
+				},
+				"_dsq:id": "3871698979"
+			},
+			{
+				"id": "",
+				"message": "<p>It should be fixed now. Please pull the latest code from repository</p>",
+				"createdAt": "2018-04-25T17:07:50Z",
+				"isDeleted": "false",
+				"isSpam": "false",
+				"author": {
+					"name": "Ruddra",
+					"isAnonymous": "false",
+					"username": "skyrudy"
+				},
+				"thread": {
+					"_dsq:id": "6641263602"
+				},
+				"parent": {
+					"_dsq:id": "3363748471"
+				},
+				"_dsq:id": "3872278270"
+			},
+			{
+				"id": "",
+				"message": "<p>with django 2.x worked code is</p><p>sys.path.append(os.path.dirname(os.path.abspath('.')))<br>os.environ['DJANGO_SETTINGS_MODULE'] = 'my_project.settings'</p><p>import django</p><p>django.setup()</p>",
+				"createdAt": "2018-04-27T04:20:25Z",
+				"isDeleted": "false",
+				"isSpam": "false",
+				"author": {
+					"name": "robosoma",
+					"isAnonymous": "false",
+					"username": "robosoma"
+				},
+				"thread": {
+					"_dsq:id": "5064497807"
+				},
+				"parent": {
+					"_dsq:id": "3871698979"
+				},
+				"_dsq:id": "3874914846"
+			},
+			{
+				"id": "",
+				"message": "<p>There is error that no module app ..where should i add the app module?</p>",
+				"createdAt": "2018-04-27T04:24:05Z",
+				"isDeleted": "false",
+				"isSpam": "false",
+				"author": {
+					"name": "Haris Jafri",
+					"isAnonymous": "false",
+					"username": "harisjafri"
+				},
+				"thread": {
+					"_dsq:id": "5064497807"
+				},
+				"parent": {
+					"_dsq:id": "3874914846"
+				},
+				"_dsq:id": "3874917244"
+			},
+			{
+				"id": "",
+				"message": "<p>343598345966414753434729374377 <a href=\"http://slink.co/c607f\" rel=\"nofollow noopener\" title=\"slink.co/c607f\">slink.co/c607f</a></p>",
+				"createdAt": "2018-05-01T17:13:12Z",
+				"isDeleted": "false",
+				"isSpam": "true",
+				"author": {
+					"name": "Bigi",
+					"isAnonymous": "false",
+					"username": "da2r34k2s32v32x"
+				},
+				"thread": {
+					"_dsq:id": "6966281197"
+				},
+				"_dsq:id": "3881096718"
+			},
+			{
+				"id": "",
+				"message": "<p>Thanks for the tutorial. While i was trying to enter</p><p>docker exec DOCKERNAME /bin/sh -c \"python <a href=\"http://manage.py\" rel=\"nofollow noopener\" title=\"manage.py\">manage.py</a> collectstatic --noinput\"</p><p>Error: No such container: NGINXDOCKERNAME</p>",
+				"createdAt": "2018-05-04T20:49:12Z",
+				"isDeleted": "false",
+				"isSpam": "false",
+				"author": {
+					"name": "Sage Poudel",
+					"isAnonymous": "false",
+					"username": "sagepoudel"
+				},
+				"thread": {
+					"_dsq:id": "6641304912"
+				},
+				"_dsq:id": "3886281133"
+			},
+			{
+				"id": "",
+				"message": "<p>This really has covered a great insight on Python. I found myself lucky to visit your page and came across this insightful read on Python tutorial. Please allow me to share similar work on Python training course . Watch and gain knowledge today.https://<a href=\"http://www.youtube.com/watch?v=e9p0_NB3WrM\" rel=\"nofollow noopener\" title=\"www.youtube.com/watch?v=e9p0_NB3WrM\">www.youtube.com/watch?v=e9p...</a></p>",
+				"createdAt": "2018-05-09T08:53:44Z",
+				"isDeleted": "false",
+				"isSpam": "true",
+				"author": {
+					"name": "Kokila Soral",
+					"isAnonymous": "false",
+					"username": "kokilasoral"
+				},
+				"thread": {
+					"_dsq:id": "6646003366"
+				},
+				"_dsq:id": "3892441320"
+			},
+			{
+				"id": "",
+				"message": "<p>If it's not working as is, check in his git repo the nginx conf file and copy it to your files, that made it work for me.</p>",
+				"createdAt": "2018-05-16T01:13:45Z",
+				"isDeleted": "false",
+				"isSpam": "false",
+				"author": {
+					"name": "Carlos",
+					"isAnonymous": "false",
+					"username": "disqus_2Zf7esdYmy"
+				},
+				"thread": {
+					"_dsq:id": "6966316310"
+				},
+				"_dsq:id": "3902590410"
+			},
+			{
+				"id": "",
+				"message": "<p>If i want to resend the email with that particular URL then how can i do it?</p>",
+				"createdAt": "2018-05-17T18:41:54Z",
+				"isDeleted": "false",
+				"isSpam": "false",
+				"author": {
+					"name": "Chinmoy Acharjee",
+					"isAnonymous": "false",
+					"username": "chinmoyacharjee"
+				},
+				"thread": {
+					"_dsq:id": "6651272407"
+				},
+				"_dsq:id": "3905304262"
+			},
+			{
+				"id": "",
+				"message": "<p>You can just use this code:<br>```<br># somehow you got email or username and put it in data<br>associated_users= User.objects.filter(Q(email=data)|Q(username=data))<br>                if associated_users.exists():<br>                    for user in associated_users:<br>                            c = {<br>                                'email': <a href=\"http://user.email\" rel=\"nofollow noopener\" title=\"user.email\">user.email</a>,<br>                                'domain': request.META['HTTP_HOST'],<br>                                'site_name': 'your site',<br>                                'uid': urlsafe_base64_encode(force_bytes(<a href=\"http://user.pk\" rel=\"nofollow noopener\" title=\"user.pk\">user.pk</a>)),<br>                                'user': user,<br>                                'token': default_token_generator.make_token(user),<br>                                'protocol': 'http',<br>                                }<br>                            subject_template_name='registration/password_reset_subject.txt' <br>                            # copied from django/contrib/admin/templates/registration/password_reset_subject.txt to templates directory<br>                            email_template_name='registration/password_reset_email.html'    <br>                            # copied from django/contrib/admin/templates/registration/password_reset_email.html to templates directory<br>                            subject = loader.render_to_string(subject_template_name, c)<br>                            # Email subject *must not* contain newlines<br>                            subject = ''.join(subject.splitlines())<br>                            email = loader.render_to_string(email_template_name, c)<br>                            send_mail(subject, email, DEFAULT_FROM_EMAIL , [<a href=\"http://user.email\" rel=\"nofollow noopener\" title=\"user.email\">user.email</a>], fail_silently=False)<br>```</p>",
+				"createdAt": "2018-05-18T03:14:39Z",
+				"isDeleted": "false",
+				"isSpam": "false",
+				"author": {
+					"name": "Ruddra",
+					"isAnonymous": "false",
+					"username": "skyrudy"
+				},
+				"thread": {
+					"_dsq:id": "6651272407"
+				},
+				"parent": {
+					"_dsq:id": "3905304262"
+				},
+				"_dsq:id": "3905910388"
+			},
+			{
+				"id": "",
+				"message": "<p>instead of</p><p>    command: bash -c \"python <a href=\"http://manage.py\" rel=\"nofollow noopener\" title=\"manage.py\">manage.py</a> makemigrations &amp;&amp; python <a href=\"http://manage.py\" rel=\"nofollow noopener\" title=\"manage.py\">manage.py</a> migrate &amp;&amp; gunicorn mydjango.wsgi -b 0.0.0.0:8000\"<br>    instead of this below line is correct.<br>    command: bash -c \"python <a href=\"http://manage.py\" rel=\"nofollow noopener\" title=\"manage.py\">manage.py</a> makemigrations &amp;&amp; python <a href=\"http://manage.py\" rel=\"nofollow noopener\" title=\"manage.py\">manage.py</a> migrate &amp;&amp; gunicorn myprojet.wsgi -b 0.0.0.0:8000\"</p>",
+				"createdAt": "2018-06-05T12:13:49Z",
+				"isDeleted": "false",
+				"isSpam": "false",
+				"author": {
+					"name": "dayanand124",
+					"isAnonymous": "false",
+					"username": "dayanand124"
+				},
+				"thread": {
+					"_dsq:id": "6966316310"
+				},
+				"_dsq:id": "3931273259"
+			},
+			{
+				"id": "",
+				"message": "<p>Congratulations for this tutorial!  really interesting</p>",
+				"createdAt": "2018-06-13T17:48:52Z",
+				"isDeleted": "false",
+				"isSpam": "false",
+				"author": {
+					"name": "joseaminan",
+					"isAnonymous": "false",
+					"username": "joseaminan"
+				},
+				"thread": {
+					"_dsq:id": "6966316310"
+				},
+				"_dsq:id": "3942958212"
+			},
+			{
+				"id": "",
+				"message": "<p>Thanks for the awesome 3x blogs / tutorials. I am trying to get the package from ytour github up and running. \"make build\" and \"make up\" appear to work without error.</p><p>However visiting localhost:8000 gives me an nginx 502 bad gateway. Shell-DB and Shell-Nginx gets me on no problem. \"make shell-web\" gives \"Error response from daemon: Container 3875b0c01522e8736fbb990f9f62c8b3447d5990f013b6969bac5d5a1cca6648 is not running\"</p><p>Any advice where to point me? Apologies for the question... it's my first time playing with containers... i'm excited to get my django project containorised.</p>",
+				"createdAt": "2018-06-15T10:55:39Z",
+				"isDeleted": "false",
+				"isSpam": "false",
+				"author": {
+					"name": "Dan",
+					"isAnonymous": "false",
+					"username": "disqus_ZMAJYezqg4"
+				},
+				"thread": {
+					"_dsq:id": "6966316310"
+				},
+				"_dsq:id": "3945531830"
+			},
+			{
+				"id": "",
+				"message": "<p>this is my \"docker ps\":</p><p>CONTAINER ID        IMAGE               COMMAND                  CREATED             STATUS              PORTS                            NAMES<br>032e46e131f2        nginx:latest        \"nginx -g 'daemon of…\"   16 minutes ago      Up 12 minutes       80/tcp, 0.0.0.0:8000-&gt;8000/tcp   nz01<br>9d7049646279        redis:latest        \"docker-entrypoint.s…\"   About an hour ago   Up 12 minutes       0.0.0.0:6379-&gt;6379/tcp           rz01<br>2f71f22010e7        postgres:latest     \"docker-entrypoint.s…\"   About an hour ago   Up 12 minutes       5432/tcp                         pz01</p>",
+				"createdAt": "2018-06-15T10:56:01Z",
+				"isDeleted": "false",
+				"isSpam": "false",
+				"author": {
+					"name": "Dan",
+					"isAnonymous": "false",
+					"username": "disqus_ZMAJYezqg4"
+				},
+				"thread": {
+					"_dsq:id": "6966316310"
+				},
+				"parent": {
+					"_dsq:id": "3945531830"
+				},
+				"_dsq:id": "3945532065"
+			},
+			{
+				"id": "",
+				"message": "<p>I have used kitematic to have a look at dz01... this is whats on there: <a href=\"https://pastebin.com/WhENnXn6\" rel=\"nofollow noopener\" title=\"https://pastebin.com/WhENnXn6\">https://pastebin.com/WhENnXn6</a></p>",
+				"createdAt": "2018-06-15T11:31:39Z",
+				"isDeleted": "false",
+				"isSpam": "false",
+				"author": {
+					"name": "Dan",
+					"isAnonymous": "false",
+					"username": "disqus_ZMAJYezqg4"
+				},
+				"thread": {
+					"_dsq:id": "6966316310"
+				},
+				"parent": {
+					"_dsq:id": "3945532065"
+				},
+				"_dsq:id": "3945560994"
+			},
+			{
+				"id": "",
+				"message": "<p>FIXED IT... for anyone else that gets here, there was an issue with celery... updating the requirements file from 4.0.0 to 4.1.1 fixed it</p>",
+				"createdAt": "2018-06-15T11:37:51Z",
+				"isDeleted": "false",
+				"isSpam": "false",
+				"author": {
+					"name": "Dan",
+					"isAnonymous": "false",
+					"username": "disqus_ZMAJYezqg4"
+				},
+				"thread": {
+					"_dsq:id": "6966316310"
+				},
+				"parent": {
+					"_dsq:id": "3945560994"
+				},
+				"_dsq:id": "3945566484"
+			},
+			{
+				"id": "",
+				"message": "<p>Thanks. I put the fix in the repository :)</p>",
+				"createdAt": "2018-06-15T12:22:08Z",
+				"isDeleted": "false",
+				"isSpam": "false",
+				"author": {
+					"name": "Ruddra",
+					"isAnonymous": "false",
+					"username": "skyrudy"
+				},
+				"thread": {
+					"_dsq:id": "6966316310"
+				},
+				"parent": {
+					"_dsq:id": "3945566484"
+				},
+				"_dsq:id": "3945608012"
+			},
+			{
+				"id": "",
+				"message": "<p>Hi,<br>I've tried to follow your tutorial and successfully build the docker project.</p><p>$ docker-compose start<br>Starting db    ... done<br>Starting web   ... done<br>Starting nginx ... done</p><p>But in docker ps I only got this:<br>cccd210ee314        postgres:latest     \"docker-entrypoint.s…\"   4 minutes ago       Up 8seconds        5432/tcp            ps01</p><p>Seems like only my postgres db running, and localhost:8000 is not working</p>",
+				"createdAt": "2018-06-22T01:52:41Z",
+				"isDeleted": "false",
+				"isSpam": "false",
+				"author": {
+					"name": "Adiyat Mubarak",
+					"isAnonymous": "false",
+					"username": "adiyatmubarak"
+				},
+				"thread": {
+					"_dsq:id": "6966316310"
+				},
+				"_dsq:id": "3955397321"
+			},
+			{
+				"id": "",
+				"message": "<p>most probably its for psycopg2. Please use 4.1.1 or greater.</p>",
+				"createdAt": "2018-06-22T04:55:47Z",
+				"isDeleted": "false",
+				"isSpam": "false",
+				"author": {
+					"name": "Ruddra",
+					"isAnonymous": "false",
+					"username": "skyrudy"
+				},
+				"thread": {
+					"_dsq:id": "6966316310"
+				},
+				"parent": {
+					"_dsq:id": "3955397321"
+				},
+				"_dsq:id": "3955547283"
+			},
+			{
+				"id": "",
+				"message": "<p>This post was a real life server for me. I had been using using uwsgi only to serve my app and the statics and was wondering how to serve the statics with nginx since nginx was on the host OS, and the django app in a docker container.</p>",
+				"createdAt": "2018-07-11T16:03:23Z",
+				"isDeleted": "false",
+				"isSpam": "false",
+				"author": {
+					"name": "Humphrey Butau",
+					"isAnonymous": "false",
+					"username": "humphreybutau"
+				},
+				"thread": {
+					"_dsq:id": "6641304912"
+				},
+				"_dsq:id": "3983899263"
+			},
+			{
+				"id": "",
+				"message": "<p>Thank you, Raja. It helped me a lot.</p>",
+				"createdAt": "2018-07-17T15:41:04Z",
+				"isDeleted": "false",
+				"isSpam": "false",
+				"author": {
+					"name": "Miroslav Sivon",
+					"isAnonymous": "false",
+					"username": "miroslavsivon"
+				},
+				"thread": {
+					"_dsq:id": "4146231003"
+				},
+				"parent": {
+					"_dsq:id": "3647377434"
+				},
+				"_dsq:id": "3993095807"
+			},
+			{
+				"id": "",
+				"message": "<p>Since this method does not check for the domain is it subseptible to  Cross-Site Request Forgery?</p><p><a href=\"https://docs.djangoproject.com/en/2.0/topics/security/#host-header-validation\" rel=\"nofollow noopener\" title=\"https://docs.djangoproject.com/en/2.0/topics/security/#host-header-validation\">https://docs.djangoproject....</a></p>",
+				"createdAt": "2018-07-20T04:39:01Z",
+				"isDeleted": "false",
+				"isSpam": "false",
+				"author": {
+					"name": "さりん",
+					"isAnonymous": "false",
+					"username": "disqus_D1lmWPlZXG"
+				},
+				"thread": {
+					"_dsq:id": "6966316310"
+				},
+				"_dsq:id": "3997644757"
+			},
+			{
+				"id": "",
+				"message": "<p>I am not able to figure out code for editing the inline objects. They wont show up.</p>",
+				"createdAt": "2018-07-20T10:50:42Z",
+				"isDeleted": "false",
+				"isSpam": "false",
+				"author": {
+					"name": "Viscmad Singh",
+					"isAnonymous": "false",
+					"username": "viscmadsingh"
+				},
+				"thread": {
+					"_dsq:id": "4146231003"
+				},
+				"_dsq:id": "3997914732"
+			},
+			{
+				"id": "",
+				"message": "<p>You can put your preferred domains in ALLOWED_HOSTS or you can look into this package as well: <a href=\"https://github.com/ottoyiu/django-cors-headers\" rel=\"nofollow noopener\" title=\"https://github.com/ottoyiu/django-cors-headers\">https://github.com/ottoyiu/...</a></p>",
+				"createdAt": "2018-07-20T16:19:34Z",
+				"isDeleted": "false",
+				"isSpam": "false",
+				"author": {
+					"name": "Ruddra",
+					"isAnonymous": "false",
+					"username": "skyrudy"
+				},
+				"thread": {
+					"_dsq:id": "6966316310"
+				},
+				"parent": {
+					"_dsq:id": "3997644757"
+				},
+				"_dsq:id": "3998359875"
+			},
+			{
+				"id": "",
+				"message": "<p>the app was not able to connect to db until I renamed the containers: web, nginx and db.</p>",
+				"createdAt": "2018-08-03T03:06:22Z",
+				"isDeleted": "false",
+				"isSpam": "false",
+				"author": {
+					"name": "Виктор Ди",
+					"isAnonymous": "false",
+					"username": "disqus_fT0IYMW5lJ"
+				},
+				"thread": {
+					"_dsq:id": "6966316310"
+				},
+				"_dsq:id": "4019516257"
+			},
+			{
+				"id": "",
+				"message": "<p>This tutorial is great - was very useful.<br>Has anyone got any resources for deploying this setup to AWS.... I have never done that myself. Would be cool to have a bit of a walk-through if anyone knows of a decent one.</p>",
+				"createdAt": "2018-08-06T06:28:55Z",
+				"isDeleted": "false",
+				"isSpam": "false",
+				"author": {
+					"name": "Dan",
+					"isAnonymous": "false",
+					"username": "disqus_ZMAJYezqg4"
+				},
+				"thread": {
+					"_dsq:id": "6966316310"
+				},
+				"_dsq:id": "4024361601"
+			},
+			{
+				"id": "",
+				"message": "<p><a href=\"https://uploads.disquscdn.com/images/11130f2040156b7d5cd9172d1590ee8f54d62e1efd737030de2ecd87ac092206.jpg\" rel=\"nofollow noopener\" title=\"https://uploads.disquscdn.com/images/11130f2040156b7d5cd9172d1590ee8f54d62e1efd737030de2ecd87ac092206.jpg\">https://uploads.disquscdn.c...</a> Saw a Mexican lady driving around with a \"Jesus\" bumper sticker. Can't tell if she loves Jesus or is really supportive of her husband.</p>",
+				"createdAt": "2018-09-01T20:00:07Z",
+				"isDeleted": "false",
+				"isSpam": "true",
+				"author": {
+					"name": "Harley3986",
+					"isAnonymous": "false",
+					"username": "harley3986"
+				},
+				"thread": {
+					"_dsq:id": "6966281197"
+				},
+				"_dsq:id": "4072589495"
+			},
+			{
+				"id": "",
+				"message": "<p>Hi Rudra ,i have try to configure django in vs code but unable to configure .so  can you share your number or  skaype id so that  i will  communicate..</p>",
+				"createdAt": "2018-09-05T12:48:48Z",
+				"isDeleted": "false",
+				"isSpam": "false",
+				"author": {
+					"name": "Arun ksamal",
+					"isAnonymous": "false",
+					"username": "arunksamal"
+				},
+				"thread": {
+					"_dsq:id": "6646003366"
+				},
+				"_dsq:id": "4078691197"
+			},
+			{
+				"id": "",
+				"message": "<p>Hi Arun, please feel free to share your problem in here. If its too much complicated, then please ask in stackoverflow :). Thanks</p>",
+				"createdAt": "2018-09-07T15:51:50Z",
+				"isDeleted": "false",
+				"isSpam": "false",
+				"author": {
+					"name": "Ruddra",
+					"isAnonymous": "false",
+					"username": "skyrudy"
+				},
+				"thread": {
+					"_dsq:id": "6646003366"
+				},
+				"parent": {
+					"_dsq:id": "4078691197"
+				},
+				"_dsq:id": "4082768114"
+			},
+			{
+				"id": "",
+				"message": "<p>Great! Thanks!</p>",
+				"createdAt": "2018-09-17T15:07:24Z",
+				"isDeleted": "false",
+				"isSpam": "false",
+				"author": {
+					"name": "Andrzej",
+					"isAnonymous": "false",
+					"username": "disqus_TdiS7Bkc2T"
+				},
+				"thread": {
+					"_dsq:id": "4142505684"
+				},
+				"_dsq:id": "4100102063"
+			},
+			{
+				"id": "",
+				"message": "<p>it giving error like <br>The reset password link is no longer valid. <br>in mail this link is going <br>  http://127.0.0.1:8000/user/reset_password_confirm/(%3FPb'YTNlYWQyYWUtMTAyOC00ZjY1LTgwYTMtMWQ3NThiYjJjOTQ3'%5B0-9A-Za-z%5D+)-(%3FP505-9a4d4776744e45518e0e.+)/</p>",
+				"createdAt": "2018-10-04T12:18:23Z",
+				"isDeleted": "false",
+				"isSpam": "false",
+				"author": {
+					"name": "firoj khan",
+					"isAnonymous": "false",
+					"username": "disqus_0GqaZnP8Yj"
+				},
+				"thread": {
+					"_dsq:id": "6651272407"
+				},
+				"_dsq:id": "4128526469"
+			},
+			{
+				"id": "",
+				"message": "<p>I can't use the make command. Do I need to intall a particular package/software to use it? Thanks for the tutorial and the boilerplate! :D</p>",
+				"createdAt": "2018-10-09T19:09:20Z",
+				"isDeleted": "false",
+				"isSpam": "false",
+				"author": {
+					"name": "Diego Tobarra",
+					"isAnonymous": "false",
+					"username": "diegotobarra"
+				},
+				"thread": {
+					"_dsq:id": "6966281197"
+				},
+				"_dsq:id": "4137097269"
+			},
+			{
+				"id": "",
+				"message": "<p>On mac/linux, you don't need to install anything. I am not sure about windows. Sorry!!</p>",
+				"createdAt": "2018-10-12T21:02:13Z",
+				"isDeleted": "false",
+				"isSpam": "false",
+				"author": {
+					"name": "Ruddra",
+					"isAnonymous": "false",
+					"username": "skyrudy"
+				},
+				"thread": {
+					"_dsq:id": "6966281197"
+				},
+				"parent": {
+					"_dsq:id": "4137097269"
+				},
+				"_dsq:id": "4142220814"
+			},
+			{
+				"id": "",
+				"message": "<p>disqus_0GqaZnP8Yj important</p>",
+				"createdAt": "2019-01-04T16:56:12Z",
+				"isDeleted": "false",
+				"isSpam": "true",
+				"author": {
+					"name": "disqus_ZwWOr4FAus",
+					"isAnonymous": "false",
+					"username": "disqus_ZwWOr4FAus"
+				},
+				"thread": {
+					"_dsq:id": "6651272407"
+				},
+				"parent": {
+					"_dsq:id": "4128526469"
+				},
+				"_dsq:id": "4269461710"
+			},
+			{
+				"id": "",
+				"message": "<p>Loоking for sеxting <br><a href=\"https://www.google.com/#btnI=rutidgunu&amp;q=fuckster.club&amp;t43j=atohjvqmgj\" rel=\"nofollow noopener\" title=\"https://www.google.com/#btnI=rutidgunu&amp;q=fuckster.club&amp;t43j=atohjvqmgj\">https://www.google.com/#btn...</a> <br>Add me, my id 507569 </p>",
+				"createdAt": "2019-03-17T05:11:50Z",
+				"isDeleted": "false",
+				"isSpam": "true",
+				"author": {
+					"name": "huduse1991",
+					"isAnonymous": "false",
+					"username": "huduse1991"
+				},
+				"thread": {
+					"_dsq:id": "6966281197"
+				},
+				"parent": {
+					"_dsq:id": "4137097269"
+				},
+				"_dsq:id": "4381967969"
+			},
+			{
+				"id": "",
+				"message": "<p>nice information keep sharing</p>",
+				"createdAt": "2019-03-17T07:17:56Z",
+				"isDeleted": "false",
+				"isSpam": "false",
+				"author": {
+					"name": "noisemakers.com.ng",
+					"isAnonymous": "false",
+					"username": "nigeriawillworkcom"
+				},
+				"thread": {
+					"_dsq:id": "6646003366"
+				},
+				"parent": {
+					"_dsq:id": "3802564905"
+				},
+				"_dsq:id": "4382046683"
+			}
+		],
+		"_xmlns": "http://disqus.com",
+		"_xmlns:dsq": "http://disqus.com/disqus-internals",
+		"_xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+		"_xsi:schemaLocation": "http://disqus.com/api/schemas/1.0/disqus.xsd http://disqus.com/api/schemas/1.0/disqus-internals.xsd"
+	}
+}

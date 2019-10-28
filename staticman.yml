@@ -1,0 +1,25 @@
+comments: 
+  allowedFields: ["name", "email", "website", "comment", "reply_to"]
+  branch: master
+  commitMessage: "New comment in {options.slug}"
+  filename: "comment-{@timestamp}"
+  format: yaml
+  generatedFields: 
+    date: 
+      options: 
+        format: iso8601
+      type: date
+  moderation: true
+  path: "comments/{options.slug}"
+  notifications:
+    enabled: true
+  requiredFields: ["name", "email", "comment"]
+  transforms: 
+    email: md5
+  name: "ruddra.com"
+  allowedOrigins: ["localhost", "ruddra.com", "https://ruddra.com"]
+  akismet:
+    enabled: true
+    author: "Arnab Kumar Shil"
+    authorEmail: "ruddra90@gmail.com"
+    authorUrl: "https://ruddra.com"
