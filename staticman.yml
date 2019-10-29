@@ -17,7 +17,7 @@ comments:
   transforms: 
     email: md5
   name: "ruddra.com"
-  allowedOrigins: ["localhost:1313", "ruddra.com", "mg.ruddra.com"]
+  allowedOrigins: ["localhost", "ruddra.com", "mg.ruddra.com"]
   akismet:
     enabled: true
     author: "Arnab Kumar Shil"
