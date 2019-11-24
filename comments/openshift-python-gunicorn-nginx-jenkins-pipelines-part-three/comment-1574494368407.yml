@@ -1,0 +1,7 @@
+_id: 72aa03f0-0dc3-11ea-b158-bf4c575bb62e
+_parent: openshift-python-gunicorn-nginx-jenkins-pipelines-part-three
+reply_to: ''
+name: Jayakumar
+email: 714ec57596b69a346ccbe29792bb6cca
+comment: "Hi Ruddra, \r\n\r\nGreat. Thanks for the information. This will help. \r\n\r\nI need few clarification on below.\r\n\r\nIf you run using gunicorn or flask run with port. How we can expose route. Route is not working in OpenShift. Can you help me on this. If we go with node port. How we can do it.?"
+date: '2019-11-23T07:32:48.402Z'
