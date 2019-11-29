@@ -1,0 +1,7 @@
+_id: cddb5c00-126a-11ea-9b12-e37e46811bb7
+_parent: install-mysqlclient-macos
+reply_to: ''
+name: liiy
+email: dc83ef3ba914d9f43d328538d0d20977
+comment: "I can install mysqlclient success according your step\r\nBut when I excute \"pip install mysql-python \" \r\nit show \r\n _mysql.c:44:10: fatal error: 'my_config.h' file not found\r\n  #include \"my_config.h\"\r\nhow can i fix it ?\r\nThank you"
+date: '2019-11-29T05:40:51.942Z'
