@@ -1,0 +1,9 @@
+_id: 62ea0820-1408-11ea-89d8-8f695e0e209d
+_parent: install-mysqlclient-macos
+reply_to: ''
+name: Cem
+email: 05d143cda80a12982873ebc14cc0e7ea
+comment: >-
+  It worked for me after adding --force in the step 6 (brew link --overwrite
+  mysql-connector-c)
+date: '2019-12-01T07:01:24.247Z'
