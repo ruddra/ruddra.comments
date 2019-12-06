@@ -1,6 +1,0 @@
-_id: 2984441647
-name: Sidhartha Mahato
-email: 5f99a04a28bae087be179b9d64a6550b
-reply_to: ''
-comment: i have tried the example by cloneing the project directly on server but on (gunicorn --bind) i have replaced the localhost with my server ip .but its showing "invalid address" error . i have attached the screenshot ,please check and help !! <a href="https://uploads.disquscdn.com/images/5f8a4ae195c8b334c680a890624beaf384b40371b9ad197a2ac7d9bb3dcbd4bb.png" rel="nofollow noopener" title="https://uploads.disquscdn.com/images/5f8a4ae195c8b334c680a890624beaf384b40371b9ad197a2ac7d9bb3dcbd4bb.png">https://uploads.disquscdn.c...</a>
-date: '2016-11-04T12:45:01Z' 

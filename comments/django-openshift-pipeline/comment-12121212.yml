@@ -1,6 +1,0 @@
-_id: 12121212
-name: Arnab Kumar Shil
-email: 32eeb1c619ba12f413b8f94d9d308024
-reply_to: 121212
-comment: "Hi @praveenlnx, There is a good tutorial by redhat available here: https://blog.openshift.com/cicd-with-openshift/ This is the one I used for learning and used the knowledge to implement CI/CD for Django. You can look into this as well."
-date: '2019-06-17T00:00:00Z' 

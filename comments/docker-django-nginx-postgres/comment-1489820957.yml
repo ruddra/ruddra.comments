@@ -1,0 +1,6 @@
+_id: 1489820957
+name: gamesbook
+email: e309d5c40859542295b03b1451d2cbef
+reply_to: ''
+comment: What parts of the setup need to change so that nGinx is available on port 80 to the "outside world" but gunicorn still keeps using port 8000?
+date: '2017-03-18T13:09:17Z' 

@@ -1,0 +1,6 @@
+_id: 1479446913
+name: Chirag Gupta
+email: 279b0f00dce98138986b58727e2473ba
+reply_to: ''
+comment: "In your docker file 4th step is giving error.Please change it from `ADD requirements.pip /config/` to `ADD config/requirements.pip /config/`"
+date: '2016-11-18T11:28:33Z' 

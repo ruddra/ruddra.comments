@@ -1,6 +1,0 @@
-_id: 3797127820
-name: Ruddra
-email: 32eeb1c619ba12f413b8f94d9d308024
-reply_to: 3796744228
-comment: 'Well, I also faced the same issue. Its related role management of Openshift Online. Maybe you can look into this: https://bugzilla.redhat.com/show_bug.cgi?id=1336345'
-date: '2018-03-11T03:59:33Z' 
