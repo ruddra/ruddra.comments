@@ -1,0 +1,10 @@
+_id: 1529038539
+name: Dan
+email: 0a365b47fdaee5c39d7ef51cc7bb0365
+reply_to: ''
+comment: 'Thanks for the awesome 3x blogs / tutorials. I am trying to get the package from ytour github up and running. "make build" and "make up" appear to work without error.
+
+However visiting localhost:8000 gives me an nginx 502 bad gateway. Shell-DB and Shell-Nginx gets me on no problem. "make shell-web" gives "Error response from daemon: Container 3875b0c01522e8736fbb990f9f62c8b3447d5990f013b6969bac5d5a1cca6648 is not running"
+
+Any advice where to point me? Apologies for the question... its my first time playing with containers... i am excited to get my django project containorised.'
+date: '2018-06-15T10:55:39Z' 

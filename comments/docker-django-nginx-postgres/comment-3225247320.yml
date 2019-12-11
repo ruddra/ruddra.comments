@@ -1,6 +1,0 @@
-_id: 3225247320
-name: Sidhartha Mahato
-email: 5f99a04a28bae087be179b9d64a6550b
-reply_to: ''
-comment: My requirement.txt is containing lots of libraries ,So while creating the virtualenv most of the time it gives error,So "RUN pip install -r /config/requirements.pip " this step fails for me .how to resolve ?
-date: '2017-03-27T05:30:23Z' 

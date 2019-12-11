@@ -1,6 +1,0 @@
-_id: 3391011974
-name: Jesus
-email: 5c056b8f404670d43eb13c28b210007a
-reply_to: ''
-comment: "Hello Ruddra, I´ve been working only with Django and Postgress so far, I followed your tutorial before and it helped me a lot, now I am about to integrate gunicorn and Nginx, but I noticed your docker-compose file uses version: 2, is there a difference if I am using version 3? I guess the part that says `bash -c 'python manage.py makemigrations &amp;&amp; python manage.py migrate &amp;&amp; gunicorn mydjango.wsgi -b 0.0.0.0:8000'`. I am going to get it from the `DOCKERFILE` through an image, and I have seen in some tutorials they use a file called entrypoint (which I don´t really understand but can learn if this is the right path). Another question is, I have been looking and comparing different tutorials, and sometimes in the DOCKERFILE I see from Ubuntu 14.02 (or any version) and sometimes I see from Python 3.6 (or any version), why is this? I am really new at this so excuse me if this is a silly question"
-date: '2017-06-29T06:08:17Z' 

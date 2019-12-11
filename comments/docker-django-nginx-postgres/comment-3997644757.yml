@@ -1,6 +1,0 @@
-_id: 3997644757
-name: さりん
-email: 2290e8a9e7acd5a58a47a82c529ddf60
-reply_to: ''
-comment: "Since this method does not check for the domain is it subseptible to Cross-Site Request Forgery? https://docs.djangoproject.com/en/2.0/topics/security/#host-header-validation"
-date: '2018-07-20T04:39:01Z' 

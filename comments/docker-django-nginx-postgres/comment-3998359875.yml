@@ -1,6 +1,0 @@
-_id: 3998359875
-name: Ruddra
-email: 32eeb1c619ba12f413b8f94d9d308024
-reply_to: 3997644757
-comment: "You can put your preferred domains in ALLOWED_HOSTS or you can look into this package as well: https://github.com/ottoyiu/django-cors-headers"
-date: '2018-07-20T16:19:34Z' 

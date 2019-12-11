@@ -1,0 +1,6 @@
+_id: 1521290356
+name: Ruddra
+email: 32eeb1c619ba12f413b8f94d9d308024
+reply_to: 1521212893
+comment: You need to use collectstatic and put the static files in static directory. After that, you need to restart your server
+date: '2018-03-17T18:39:16Z' 

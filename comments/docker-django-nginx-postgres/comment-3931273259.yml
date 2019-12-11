@@ -1,9 +1,0 @@
-_id: 3931273259
-name: dayanand124
-email: 6455a8e502905cafe7ad760672bdefca
-reply_to: ''
-comment: 'instead of
- `command: bash -c "python manage.py makemigrations &amp;&amp; python manage.py migrate &amp;&amp; gunicorn mydjango.wsgi -b 0.0.0.0:8000" ` 
-  the following line is correct.  
- `command: bash -c "python manage.py makemigrations &amp;&amp; python manage.py migrate &amp;&amp; gunicorn myprojet.wsgi -b 0.0.0.0:8000"`'
-date: '2018-06-05T12:13:49Z' 

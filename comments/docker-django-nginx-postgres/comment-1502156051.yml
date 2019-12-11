@@ -1,0 +1,18 @@
+_id: 1502156051
+name: vijay
+email: c1065401426339a1cf88076034532bbc
+reply_to: ''
+comment: "I getting this err: python: can't open file manage.py': [Errno 2] No such file or directory
+```
+full output:  
+ttaching to TWVpsql, TWVdjango, TWVnginx  
+WVpsql | LOG: database system was shut down at 2017-08-08 07:29:00 UTC  
+WVdjango | python: can't open file manage.py': [Errno 2] No such file or directory  
+WVpsql | LOG: MultiXact member wraparound protections are now enabled  
+WVpsql | LOG: database system is ready to accept connections  
+WVdjango exited with code 2  
+WVnginx | 2017/08/08 07:29:15 [emerg] 1#1: host not found in upstream 'web:8000' in /etc/nginx/conf.d/TWV.conf:3  
+WVnginx | nginx: [emerg] host not found in upstream 'web:8000' in /etc/nginx/conf.d/TWV.conf:3  
+WVnginx exited with code 1
+```"
+date: '2017-08-08T07:34:11Z' 

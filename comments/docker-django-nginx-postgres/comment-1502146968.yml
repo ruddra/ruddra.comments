@@ -1,0 +1,16 @@
+_id: 1502146968
+name: Jesus
+email: 5c056b8f404670d43eb13c28b210007a
+reply_to: 1495755865
+comment: "Thanks Salomão, let me check if I understood, the bind=unix:/var/www/app/run/gunicorn.sock binds the connection to an url which is inside the gunicorn.sock file and I have to have a reference to it from nginx config location? What is this gunicorn.sock, in the official web page <a href='http://gunicorn-docs.readthedocs.io/en/19.2.1/deploy.html#nginx-configuration'>http://gunicorn-docs.readth...</a>
+
+I see this:   
+```
+upstream app_server {  
+ server unix:/tmp/gunicorn.sock fail_timeout=0;  
+ # For a TCP configuration:  
+ # server 192.168.0.7:8000 fail_timeout=0;  
+ }
+```
+Thanks again for your response"
+date: '2017-08-08T05:02:48Z' 

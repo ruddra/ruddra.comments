@@ -1,0 +1,17 @@
+_id: 1529610761
+name: Adiyat Mubarak
+email: 4a5b327f3e861334033dddaf140eddd7
+reply_to: ''
+comment: "Hi,  
+I've tried to follow your tutorial and successfully build the docker project.
+```
+$ docker-compose start  
+Starting db ... done  
+Starting web ... done  
+Starting nginx ... done
+```
+But in docker ps I only got this:  
+cccd210ee314 postgres:latest 'docker-entrypoint.s…' 4 minutes ago Up 8seconds 5432/tcp ps01
+
+Seems like only my postgres db running, and localhost:8000 is not working"
+date: '2018-06-22T01:52:41Z' 

@@ -1,0 +1,6 @@
+_id: 1521291015
+name: guest
+email: d8fc4163d70fd31c931b6a737b40f5f0
+reply_to: 1521212893
+comment: Yes. That is what I did. And the errors I received are the result. I had put the colletcstatic command in the bash commands in the docker-compose file, so the command runs every time I do docker-compose up --build
+date: '2018-03-17T18:50:15Z' 

@@ -1,6 +1,0 @@
-_id: 3902590410
-name: Carlos
-email: d57d77b3ad3ecec560aff5eb40dc9ee0
-reply_to: ''
-comment: If it's not working as is, check in his git repo the nginx conf file and copy it to your files, that made it work for me.
-date: '2018-05-16T01:13:45Z' 

@@ -1,7 +1,0 @@
-_id: 3627771115
-name: Rene Dohmen
-email: bc36048e6847e32664c651fa6e232d7c
-reply_to: 3457271288
-comment: "do you have a manage.py in src/   
-If that's absent you don't have a correct django app in src/"
-date: '2017-11-22T09:10:59Z' 

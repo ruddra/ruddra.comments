@@ -1,0 +1,6 @@
+_id: 1516108004
+name: Joost Slijkoort
+email: 14c9a7d39d405304fe4260542fb179d3
+reply_to: ''
+comment: Great tutorial! Only thing you missed to explain is setting `ALLOWED_HOSTS = ['web']` to get your app running.
+date: '2018-01-16T19:06:44Z' 

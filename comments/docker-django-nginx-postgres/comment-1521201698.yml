@@ -1,0 +1,13 @@
+_id: 1521201698
+name: Ruddra
+email: 32eeb1c619ba12f413b8f94d9d308024
+reply_to: 1507863342
+comment: "I personally use this:  
+```  
+try:  
+ import * from .local_settings  
+except ImportError:  
+ pass  
+```  
+local_settings.py can be put in gitignore. You can put your DB configs and other server related stuff there."
+date: '2018-03-16T18:01:38Z' 

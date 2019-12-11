@@ -1,0 +1,6 @@
+_id: 1521552250
+name: guest
+email: 74b9551d3021e9a57e6342f5b2aea49f
+reply_to: 1521212893
+comment: "Alright, i returned the nginx port to 8000 as you say, however, I keep getting this error: https://pastebin.com/8xwAxzbb, I cannot login to the containers shell for I cannot get past the error."
+date: '2018-03-20T19:24:10Z' 

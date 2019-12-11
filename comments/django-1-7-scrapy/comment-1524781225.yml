@@ -1,7 +1,7 @@
 _id: 1524781225
 name: robosoma
 email: 71fbcd8555a9f77981745638fd58cb05
-reply_to: 1524625008
+reply_to: 1504537769
 comment: "with django 2.x worked code is
 ```
 sys.path.append(os.path.dirname(os.path.abspath('.')))  

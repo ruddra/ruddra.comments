@@ -1,6 +1,0 @@
-_id: 3810862441
-name: guest
-email: d8fc4163d70fd31c931b6a737b40f5f0
-reply_to: 3810083765
-comment: 'My nginx config is the same as the one you have in the repository. As for the logs, everything seems fine. The only thing that is out of place is when it says static not found: then uri given.'
-date: '2018-03-17T18:26:01Z' 
