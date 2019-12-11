@@ -1,0 +1,28 @@
+_id: 1499438381
+name: Steve
+email: 53cbfb8a809bd9d492938fcbb6f5983e
+reply_to: ''
+comment: "
+1: This does not seem to work:  
+
+     pip install djangoencryptfile
+
+2: Bug here?: 
+
+```
+open('readme.md', 'rb') as inputfile: 
+```  
+
+should this be:
+
+```  
+with open('readme.md', 'rb') as inputfile:
+```
+
+3: Another bug here  
+```
+usefile = File(inputfile, name='readme.md')  
+encrypted_file = service.encrypt_file(useFile, password, extension='enc') #
+```
+case mismatch between usefile and useFile"
+date: '2017-07-07T20:39:41Z' 

@@ -10,8 +10,8 @@ and you have your gunicorn runing inside your app-container. Remember that your 
 The "location" in your nginx is the gunicorn.sock
 ```
  location / {  
- include proxy\_params;  
- proxy\_pass   
+ include proxy_params;  
+ proxy_pass   
  http://unix:/var/www/app/run/gunicorn.sock;  
  }
  ```'

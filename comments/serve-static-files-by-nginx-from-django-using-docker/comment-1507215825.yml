@@ -1,0 +1,13 @@
+_id: 1507215825
+name: Alex
+email: cf5192f35596193f955810915a021d2f
+reply_to: ''
+comment: "Hi - I'm curious about why in this example the nginx mydjango.conf file specifies   
+```
+listen 8001;
+```
+while in your previous example it was  
+```
+listen 8000;
+```"
+date: '2017-10-05T21:03:45Z' 

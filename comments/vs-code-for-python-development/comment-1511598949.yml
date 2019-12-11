@@ -1,0 +1,12 @@
+_id: 1511598949
+name: Pirmin Schneider
+email: 785b8e4320acd0936f1fff81c36189e5
+reply_to: ''
+comment: I think you should also do \`pip install pylint-django\` when using
+
+"python.linting.pylintArgs": \[
+
+ "--load-plugins",  
+ "pylint_django"  
+ \],
+date: '2017-11-25T14:35:49Z' 

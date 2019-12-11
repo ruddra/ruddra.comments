@@ -1,0 +1,6 @@
+_id: 1519826872
+name: Thomas Weholt
+email: fe2cfa2d1e954a72b6bcd8a55a7dfd16
+reply_to: ''
+comment: I've based my current project on the information posted here and it has worked great until I tried deploying my project using docker-machine. It seems like the src-folder containing my app isn't created properly when running on the remote docker instance but the folders for nginx, which is shared between the djangoproject and nginx are created ok. If I do the exact same and run docker-compose build &amp;&amp; docker-compose up locally or log in using ssh and do it on the server it runs just fine. Deploying using docker-machine was sort of the idea to solve my deployment problems so an article based on this one but deploying using docker-machine would be great. Keep up the great work! :-)
+date: '2018-02-28T20:07:52Z' 

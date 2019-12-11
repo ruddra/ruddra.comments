@@ -1,0 +1,10 @@
+_id: 1525445352
+name: Sage Poudel
+email: e58604b8fd08a6da706eee441efe4508
+reply_to: ''
+comment: "Thanks for the tutorial. While i was trying to enter
+
+docker exec DOCKERNAME /bin/sh -c 'python manage.py collectstatic --noinput'
+
+Error: No such container: NGINXDOCKERNAME"
+date: '2018-05-04T20:49:12Z' 

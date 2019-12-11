@@ -1,6 +1,0 @@
-_id: 3613219728
-name: qiwihui
-email: c0165bb59aa2a4c9e5fdb3c84a5ce81a
-reply_to: ''
-comment: in section IGNORING UNNECESSARY FILES, is should be "\*\*/\*.pyc" not "\*\*/\*,pyc"
-date: '2017-11-13T02:37:17Z' 

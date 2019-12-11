@@ -1,6 +1,0 @@
-_id: 3676049370
-name: Malik Rumi
-email: 4676d7d41da2b2b924f061315e5f95eb
-reply_to: ''
-comment: I have 2017.3. The above did not work. What did was putting settings in the script path and adding django setting module with a value of mysite.settimgs to the environmental variable.
-date: '2017-12-23T19:24:33Z' 

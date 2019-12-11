@@ -1,0 +1,8 @@
+_id: 1490030241
+name: Luis Naranjo
+email: a3e97d622924e2c195d1a93646695858
+reply_to: ''
+comment: 'docker exec dg01 bash -c "python manage.py collectstatic --noinput"
+
+This worked for me, not the collectstatic command in the guide'
+date: '2017-03-20T23:17:21Z' 

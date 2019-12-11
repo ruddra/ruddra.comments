@@ -1,0 +1,6 @@
+_id: 1513002019
+name: Johannes Nordmann
+email: a5fa060e8e2ec337f64961203f4a1279
+reply_to: ''
+comment: You can ommit/skip step 2. It is not required. Just make sure that in step 3 the alias is the whole path (here /src/static, or in general $WORKDIR/STATIC_ROOT or $WORKDIR/MEDIA_ROOT) and location matches STATIC_URL or MEDIA_URL.
+date: '2017-12-11T20:20:19Z' 

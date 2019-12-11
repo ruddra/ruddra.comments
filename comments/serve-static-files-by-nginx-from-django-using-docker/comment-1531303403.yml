@@ -1,0 +1,6 @@
+_id: 1531303403
+name: Humphrey Butau
+email: 3992780af1368296def53c15bf41f3dc
+reply_to: ''
+comment: This post was a real life server for me. I had been using using uwsgi only to serve my app and the statics and was wondering how to serve the statics with nginx since nginx was on the host OS, and the django app in a docker container.
+date: '2018-07-11T16:03:23Z' 

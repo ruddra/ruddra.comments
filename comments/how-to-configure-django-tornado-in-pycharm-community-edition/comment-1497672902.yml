@@ -1,0 +1,6 @@
+_id: 1497672902
+name: Ruddra
+email: 32eeb1c619ba12f413b8f94d9d308024
+reply_to: 1497406153
+comment: Pycharm community edition doesn't support template/html coding. You can use other IDE like Atom or VSCode for it. And rather than creating django project using Pycharm, I think you can create it more simply by running this command \`<a href="http://django-admin.py" rel="nofollow noopener" title="django-admin.py">django-admin.py</a> startproject myproject\`, then import it in given instructions.
+date: '2017-06-17T10:15:02Z' 

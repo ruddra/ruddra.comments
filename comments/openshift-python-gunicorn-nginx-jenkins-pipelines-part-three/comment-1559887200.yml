@@ -1,0 +1,6 @@
+_id: 1559887200
+name: Arnab Kumar Shil
+email: 32eeb1c619ba12f413b8f94d9d308024
+reply_to: 1559844000
+comment: "Hi @RekhaSabbineni22, its hard to say what it might be wrong without any codes. But maybe you can look into my repository: https://github.com/ruddra/openshift-python-nginx-pipeline and use it as boilerplate to implement your pipeline. Hope it helps"
+date: '2019-06-07T12:00:00Z' 

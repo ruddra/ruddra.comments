@@ -1,0 +1,10 @@
+_id: 1490852027
+name: Mohamed Amr Elgeneidy
+email: 5fbb36c9709047e3104da625911147ce
+reply_to: ''
+comment: "@disqus_NRx0k3reSp:disqus from where you have your .yml file try running: docker-compose run &lt;django_container_name&gt; python <a href='http://manage.py' rel='nofollow noopener' title='manage.py'>manage.py</a> collectstatic.
+
+This might also help: <a href='https://docs.docker.com/compose/production/#modify-your-compose-file-for-production' rel='nofollow noopener' title='https://docs.docker.com/compose/production/#modify-your-compose-file-for-production'>https://docs.docker.com/com...</a>
+
+bon chance"
+date: '2017-03-30T11:33:47Z' 

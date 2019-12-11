@@ -1,0 +1,6 @@
+_id: 1497527547
+name: R3SE
+email: 0b97c442b934127b289f2b245d25b424
+reply_to: ''
+comment: "I'm getting an error : ModuleNotFoundError: No module named 'utility', with celery, why is that ?"
+date: '2017-06-15T17:52:27Z' 
