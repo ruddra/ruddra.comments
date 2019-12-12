@@ -1,0 +1,7 @@
+_id: 454dabd0-1ce8-11ea-a60f-6b324283cbef
+_parent: django-serialize-foreignkey-m2m-property-instance-fields
+reply_to: ''
+name: Damien
+email: ac68ee4f9148f4c5fa96cfae6f5d3e00
+comment: "Thank you for the article.\r\nI think there's 2 errors :\r\n- In the proper way (first method), I think it's not possible to serialize M2M relationship\r\n- In the DRF way, the serializers must inherit from serializers.ModelSerializer, not from models.Model\r\nCheers"
+date: '2019-12-12T14:04:11.138Z'
