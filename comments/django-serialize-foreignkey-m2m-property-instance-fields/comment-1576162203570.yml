@@ -1,0 +1,10 @@
+_id: ade80680-1cee-11ea-a60f-6b324283cbef
+_parent: django-serialize-foreignkey-m2m-property-instance-fields
+reply_to: 454dabd0-1ce8-11ea-a60f-6b324283cbef
+name: Ruddra
+email: 32eeb1c619ba12f413b8f94d9d308024
+comment: >-
+  Thank you for noticing the issue with **DRF**. I fixed it. But regarding your
+  first point, it is possible to serialize **M2M** field using django
+  serializer. Please try out the code given with this article :) .
+date: '2019-12-12T14:50:03.567Z'
