@@ -1,0 +1,9 @@
+_id: 77657f90-1fdf-11ea-bc32-ef9e3995ab90
+_parent: openshift-python-gunicorn-nginx-jenkins-pipelines-part-one
+reply_to: ''
+name: Bhaktawr
+email: 604b20bcd8c267ff419475f99880c3df
+comment: >-
+  as gunicorn will run in master worker setup, where have you defined the no. of
+  workers ?
+date: '2019-12-16T08:38:43.155Z'
