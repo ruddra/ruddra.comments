@@ -1,0 +1,7 @@
+_id: 00be3c80-2019-11ea-9209-3963309fdf4f
+_parent: openshift-python-gunicorn-nginx-jenkins-pipelines-part-one
+reply_to: 77657f90-1fdf-11ea-bc32-ef9e3995ab90
+name: Ruddra
+email: 32eeb1c619ba12f413b8f94d9d308024
+comment: "I usually put it with CMD. Like this:\r\n\r\n```\r\ngunicorn --bind 0.0.0.0:5000 wsgi --chdir /usr/src/app/app  --workers 3\r\n```"
+date: '2019-12-16T15:30:34.876Z'
