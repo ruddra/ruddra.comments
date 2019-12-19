@@ -1,0 +1,7 @@
+_id: 0342a5d0-227c-11ea-837e-b581f0eaabc3
+_parent: django-serialize-foreignkey-m2m-property-instance-fields
+reply_to: ''
+name: Felix
+email: 5064fc8904a115321ab5d362c050839e
+comment: "Thank you for the article. Very helpful! \r\n\r\nNevertheless I am stuck on a problem, I can't find a solution for. Maybe you have an idea.\r\nThere is a model: \r\nclass Ta0200Object(models.Model):\r\n    clientlfn = models.ForeignKey(Ta0100District, models.DO_NOTHING, related_name='+', db_column='ClientLFN')\r\n    districtlfn = models.ForeignKey(Ta0100District, models.DO_NOTHING, related_name='+', db_column='DistrictLFN')\r\n    objectnr = models.IntegerField(db_column='ObjectNR', unique=True)\r\n    objectlfn = models.AutoField(db_column='ObjectLFN', unique=True, primary_key=True)\r\n\r\nHow would you serialize it if two ForeignKeys point to one model?\r\n\r\nThanks alot, Felix"
+date: '2019-12-19T16:24:21.691Z'
