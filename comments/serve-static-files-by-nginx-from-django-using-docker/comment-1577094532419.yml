@@ -1,0 +1,7 @@
+_id: 6d41e410-2569-11ea-a2c5-bd655b92797d
+_parent: serve-static-files-by-nginx-from-django-using-docker
+reply_to: ''
+name: Neeraj
+email: 1a0180f1108233445c6d3c77e30c63db
+comment: "I am getting the following error. Can you please help me resolve it \r\n\r\nnginx01   | nginx: [emerg] host not found in upstream \"web:8000\" in /etc/nginx/conf.d/mydjango.conf:3\r\nnginx01 exited with code 1"
+date: '2019-12-23T09:48:52.418Z'
