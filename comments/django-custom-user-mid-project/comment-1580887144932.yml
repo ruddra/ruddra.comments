@@ -1,0 +1,11 @@
+_id: ca667070-47e7-11ea-a62f-c13976200e4a
+_parent: django-custom-user-mid-project
+reply_to: ''
+name: Gurubux
+email: 3ef984f15c1ae86fd44c389bf98aaf7d
+comment: >-
+  Thank you for this post. My query was that if we drop all the default tables
+  created by Django's  makemigration command, will it affect the execution of
+  the API catastrophically or can be managed with those tables. The reason is,
+  those tables are considered to be Junk data. Kindly guide.
+date: '2020-02-05T07:19:04.926Z'
