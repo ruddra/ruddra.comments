@@ -4,7 +4,7 @@ reply_to: d4615ef0-47e7-11ea-a62f-c13976200e4a
 name: Ruddra
 email: 32eeb1c619ba12f413b8f94d9d308024
 comment: >-
-  It shouldn't effect if you are following [this
+  It shouldn't affect if you are following [this
   procedure](https://ruddra.com/posts/django-custom-user-migration-mid-phase-project/#hard-way).
   But before doing anything, please make a backup of your database.
-date: '2020-02-06T18:17:38.822Z'
+date: "2020-02-06T18:17:38.822Z"
