@@ -1,0 +1,7 @@
+_id: 09e62dc0-5f4a-11ea-9281-3dfb36bfd974
+_parent: install-mysqlclient-macos
+reply_to: ''
+name: Nicholas Portalupi
+email: 4eb4b0852c5899e89cbc1f68561bbb2f
+comment: "Please excuse my n00bness in advance.\r\nI followed the steps up until step 7, when I get the following error: \r\n\r\nThere was a problem confirming the ssl certificate: HTTPSConnectionPool(host='pypi.org', port=443): Max retries exceeded with url: /simple/pycrypto/ (Caused by SSLError(\"Can't connect to HTTPS URL because the SSL module is not available.\")) - skipping\r\n\r\nAlso, my jupyter notebooks don't work now.  I won't distract from my main question with that error at this time though.\r\nThank you for posting this fix, and hopefully someone can help me fix the fix."
+date: '2020-03-06T01:30:18.824Z'
