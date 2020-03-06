@@ -1,0 +1,7 @@
+_id: dca78780-5f5f-11ea-b4e6-cd20049f59fa
+_parent: install-mysqlclient-macos
+reply_to: 09e62dc0-5f4a-11ea-9281-3dfb36bfd974
+name: Ruddra
+email: 32eeb1c619ba12f413b8f94d9d308024
+comment: "Hi Nicholas,\r\nHopefully you will find solution in this [GitHub issue](https://github.com/pypa/pip/issues/5448). You can also use alternative package installers like anaconda."
+date: '2020-03-06T04:06:31.884Z'
