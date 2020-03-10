@@ -1,0 +1,7 @@
+_id: 0833e730-62ea-11ea-a018-cb661d74b172
+_parent: hugo-deploy-static-page-using-github-actions
+reply_to: ''
+name: Ahmedur Rahman Shovon
+email: 97166792fe367008e47d70bbbbc15d99
+comment: "I am using Hugo Version `0.56.3`. The action failed to deploy the hugo site with this error:\r\n```shell\r\nCheck failure on line 1 in .github\r\n\r\n@github-actions\r\ngithub-actions\r\n/ deploy\r\n\r\n.github#L1\r\nProcess completed with exit code 127.\r\n```\r\nThen I changed the `deploy` part as following:\r\n```\r\n      - name: Setup hugo\r\n        uses: peaceiris/actions-hugo@v2\r\n        with:\r\n          hugo-version: \"0.56.3\"\r\n\r\n      - name: Build\r\n        run: hugo\r\n```\r\nNow the action runs fine and my hugo site is being deployed successfully. \r\n\r\nYay! I do not need to run any more shell script to deploy the public directory content to *username.github.io* repository!!\r\n\r\n**Thank you for this great tutorial.**"
+date: '2020-03-10T16:13:09.031Z'
