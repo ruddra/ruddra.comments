@@ -13,7 +13,7 @@ comments:
   path: "comments/{options.slug}"
   notifications:
     enabled: true
-  requiredFields: ["email"]
+  requiredFields: []
   transforms: 
     email: md5
   name: "ruddra.com"
