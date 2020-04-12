@@ -1,0 +1,7 @@
+_id: 1ab0dc60-7bef-11ea-82ff-25f51a54cd3f
+_parent: docker-ship-database-with-container
+reply_to: ''
+name: Hasdik
+email: a4f601cc8b858ecfe5fa6dbe28f96ce4
+comment: "If I create my entrypoint file ENTRYPOINT [\"new_env.sh\"], after starting docker of postgres container, if you try to restore backup db, I get an error:\r\npg_ctl: directory \"/var/lib/postgresql/data\" is not a database cluster directory\r\n\r\nHow can I call the default entrypoint-file docker postgres first?"
+date: '2020-04-11T12:22:26.576Z'
