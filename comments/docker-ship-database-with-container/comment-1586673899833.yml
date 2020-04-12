@@ -1,0 +1,11 @@
+_id: 2121f9e0-7c89-11ea-a098-d19f536d1972
+_parent: docker-ship-database-with-container
+reply_to: 1ab0dc60-7bef-11ea-82ff-25f51a54cd3f
+name: Ruddra
+email: 407486d3cd5b5eb7d845bb1172e1546b
+comment: >-
+  Calling entry-point of postgres from your entry point is already covered in
+  [this
+  section](https://ruddra.com/posts/docker-ship-database-with-container/#write-entrypoint-and-application-related-scripts-for-postgresql).
+  Please let me know if you face further problems.
+date: '2020-04-12T06:44:59.829Z'
