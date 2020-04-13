@@ -1,6 +1,7 @@
 _id: 1495971722
 name: Ruddra
 email: 32eeb1c619ba12f413b8f94d9d308024
+avatar: 'https://avatars0.githubusercontent.com/u/3099861?v=4'
 reply_to: 1495755865
 comment: Hi, sorry I couldn't reply on your earlier comment. Anyways, you have go to the docker's shell and run this command. Run \`docker exec -ti web bash\` and go to the directory containing <a href="http://manage.py" rel="nofollow noopener" title="manage.py">manage.py</a> and run the migration commands. Hope it helps
 date: '2017-05-28T17:42:02Z' 

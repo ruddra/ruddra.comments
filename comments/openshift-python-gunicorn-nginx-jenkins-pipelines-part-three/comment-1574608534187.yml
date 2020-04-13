@@ -3,5 +3,6 @@ _parent: openshift-python-gunicorn-nginx-jenkins-pipelines-part-three
 reply_to: 72aa03f0-0dc3-11ea-b158-bf4c575bb62e
 name: Ruddra
 email: 32eeb1c619ba12f413b8f94d9d308024
+avatar: 'https://avatars0.githubusercontent.com/u/3099861?v=4'
 comment: "Well, you need to elaborate bit more on why route is not working.\r\n\r\nAnyway, one possible reason why Routes not exposing is that, you are not exposing the port from docker. Please make sure you have `EXPOSE <PORT NUMBER>` in your docker file.\r\n\r\nFinally, if you are using NodeJs, then you can write your own `Dockerfile`. Here is an example from official documentation: https://nodejs.org/de/docs/guides/nodejs-docker-webapp/"
 date: '2019-11-24T15:15:34.182Z'

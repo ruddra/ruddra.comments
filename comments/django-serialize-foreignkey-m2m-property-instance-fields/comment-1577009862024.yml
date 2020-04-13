@@ -3,5 +3,6 @@ _parent: django-serialize-foreignkey-m2m-property-instance-fields
 reply_to: 0342a5d0-227c-11ea-837e-b581f0eaabc3
 name: Ruddra
 email: 32eeb1c619ba12f413b8f94d9d308024
+avatar: 'https://avatars0.githubusercontent.com/u/3099861?v=4'
 comment: "I would suggest remove `related_name='+'`, because it is removing the backward relationship  of that ForeignKey. Instead, try like this:\r\n```\r\n clientlfn = models.ForeignKey(Ta0100District, models.DO_NOTHING, related_name='client_fn’, db_column='ClientLFN’) \r\ndistrictlfn = models.ForeignKey(Ta0100District, models.DO_NOTHING, related_name='direct_fn’, db_column='DistrictLFN’)\r\n# rest of the code\r\ndef natural_key(self):\r\n        return (self.objectlfn)\r\n```\r\nThen you can serialize them from Parent model.\r\n\r\n```\r\nserialized_data = serializers.serialize('json', Parent.objects.all(),\r\n    use_natural_foreign_keys=True, fields=['client_fn', 'direct_fn'], indent=4\r\n)\r\n```"
 date: '2019-12-22T10:17:42.020Z'

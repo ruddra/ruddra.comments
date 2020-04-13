@@ -3,6 +3,7 @@ _parent: install-mysqlclient-macos
 reply_to: cdd51a70-126a-11ea-9b12-e37e46811bb7
 name: ruddra
 email: 32eeb1c619ba12f413b8f94d9d308024
+avatar: 'https://avatars0.githubusercontent.com/u/3099861?v=4'
 comment: >-
   Probably you need to downgrade your MySQL to make it work. More information
   can be found in this SO link: https://stackoverflow.com/a/52262477/2696165

@@ -1,6 +1,7 @@
 _id: 1521844001
 name: Ruddra
 email: 32eeb1c619ba12f413b8f94d9d308024
+avatar: 'https://avatars0.githubusercontent.com/u/3099861?v=4'
 reply_to: 1521212893
 comment: '"Bind for 0.0.0.0:8000 failed: port is already allocated" - This is quite self explanatory. 8000 port is being used in another program. I am sorry, but you need to find and solve this issue yourself.'
 date: '2018-03-24T04:26:41Z' 

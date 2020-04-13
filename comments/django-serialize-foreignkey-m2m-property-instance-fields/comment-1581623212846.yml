@@ -3,6 +3,7 @@ _parent: django-serialize-foreignkey-m2m-property-instance-fields
 reply_to: debf32e0-4d56-11ea-816c-35d9e07a64ce
 name: Ruddra
 email: 32eeb1c619ba12f413b8f94d9d308024
+avatar: 'https://avatars0.githubusercontent.com/u/3099861?v=4'
 comment: >-
   TBH, I have not tried to serialize `PointField`, maybe you can share what
   errors you are getting. I will try to look into that as well. Cheers!!

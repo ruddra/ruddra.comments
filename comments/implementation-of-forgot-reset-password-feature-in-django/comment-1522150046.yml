@@ -1,6 +1,7 @@
 _id: 1522150046
 name: Ruddra
 email: 32eeb1c619ba12f413b8f94d9d308024
+avatar: 'https://avatars0.githubusercontent.com/u/3099861?v=4'
 reply_to: 1522121518
 comment: Hi, can you please create an issue on the github repository with the error stacktrace? In that way, I can easily figure out if something is wrong. Also don't forget to mention which django version you are using. Thanks
 date: '2018-03-27T17:27:26Z' 

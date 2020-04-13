@@ -1,6 +1,7 @@
 _id: 1490738902
 name: Ruddra
 email: 32eeb1c619ba12f413b8f94d9d308024
+avatar: 'https://avatars0.githubusercontent.com/u/3099861?v=4'
 reply_to: 1490571023
 comment: I haven't faced this issue yet. For now, I think you can split the requirements.pip into multiple files and run them one after another. Hope that will resolve the issue.
 date: '2017-03-29T04:08:22Z' 
