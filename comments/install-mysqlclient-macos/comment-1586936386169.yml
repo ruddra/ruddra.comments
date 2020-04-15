@@ -1,0 +1,8 @@
+_id: 472dffc0-7eec-11ea-858e-472838cd9d39
+_parent: install-mysqlclient-macos
+reply_to: ''
+comment: "I did all of the above, and also downloaded MySQLWorkbench.app.\r\nAfter running a file with code line: import mysql.connector\r\nin python, I am getting the following error:\r\n    import mysql.connector\r\nModuleNotFoundError: No module named 'mysql'"
+name: M2Golden
+email: d92eb061aa1f0000589d22cfeb69bbd5
+avatar: 'https://avatars3.githubusercontent.com/u/33671604?v=4'
+date: '2020-04-15T07:39:46.165Z'
