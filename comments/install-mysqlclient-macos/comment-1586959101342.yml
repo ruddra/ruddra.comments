@@ -1,0 +1,8 @@
+_id: 2a728ce0-7f21-11ea-837f-5947413b2ed8
+_parent: install-mysqlclient-macos
+reply_to: 472dffc0-7eec-11ea-858e-472838cd9d39
+comment: "As per [mysqlclient](https://mysqlclient.readthedocs.io/) documentation, you need to import **`MySQLdb`** like this:\r\n```python\r\nfrom MySQLdb import _mysql\r\ndb=_mysql.connect()\r\n\r\n# OR\r\n\r\ndb = MySQLdb.connect()\r\n```"
+name: Arnab Kumar Shil
+email: 32eeb1c619ba12f413b8f94d9d308024
+avatar: 'https://avatars0.githubusercontent.com/u/3099861?v=4'
+date: '2020-04-15T13:58:21.337Z'
