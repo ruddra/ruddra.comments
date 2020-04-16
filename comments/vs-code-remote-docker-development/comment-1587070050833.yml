@@ -1,0 +1,11 @@
+_id: 7d771bb0-8023-11ea-8fc4-d791c2edc3cf
+_parent: vs-code-remote-docker-development
+reply_to: 90e93270-8012-11ea-b1cf-d11369a4bbcd
+comment: >-
+  `Reopen Folder in Container` is a settings which can be found from command
+  pallet in VS Code. It should reopen your project in the root directory, from
+  where you initially started the VS Code.
+name: Arnab Kumar Shil
+email: 32eeb1c619ba12f413b8f94d9d308024
+avatar: 'https://avatars0.githubusercontent.com/u/3099861?v=4'
+date: '2020-04-16T20:47:30.830Z'
