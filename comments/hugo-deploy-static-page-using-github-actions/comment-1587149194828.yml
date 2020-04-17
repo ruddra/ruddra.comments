@@ -1,0 +1,8 @@
+_id: c2eee250-80db-11ea-b9d7-030b423c5b40
+_parent: hugo-deploy-static-page-using-github-actions
+reply_to: ''
+comment: "Also, if you have theme, don't forget to add somewhere:\r\n\r\n```\r\ngit submodule update --init --recursive\r\n```"
+name: Arnaud
+email: 1678dbecbe2f781c667f9e423093e3b2
+avatar: 'https://avatars2.githubusercontent.com/u/11426226?v=4'
+date: '2020-04-17T18:46:34.825Z'
