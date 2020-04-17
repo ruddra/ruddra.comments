@@ -7,5 +7,5 @@ avatar: 'https://avatars0.githubusercontent.com/u/3099861?v=4'
 comment: >-
   Thank you for noticing the issue with **DRF**. I fixed it. But regarding your
   first point, it is possible to serialize **M2M** field using django
-  serializer. Please try out the code given with this article :) .
+  serializer. Please try out the code given with this article :smile: .
 date: '2019-12-12T14:50:03.567Z'

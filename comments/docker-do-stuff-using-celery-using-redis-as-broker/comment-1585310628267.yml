@@ -4,5 +4,5 @@ reply_to: 0da7c250-6fa0-11ea-9ecc-15f660ec0043
 name: Ruddra
 email: 32eeb1c619ba12f413b8f94d9d308024
 avatar: 'https://avatars0.githubusercontent.com/u/3099861?v=4'
-comment: "You can connect like this:\r\n\r\nFirst, connect to shell:\r\n\r\n```\r\ndocker exec -ti <container id> /bin/sh\r\n```\r\nOr use `make shell-db`\r\n\r\nThen, run `psql` to access postgres. Or if you have set up `POSTGRES_USER`, `POSTGRES_DB` and `POSTGRES_PASSWORD`, then use `psql -d <value of POSTGRES_DB> -U  <value of POSTGRES_USER> -W`. It will prompt you to input your password.\r\n\r\nOn the other note, I am using Heroku for its free dynos. If you can suggest something as free alternative, I would appreciate that :)"
+comment: "You can connect like this:\r\n\r\nFirst, connect to shell:\r\n\r\n```\r\ndocker exec -ti <container id> /bin/sh\r\n```\r\nOr use `make shell-db`\r\n\r\nThen, run `psql` to access postgres. Or if you have set up `POSTGRES_USER`, `POSTGRES_DB` and `POSTGRES_PASSWORD`, then use `psql -d <value of POSTGRES_DB> -U  <value of POSTGRES_USER> -W`. It will prompt you to input your password.\r\n\r\nOn the other note, I am using Heroku for its free dynos. If you can suggest something as free alternative, I would appreciate that :smile:"
 date: '2020-03-27T12:03:48.262Z'
