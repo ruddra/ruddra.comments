@@ -1,0 +1,10 @@
+_id: 4f4f2ea0-8cb5-11ea-86ff-9b80229d4db5
+_parent: install-mysqlclient-macos
+reply_to: ''
+comment: >-
+  i had to run mysql.start before mysql_secure_installation but other than that
+  an excellent guide, thank you
+name: Sean Conkie
+email: 3412d38f65f542aad8c786b63e64c06b
+avatar: 'https://avatars1.githubusercontent.com/u/34443028?v=4'
+date: '2020-05-02T20:41:33.824Z'
