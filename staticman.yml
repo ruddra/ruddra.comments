@@ -1,20 +1,20 @@
-comments: 
+comments:
   allowedFields: ["name", "email", "website", "comment", "reply_to", "avatar"]
   branch: master
   commitMessage: "New comment in {options.slug}"
   filename: "comment-{@timestamp}"
   format: yaml
-  generatedFields: 
-    date: 
-      options: 
+  generatedFields:
+    date:
+      options:
         format: iso8601
       type: date
   moderation: false
   path: "comments/{options.slug}"
   notifications:
     enabled: true
-  requiredFields: ["email"]
-  transforms: 
+  requiredFields: ["email", "name", "comment"]
+  transforms:
     email: md5
   name: "ruddra.com"
   allowedOrigins: ["localhost", "localhost:1313", "ruddra.com", "mg.ruddra.com"]
