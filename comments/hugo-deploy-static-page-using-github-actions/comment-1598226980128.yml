@@ -1,0 +1,16 @@
+_id: 3d8fbaf0-e59c-11ea-83d9-3ddfe6eda215
+_parent: hugo-deploy-static-page-using-github-actions
+reply_to: ''
+comment: >-
+  I like the automation, but still need the local quick preview. So I keep my
+  local hugo. It is started once via a powershell script, polls the local git
+  repo clone, and publishes to a tmp file outside the git scope, so I won't get
+  any changes into the web site repo from the local tests. In the browser I
+  create a preview bookmark that points to localhost:1313. With the automated
+  refresh feature from hugo, I get a near-life update of the web page. When I am
+  satisfied with the work, I commit with github Desktop. Mark Text as IDE, ready
+  to go even for non.techies ;)
+name: Martin Jahr
+email: b73c7dcdc33205048c48b33b6dee70ba
+avatar: 'https://avatars3.githubusercontent.com/u/64983267?v=4'
+date: '2020-08-23T23:56:20.125Z'
