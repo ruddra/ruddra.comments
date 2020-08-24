@@ -1,0 +1,13 @@
+_id: ebfbe9f0-e5e8-11ea-8113-5db166dd6a6c
+_parent: implementation-of-forgot-reset-password-feature-in-django
+reply_to: c8ff63c0-e492-11ea-a7e7-757a2f87c0bd
+comment: >-
+  You need to see the implementation of `ResetPasswordRequestView`'s
+  `form_valid` method. There we fetch the user and send user data via `c = {..}`
+  dictionary. You can modify this dictionary. Then inside
+  `registration/password_reset_email.html` template, you can access those
+  context variables and send them to user email.
+name: Arnab Kumar Shil
+email: 32eeb1c619ba12f413b8f94d9d308024
+avatar: 'https://avatars0.githubusercontent.com/u/3099861?v=4'
+date: '2020-08-24T09:05:14.399Z'
