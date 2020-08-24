@@ -1,0 +1,12 @@
+_id: 21abaa60-e5d3-11ea-a849-0b537e03e73b
+_parent: hugo-deploy-static-page-using-github-actions
+reply_to: 3d8fbaf0-e59c-11ea-83d9-3ddfe6eda215
+comment: >-
+  I would say this is just a tip of iceberg. You can so much more than just
+  automation. I build my search indexes for lunr search, send newsletters,
+  compress images, build service worker for progressive web app in the GitHub
+  actions. :smile:
+name: Arnab Kumar Shil
+email: 32eeb1c619ba12f413b8f94d9d308024
+avatar: 'https://avatars0.githubusercontent.com/u/3099861?v=4'
+date: '2020-08-24T06:29:15.599Z'
