@@ -2,7 +2,7 @@ _id: 21abaa60-e5d3-11ea-a849-0b537e03e73b
 _parent: hugo-deploy-static-page-using-github-actions
 reply_to: 3d8fbaf0-e59c-11ea-83d9-3ddfe6eda215
 comment: >-
-  I would say this is just a tip of iceberg. You can so much more than just
+  I would say this is just tip of the iceberg. You can so much more than just
   automation. I build my search indexes for lunr search, send newsletters,
   compress images, build service worker for progressive web app in the GitHub
   actions. :smile:
