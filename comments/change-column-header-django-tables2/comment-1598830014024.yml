@@ -1,0 +1,11 @@
+_id: 49caa060-eb18-11ea-b06b-39e7b4554368
+_parent: change-column-header-django-tables2
+reply_to: ''
+comment: >-
+  Can I use this to add data not coming from a model? Or is it only possible to
+  replace existing data this way - like replacing name with NAME using a
+  uppercase function?
+name: xtlc
+email: 500bc9c230b323ebc40b7d9f82eea6e0
+avatar: 'https://avatars0.githubusercontent.com/u/14292046?v=4'
+date: '2020-08-30T23:26:54.021Z'
