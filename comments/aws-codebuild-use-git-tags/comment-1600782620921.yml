@@ -1,0 +1,12 @@
+_id: 8e271ee0-fcda-11ea-b5fc-13de3e47623b
+_parent: aws-codebuild-use-git-tags
+reply_to: ''
+comment: >-
+  Thank you for writing this!  I really wish this was also possible with
+  codepipeline.  We would really like to trigger our pipelines from tags, but
+  the source option only allows branches at the moment.  They seem to really be
+  pushing for people to use codecommit over other solutions!
+name: Thomas Scully
+email: 4612ea9f97d56d7460ccb79defdf5a7f
+avatar: 'https://avatars3.githubusercontent.com/u/5360594?v=4'
+date: '2020-09-22T13:50:20.918Z'
