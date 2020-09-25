@@ -1,0 +1,12 @@
+_id: a0c03760-ff11-11ea-ada6-5f861685077b
+_parent: aws-codebuild-use-git-tags
+reply_to: 8e271ee0-fcda-11ea-b5fc-13de3e47623b
+comment: >-
+  This is what I have found as well, our alternative (Which I honestly think is
+  a better solution than codepipeline) is to use batch builds in codebuild, and
+  trigger them one after another or parralel as required. This has allowed us to
+  split our CI delivery into smaller chunks that also work individually.
+name: dominic-byrne-worldpay
+email: fc61154bebeded19529a7ffa281cc96b
+avatar: 'https://avatars2.githubusercontent.com/u/48250587?v=4'
+date: '2020-09-25T09:29:36.677Z'
