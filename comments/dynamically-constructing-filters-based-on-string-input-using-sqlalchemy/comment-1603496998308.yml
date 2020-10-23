@@ -1,0 +1,8 @@
+_id: 752c4dc0-158a-11eb-b801-db79b00ef7c6
+_parent: dynamically-constructing-filters-based-on-string-input-using-sqlalchemy
+reply_to: ''
+comment: "Hi Arnab,\r\n\r\nCan you please elaborate this line.\r\n\r\nmodel_class=models.user.User,\r\n\r\nHow did you get models.user.User.? what is the type of this?\r\n\r\nPlease be bit elaborative on this one.\r\n\r\nThanks,\r\nSachin"
+name: sachinsr099
+email: 0b5e09adb2737c491f1a21226c917416
+avatar: 'https://avatars3.githubusercontent.com/u/17490690?v=4'
+date: '2020-10-23T23:49:58.305Z'
