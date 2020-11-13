@@ -1,0 +1,8 @@
+_id: c4f4df40-2591-11eb-8b44-292b7ac7bdf2
+_parent: dynamically-constructing-filters-based-on-string-input-using-sqlalchemy
+reply_to: 752c4dc0-158a-11eb-b801-db79b00ef7c6
+comment: "Hi Sachin,\r\n\r\nSorry for the delayed response. `User` is a model class as defined [here in documentation](https://flask-sqlalchemy.palletsprojects.com/en/2.x/models/#simple-example)."
+name: Arnab Kumar Shil
+email: 32eeb1c619ba12f413b8f94d9d308024
+avatar: 'https://avatars0.githubusercontent.com/u/3099861?v=4'
+date: '2020-11-13T09:22:37.197Z'
