@@ -1,0 +1,8 @@
+_id: 40a6db40-2eb4-11eb-b825-e56dff636465
+_parent: django-serialize-foreignkey-m2m-property-instance-fields
+reply_to: ''
+comment: "This is a good article.  A few thoughts about it as none of these answers really were able to solve my issue.\r\nMethod #2 is nice, but adds dependencies outside of a standard pip install.  This would be much more useful if the author just wrote a routine to essentially do the same without the dependencies.  Method #3 seems to be the way to go.  However, the author's description of how to use the Django Rest Framework isn't very complete.  Only a few code segments are given and a complete usable method is far from implemented."
+name: toddkowen
+email: 5f48d2150ffa95bfb8c56eb264c1ad9e
+avatar: 'https://avatars2.githubusercontent.com/u/63489672?v=4'
+date: '2020-11-25T00:22:08.142Z'
