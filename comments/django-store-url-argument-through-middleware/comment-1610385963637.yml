@@ -1,0 +1,8 @@
+_id: 14906f00-5432-11eb-894a-690772069fcc
+_parent: django-store-url-argument-through-middleware
+reply_to: ''
+comment: "But process_view will be executed always after your code in __call where you are fething it from session. Try to print out something from both middle-wares.\r\nOrder in settings doesn't matter. What does matter is when you are calling  response = self.get_response(request). process_view ill be called inside.\r\ntry this:\r\n```\r\ndef __call__(self, request):\r\n    print(\"before\")\r\n    response = self.get_response(request)\r\n    print(\"after\")\r\n    return response\r\n```\r\n\r\nprocess will be executed before and after"
+name: Katarzyna Niemiec
+email: df7e36ce5ee969c20b91232bba3acba5
+avatar: 'https://avatars3.githubusercontent.com/u/6703304?v=4'
+date: '2021-01-11T17:26:03.637Z'
