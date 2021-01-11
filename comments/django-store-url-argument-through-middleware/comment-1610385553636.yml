@@ -1,0 +1,10 @@
+_id: 201c0510-5431-11eb-894a-690772069fcc
+_parent: django-store-url-argument-through-middleware
+reply_to: ''
+comment: >-
+  but process_view wil be executed always after __call, try to print out
+  something from both middlewares
+name: Katarzyna Niemiec
+email: df7e36ce5ee969c20b91232bba3acba5
+avatar: 'https://avatars3.githubusercontent.com/u/6703304?v=4'
+date: '2021-01-11T17:19:13.633Z'
