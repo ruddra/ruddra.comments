@@ -1,0 +1,8 @@
+_id: a545e3e0-55b3-11eb-8ed5-f56949864374
+_parent: hugo-get-perfect-pagespeed-score
+reply_to: ''
+comment: "i got an error with the resize + lazy loading \r\n\r\nfailed to render shortcode \"render_image\": failed to process shortcode: \"/layouts/shortcodes/render_image.html:6:16\": execute of template failed: template: shortcodes/render_image.html:6:16: executing \"shortcodes/render_image.html\" at <$src.Resize>: nil pointer evaluating resource.Resource.Resize\r\nany idea?"
+name: globaticolabs
+email: 50236e618f6d93b04883575eb037593a
+avatar: 'https://avatars0.githubusercontent.com/u/52543701?v=4'
+date: '2021-01-13T15:26:02.792Z'
