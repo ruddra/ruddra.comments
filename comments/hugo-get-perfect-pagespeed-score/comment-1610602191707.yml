@@ -1,0 +1,10 @@
+_id: 86714470-5629-11eb-81af-f3334b0c0f71
+_parent: hugo-get-perfect-pagespeed-score
+reply_to: a545e3e0-55b3-11eb-8ed5-f56949864374
+comment: >-
+  I am assuming it is not finding an image. Please make sure you all the images
+  you want to render with shortcode are in `static/` folder.
+name: Arnab Kumar Shil
+email: 32eeb1c619ba12f413b8f94d9d308024
+avatar: 'https://avatars0.githubusercontent.com/u/3099861?v=4'
+date: '2021-01-14T05:29:51.704Z'
