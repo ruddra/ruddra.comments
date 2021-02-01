@@ -1,0 +1,8 @@
+_id: 10947e60-643a-11eb-bc49-b930e4ad078d
+_parent: hugo-add-toc-anywhere
+reply_to: ''
+comment: "Helpful, but `replaceRE` won't work in a shortcode.\r\nSee: https://github.com/gohugoio/hugo/issues/7095\r\n\r\nUnless I missed something?"
+name: Félix Paradis
+email: 44324e5f675439599725657d4275dddd
+avatar: 'https://avatars.githubusercontent.com/u/17578204?v=4'
+date: '2021-02-01T03:03:31.634Z'
