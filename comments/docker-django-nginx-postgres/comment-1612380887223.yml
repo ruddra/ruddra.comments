@@ -1,0 +1,10 @@
+_id: df9d2310-6656-11eb-b2c1-bdbf1ed3e5e2
+_parent: docker-django-nginx-postgres
+reply_to: '1533515335'
+comment: >-
+  You can deploy using docker compose in EC2 instances in AWS at worst case
+  scenario :smile:
+name: Arnab Kumar Shil
+email: 32eeb1c619ba12f413b8f94d9d308024
+avatar: 'https://avatars.githubusercontent.com/u/3099861?v=4'
+date: '2021-02-03T19:34:47.220Z'
