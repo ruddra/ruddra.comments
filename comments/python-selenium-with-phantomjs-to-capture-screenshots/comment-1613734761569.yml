@@ -1,0 +1,11 @@
+_id: 1ba33dc0-72a7-11eb-bf64-c79a0a9840f3
+_parent: python-selenium-with-phantomjs-to-capture-screenshots
+reply_to: 9e3dc7a0-7293-11eb-84bb-b773e4188fbd
+comment: >-
+  Yes, it is no longer supported. The [official
+  documentation](https://www.selenium.dev/selenium/docs/api/py/api.html) does
+  not have mention of PhantomJS.
+name: Arnab Kumar Shil
+email: 32eeb1c619ba12f413b8f94d9d308024
+avatar: 'https://avatars.githubusercontent.com/u/3099861?v=4'
+date: '2021-02-19T11:39:21.566Z'
