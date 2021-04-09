@@ -1,0 +1,8 @@
+_id: 177c55d0-9906-11eb-bab6-1320710a41bd
+_parent: aws-codebuild-use-git-tags
+reply_to: ''
+comment: "Hi, you forgot to add that this option is only available for GitHub, I'm forced to use CodeCommit and there is no default way to do it.\r\nOptionally I'm able to use AWS EventBridge rule to trigger the whole pipeline but the main problem with that is I cannot differentiate between tags due to limitation of EventBridge filters... \r\nE.g. `refs/tags/0.2rc` vs `refs/tags/0.2` - this is not possible to capture or even use the simple regex like in webhook.\r\n\r\nHonestly AWS developer tools are the worst available (even AWS teams admitted it) And if your code is on GitHub you are better of using GitHub actions."
+name: Jan Gazda
+email: 386ac0ae78c9369db8a747fb5f0eb35d
+avatar: 'https://avatars.githubusercontent.com/u/7480694?v=4'
+date: '2021-04-09T07:35:00.981Z'
