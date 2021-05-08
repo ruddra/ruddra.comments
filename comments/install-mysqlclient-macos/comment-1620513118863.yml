@@ -1,0 +1,8 @@
+_id: 336a0a90-b04d-11eb-88ba-ab466f552a01
+_parent: install-mysqlclient-macos
+reply_to: ''
+comment: "Running Step 9 in my virtual environment somehow stopped pip from working (just within the virtual environment, pip works when I deactivate the environment). For example when I run 'pip freeze' in my existing venv, I get the error: \r\n\r\nModuleNotFoundError: No module named 'pip'\r\n\r\nAny idea why this happened or how I can fix this?"
+name: John Villanueva
+email: a4beb4ca452f14aa6fcdc3e410e1a05b
+avatar: 'https://avatars.githubusercontent.com/u/45723093?v=4'
+date: '2021-05-08T22:31:58.860Z'
