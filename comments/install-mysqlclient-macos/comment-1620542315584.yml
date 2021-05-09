@@ -1,0 +1,10 @@
+_id: 2e06dbc0-b091-11eb-ab91-b30d61468f25
+_parent: install-mysqlclient-macos
+reply_to: 336a0a90-b04d-11eb-88ba-ab466f552a01
+comment: >-
+  You can use ‘get_pip.py’ for installing pip. [This
+  article](https://ahmadawais.com/install-pip-macos-os-x-python/) might help.
+name: Arnab Kumar Shil
+email: 32eeb1c619ba12f413b8f94d9d308024
+avatar: 'https://avatars.githubusercontent.com/u/3099861?v=4'
+date: '2021-05-09T06:38:35.581Z'
