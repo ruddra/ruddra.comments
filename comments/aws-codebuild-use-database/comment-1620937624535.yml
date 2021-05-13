@@ -1,0 +1,11 @@
+_id: 94819070-b429-11eb-9efc-872a4ec23fe8
+_parent: aws-codebuild-use-database
+reply_to: 21746f40-b40f-11eb-9da9-750251addcc0
+comment: >-
+  You can use `localhost`, because you are basically running the Postgres Server
+  at port 5432 which is mapped to 5432 port of localhost, so your Django
+  application should be able to connect to it at url `localhost:5432`.
+name: Arnab Kumar Shil
+email: 32eeb1c619ba12f413b8f94d9d308024
+avatar: 'https://avatars.githubusercontent.com/u/3099861?v=4'
+date: '2021-05-13T20:27:04.532Z'
