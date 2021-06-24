@@ -1,0 +1,8 @@
+_id: 3f4a5350-d4ca-11eb-acda-452130de945c
+_parent: hugo-add-toc-anywhere
+reply_to: cd2001c0-d493-11eb-9eb9-6759a3cc8a21
+comment: "Thank you!! :smile: For css, you can check the codes by inspect element at XPath: `//*[@id=\"blog-post\"]/div[3]/div[1]`. Here the actual code of the shortcode:\r\n\r\n```\r\n <div class=\"toc\">\r\n         <input id=\"_toc\" type=\"checkbox\" name=\"_toc\"><label class=\"collapse\" for=\"_toc\">Table of contents&nbsp;<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"16\" height=\"16\" viewBox=\"0 0 24 24\" fill=\"none\" strok\r\n         {{ .Page.TableOfContents | replaceRE \"<ul>[[:space:]]*<li>[[:space:]]*<ul>\" \"<ul>\" | replaceRE \"</ul>[[:space:]]*</li>[[:space:]]*</ul>\" \"</ul>\" |  safeHTML }}\r\n         </div>\r\n```"
+name: Arnab Kumar Shil
+email: 32eeb1c619ba12f413b8f94d9d308024
+avatar: 'https://avatars.githubusercontent.com/u/3099861?v=4'
+date: '2021-06-24T08:57:47.668Z'
