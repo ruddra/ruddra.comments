@@ -1,0 +1,8 @@
+_id: 33181180-e2b7-11eb-81a1-d31c849fe26b
+_parent: aws-codebuild-use-database
+reply_to: ''
+comment: "Thanks for sharing this. One thing though; I had trouble connecting to the database until I changed the environment variables to: \r\n\r\n    POSTGRES_DB: \"XXXXX\"\r\n    POSTGRES_USER: \"XXXXX\"\r\n    POSTGRES_PASSWORD: \"XXXXX\""
+name: benmar000
+email: 5b2b9c29bf51c1570fa6c5a198c688ba
+avatar: 'https://avatars.githubusercontent.com/u/9259055?v=4'
+date: '2021-07-12T02:16:43.068Z'
