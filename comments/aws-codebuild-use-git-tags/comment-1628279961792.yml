@@ -1,0 +1,8 @@
+_id: ca946980-f6f0-11eb-8296-37e381ba8925
+_parent: aws-codebuild-use-git-tags
+reply_to: ''
+comment: "You can get the tag ref by using the codebuild env vars detailed here. https://docs.aws.amazon.com/codebuild/latest/userguide/build-env-ref-env-vars.html\r\n\r\nFor example:\r\nIf a v1.0.0 tag triggered the build, then CODEBUILD_WEBHOOK_TRIGGER = `tag/v1.0.0`\r\nIf the main branch triggered the build, then CODEBUILD_WEBHOOK_TRIGGER = `branch/main`"
+name: chrispruitt
+email: f29b9e1a7b1596e7299350c9efc9df64
+avatar: 'https://avatars.githubusercontent.com/u/7242712?v=4'
+date: '2021-08-06T19:59:21.789Z'
