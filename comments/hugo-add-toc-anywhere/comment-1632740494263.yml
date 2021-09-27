@@ -1,0 +1,8 @@
+_id: 471d8810-1f82-11ec-83d2-fba7cdaba942
+_parent: hugo-add-toc-anywhere
+reply_to: ''
+comment: "Thanks for share, this is very useful. One little However, the whole thing has a small drawback. Some of the ToC entries are together in one line.\r\n\r\nConfiguring each tool (H2 heading)\r\n  vdirsyncer khal khard Todoman <-- ((H3 heading) each word is a separate heading and should be in it's own line)\r\nFirst run of vdirsyncer (H2 heading)"
+name: Frank Homburg
+email: 65166bc6ed6425d32addfa48cf1667b5
+avatar: 'https://avatars.githubusercontent.com/u/26466767?v=4'
+date: '2021-09-27T11:01:34.261Z'
