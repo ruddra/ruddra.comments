@@ -1,0 +1,8 @@
+_id: f94499f0-2cb8-11ec-92e2-d565799033cf
+_parent: hugo-implement-pwa
+reply_to: 07e93b60-2cae-11ec-b749-27b2600e2d6b
+comment: "Hi lymau, it won't work if you try to run the server using `hugo server` command. You need to use:\r\n\r\n```bash\r\n> npm install -g http-server\r\n> http-server\r\n```"
+name: Arnab Kumar Shil
+email: 32eeb1c619ba12f413b8f94d9d308024
+avatar: 'https://avatars.githubusercontent.com/u/3099861?v=4'
+date: '2021-10-14T06:35:51.072Z'
