@@ -1,0 +1,8 @@
+_id: 12f31e90-30f0-11ec-9b1d-75cd7f48f561
+_parent: hugo-deploy-static-page-using-github-actions
+reply_to: ''
+comment: "In My Opinion this tutorial is TOTALLY Dangerous, because you are giving an external party (peaceiris/actions-gh-pages@v3) complete admistrative and write access to ALL your Repositories on github, because you are defining a single Token for ALL Repos.\r\n\r\nAny malfunction or hostile action or bug in peaceiris/actions-gh-pages@v3 will be allowed to do anything to your repositories and have even access to your private repositories.\r\n\r\nI, for one, will not allow any external service a complete access to all repositories.\r\n\r\nYou can authorize deploy keys on a repo basis, which then can be allowed to push into exactly the repo they need to. This can be used by external services/gh-actions to rollout/deploy."
+name: Jan Walzer
+email: 10a9e00d39eee885aa8a7b1fe67c7088
+avatar: 'https://avatars.githubusercontent.com/u/458532?v=4'
+date: '2021-10-19T15:20:21.169Z'
