@@ -1,0 +1,11 @@
+_id: fb2824d0-366d-11ec-87e3-717213ce1a95
+_parent: cloudflare-cache-google-fonts
+reply_to: 674c9870-35f7-11ec-bf2c-33eb53564744
+comment: >-
+  Probably you are getting a HTML as response from the CDN. As it is really hard
+  to debug hence you can use this implementation instead
+  https://github.com/ruddra/cloudflare-google-fonts-cache
+name: Arnab Kumar Shil
+email: 32eeb1c619ba12f413b8f94d9d308024
+avatar: 'https://avatars.githubusercontent.com/u/3099861?v=4'
+date: '2021-10-26T15:04:13.652Z'
