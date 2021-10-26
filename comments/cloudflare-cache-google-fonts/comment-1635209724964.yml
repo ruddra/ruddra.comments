@@ -1,0 +1,8 @@
+_id: 674c9870-35f7-11ec-bf2c-33eb53564744
+_parent: cloudflare-cache-google-fonts
+reply_to: ''
+comment: "hi there, thanks for the steps. i have followed the worker approach . i am getting the following error when I check in the console of the browser\r\n\r\nRefused to apply style from 'https://cygnusminds.com/fonts/css2?family=Roboto:wght@400;700&display=swap' because its MIME type ('text/html') is not a supported stylesheet MIME type, and strict MIME checking is enabled."
+name: Ubuntuser
+email: 71b15478447db318b8060e75aefd6bbe
+avatar: 'https://avatars.githubusercontent.com/u/1985863?v=4'
+date: '2021-10-26T00:55:24.961Z'
