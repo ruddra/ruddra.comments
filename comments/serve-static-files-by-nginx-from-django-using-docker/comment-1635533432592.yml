@@ -1,0 +1,11 @@
+_id: 1813f7e0-38e9-11ec-97f5-f926b071fe1e
+_parent: serve-static-files-by-nginx-from-django-using-docker
+reply_to: ''
+comment: >-
+  Any pointers on multiple django projects all being fronted by the same NGINX
+  container, but in such a way that they are not each trying to claim the root
+  of the server?
+name: Derek Hohls
+email: 21ef50638dd4196abc98256aeb13bca7
+avatar: 'https://avatars.githubusercontent.com/u/354027?v=4'
+date: '2021-10-29T18:50:32.589Z'
