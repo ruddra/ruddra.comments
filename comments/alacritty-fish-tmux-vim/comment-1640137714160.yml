@@ -1,0 +1,12 @@
+_id: 45bf8290-62c9-11ec-bf43-59baef5c8e00
+_parent: alacritty-fish-tmux-vim
+reply_to: ''
+comment: >-
+  I've been using tmux and neovim for several years.  Alacritty is a new one for
+  me.  I seem to notice that Alacritty does *not* call `path_helper`.  This
+  seems to be a distinction from how `iTerm2` operates.  The issue is that the
+  path is not set properly.  Have you noticed this distinction and a solution?
+name: Edmund Cape
+email: 32a584e96ef394fe7b268847ec84ac92
+avatar: 'https://avatars.githubusercontent.com/u/11245417?v=4'
+date: '2021-12-22T01:48:34.157Z'
