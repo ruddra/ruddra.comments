@@ -1,0 +1,11 @@
+_id: c63d5460-6b70-11ec-8d5d-21f0a61250b7
+_parent: alacritty-fish-tmux-vim
+reply_to: ''
+comment: >-
+  Well, I am not sure about that. As far as I know, `path_helper` is related to
+  shell, not terminal tool. But you can manually invoke it in alacritty (just
+  like initiating tmux).
+name: Arnab Kumar Shil
+email: 32eeb1c619ba12f413b8f94d9d308024
+avatar: 'https://avatars.githubusercontent.com/u/3099861?v=4'
+date: '2022-01-02T02:07:44.960Z'
