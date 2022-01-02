@@ -1,0 +1,12 @@
+_id: abeaa920-6b6e-11ec-9328-d9123fd45a61
+_parent: alacritty-fish-tmux-vim
+reply_to: 20b765d0-5ebe-11ec-a7c8-37a39e72ea03
+comment: >-
+  As far as I know, you need to add new keybindings for that in Vim for copying
+  things from Vim to system clipboard. Here is a [Stack Exchange
+  answer](https://vi.stackexchange.com/a/96) on how to do that. I am not sure if
+  that helps, but feel free to give a feedback.
+name: Arnab Kumar Shil
+email: 32eeb1c619ba12f413b8f94d9d308024
+avatar: 'https://avatars.githubusercontent.com/u/3099861?v=4'
+date: '2022-01-02T01:52:41.821Z'
