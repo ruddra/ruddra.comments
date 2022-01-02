@@ -5,7 +5,7 @@ comment: >-
   As far as I know, you need to add new keybindings for that in Vim for copying
   things from Vim to system clipboard. Here is a [Stack Exchange
   answer](https://vi.stackexchange.com/a/96) on how to do that. I am not sure if
-  that helps, but feel free to give a feedback.
+  that helps, but please feel free to give a feedback.
 name: Arnab Kumar Shil
 email: 32eeb1c619ba12f413b8f94d9d308024
 avatar: 'https://avatars.githubusercontent.com/u/3099861?v=4'
