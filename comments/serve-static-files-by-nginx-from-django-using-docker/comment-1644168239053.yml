@@ -1,0 +1,8 @@
+_id: 91cdca80-8771-11ec-a51e-f15c5b77fd2e
+_parent: serve-static-files-by-nginx-from-django-using-docker
+reply_to: ''
+comment: "Very helpful tutorial. thank you. \r\n\r\nGot stuck on an error for a while `django.db.utils.OperationalError: could not translate host name \"db\" to address: Temporary failure in name resolution`\r\n \r\nAfter some digging I realized I was down a few dependencies for psycopg2 for those using PostgreSQL `https://www.psycopg.org/docs/install.html#build-prerequisites`"
+name: Wes8830
+email: 34845386cf63f8e9f023bf84ccb630d2
+avatar: 'https://avatars.githubusercontent.com/u/58434572?v=4'
+date: '2022-02-06T17:23:59.050Z'
