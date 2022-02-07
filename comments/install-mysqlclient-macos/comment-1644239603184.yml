@@ -1,0 +1,11 @@
+_id: ba227b10-8817-11ec-ab78-0dd0eddf4ef6
+_parent: install-mysqlclient-macos
+reply_to: 1e8647e0-87e5-11ec-b12b-8d18deba1dc7
+comment: >-
+  Probably you should run `brew update` first to see if the homebrew
+  repositories are updated. Also check your internet connection and proxy setup
+  as well.
+name: Arnab Kumar Shil
+email: 32eeb1c619ba12f413b8f94d9d308024
+avatar: 'https://avatars.githubusercontent.com/u/3099861?v=4'
+date: '2022-02-07T13:13:23.181Z'
