@@ -1,0 +1,8 @@
+_id: 1e8647e0-87e5-11ec-b12b-8d18deba1dc7
+_parent: install-mysqlclient-macos
+reply_to: ''
+comment: "Please Help me I facing a lot of trouble while installing mysql using brew. I always run the command ' brew install mysql ', \r\n\r\nbut it gives me an error : \r\n\r\n'Warning: No available formula with the name \"mysql\".\r\n==> Searching for similarly named formulae...\r\nError: No similarly named formulae found.\r\n==> Searching for a previously deleted formula (in the last month)...\r\nError: No previously deleted formula found.\r\n==> Searching taps on GitHub...\r\nError: No formulae found in taps.'"
+name: Sks301
+email: f808237cc3d7df5460f2ccccb1b7d1c8
+avatar: 'https://avatars.githubusercontent.com/u/85214517?v=4'
+date: '2022-02-07T07:11:07.262Z'
