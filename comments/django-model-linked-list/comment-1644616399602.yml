@@ -1,0 +1,11 @@
+_id: 061feeb0-8b85-11ec-af5b-f934224b7a0d
+_parent: django-model-linked-list
+reply_to: ''
+comment: >-
+  I really like the idea of a linkedlist, it makes a lot of sense for an app I'm
+  currently working on.  What would you do for on_delete, would that be PROTECT
+  or CASCADE? Or something else?
+name: Marty Ballard
+email: 9cbc88e135f4479cb22509ceff59dbe4
+avatar: 'https://avatars.githubusercontent.com/u/663316?v=4'
+date: '2022-02-11T21:53:19.599Z'
