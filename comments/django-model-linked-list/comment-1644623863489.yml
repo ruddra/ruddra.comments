@@ -1,0 +1,11 @@
+_id: 6720f090-8b96-11ec-9cdd-29abafda052c
+_parent: django-model-linked-list
+reply_to: 061feeb0-8b85-11ec-af5b-f934224b7a0d
+comment: >-
+  I think I would have done what a linked list should normally behave like, for
+  example change the ‘prev’ of child to the parent of the object or ‘next’ value
+  of the parent to the child. Then delete the object. :smile:
+name: Arnab Kumar Shil
+email: 32eeb1c619ba12f413b8f94d9d308024
+avatar: 'https://avatars.githubusercontent.com/u/3099861?v=4'
+date: '2022-02-11T23:57:43.486Z'
