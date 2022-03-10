@@ -1,0 +1,8 @@
+_id: 84e838c0-a097-11ec-9934-4f7a0d2908a0
+_parent: aws-codebuild-use-database
+reply_to: ''
+comment: "Not sure how this works for you. \r\nCodeBuild runs in a docker. \r\nCreating another docker from within build means the networking is \"special\". A container cannot access the network of another container by simply using \"localhost\". You have to use the actual IP address assigned to the other container.\r\n\r\nPlus, this start command:\r\ndocker run -e PGPASSWORD -e PGUSER -e PGDATABASE \r\nis invalid. The environment variables need to have a \"var=val\" definition."
+name: constantin-baciu
+email: 2515548c1aa85830ad9fb2e3e7379786
+avatar: 'https://avatars.githubusercontent.com/u/46529909?v=4'
+date: '2022-03-10T17:28:37.412Z'
