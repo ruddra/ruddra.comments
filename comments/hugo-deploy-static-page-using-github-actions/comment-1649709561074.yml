@@ -1,0 +1,13 @@
+_id: 77153af0-b9d7-11ec-9611-ab1476eb1d18
+_parent: hugo-deploy-static-page-using-github-actions
+reply_to: 12f31e90-30f0-11ec-9b1d-75cd7f48f561
+comment: >-
+  I completely agree with you, on the other hand it is the same pitfall for all
+  other opensource solutions. It can be a source of vulnerability or be the
+  vulnerability itself. IMO, the remedy is not to stop using the solution,
+  rather look into the package itself (as it is opensource) and find if there is
+  any potential problems.
+name: Arnab Kumar Shil
+email: 32eeb1c619ba12f413b8f94d9d308024
+avatar: 'https://avatars.githubusercontent.com/u/3099861?v=4'
+date: '2022-04-11T20:39:21.071Z'
