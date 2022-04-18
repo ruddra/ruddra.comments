@@ -1,0 +1,8 @@
+_id: d95b5270-bf37-11ec-85fb-250be5abf362
+_parent: add-search-functionality-hugo
+reply_to: ''
+comment: "var query = searchElem.value || ''; // get the value from input\r\n\r\nIt shows error on this line"
+name: Yousaf Nadeem
+email: 496abf3c53e6cd2e842faa351f46354e
+avatar: 'https://avatars.githubusercontent.com/u/68800668?v=4'
+date: '2022-04-18T16:51:53.430Z'
