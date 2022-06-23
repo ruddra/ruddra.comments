@@ -1,0 +1,8 @@
+_id: 6bdf8200-f33c-11ec-92b8-bd7cbc78edf4
+_parent: cloudflare-cache-google-fonts
+reply_to: ''
+comment: "Google fonts run on Google's CDN so you are just moving them from one CDN to another.\r\nIf anything, Google probably has more edge locations than Cloudflare do.\r\n\r\nAll you save by doing this is 1 DNS lookup for the fonts IP."
+name: Robert Went
+email: b4dd21dc5d4d2f20267da9f0e32a878a
+avatar: 'https://avatars.githubusercontent.com/u/411678?v=4'
+date: '2022-06-23T21:35:37.746Z'
