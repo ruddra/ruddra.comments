@@ -1,0 +1,8 @@
+_id: fd48ffb0-f912-11ec-83ef-1d7ac0b58c89
+_parent: hugo-deploy-static-page-using-github-actions
+reply_to: ''
+comment: You have to change the `baseURL` in `config.toml` right?
+name: h4r1337
+email: fb225407ccbb83dbd0debd3ef791d897
+avatar: 'https://avatars.githubusercontent.com/u/72344536?v=4'
+date: '2022-07-01T07:54:09.800Z'
