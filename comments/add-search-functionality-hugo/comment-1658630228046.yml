@@ -1,0 +1,11 @@
+_id: 82fc9840-0af9-11ed-a4d9-7bd7dbb471ef
+_parent: add-search-functionality-hugo
+reply_to: ''
+comment: >-
+  your config.toml changes perplex me right out of the gate. first, you use ":"
+  instead of "=" and even upon changing this, my code editor doesn't understand
+  the syntax
+name: Michael Scoggins
+email: 68bf40569397f612f1d97f77fde1d5cc
+avatar: 'https://avatars.githubusercontent.com/u/66537668?v=4'
+date: '2022-07-24T02:37:08.045Z'
