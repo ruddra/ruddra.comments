@@ -1,0 +1,8 @@
+_id: f63ad7c0-0b64-11ed-ae97-2d51003723dd
+_parent: add-search-functionality-hugo
+reply_to: 82fc9840-0af9-11ed-a4d9-7bd7dbb471ef
+comment: "You are right. It should be yaml. For toml, the configuration should be:\r\n\r\n```toml\r\n[outputs]\r\n    home = [ \"HTML\", \"JSON\", \"RSS\"]\r\n```\r\n\r\nThank you for notifying."
+name: Arnab Kumar Shil
+email: 32eeb1c619ba12f413b8f94d9d308024
+avatar: 'https://avatars.githubusercontent.com/u/3099861?v=4'
+date: '2022-07-24T15:26:17.586Z'
