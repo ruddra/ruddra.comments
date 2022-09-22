@@ -1,0 +1,8 @@
+_id: d54a8b30-3ab4-11ed-91f6-d9b62a05f245
+_parent: hugo-add-toc-anywhere
+reply_to: ''
+comment: "FYI if replaceRE doesn't work in your shortcode, you can apply the function to .Content instead. You'll just need some regex tweaking to target the table of contents in particular, instead of - in the example on this page - every ul or li element.\r\n\r\nFor example, I decided to get rid of the \"TableOfContents\" ID and add in an ARIA description instead. For me, this looks like:\r\n\r\n``` \r\n{{- $toc :=`(<nav id=(?:\\\"|')TableOfContents(?:'|\\\"))` -}}\r\n{{- $tocNew := `<nav aria-label='Page navigation'` -}}\r\n{{- .Content | replaceRE $toc $tocNew -}}\r\n\r\nThe reason is that, in the shortcode, .Page.TableOfContents is only populated once the shortcode finishes. When replaceRE triggers, it triggers on the unpopulated TableOfContents, and so replaces nothing.\r\n\r\nHowever, .Content has *everything* in a content file rendered. This includes shortcodes and, by extension, tables of contents. So if you apply replaceRE to .Content, it'll also target your table of contents.\r\n\r\nIf your version of Hugo works using replaceRE in the shortcode, great! But keep this in mind if you ever upgrade. I'm running version 91.2 and the replaceRE function doesn't like to work in shortcodes."
+name: D. Travis Lee
+email: 206002e161a265283b6a82798a24d74c
+avatar: 'https://avatars.githubusercontent.com/u/49222803?v=4'
+date: '2022-09-22T20:26:26.791Z'
