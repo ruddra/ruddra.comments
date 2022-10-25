@@ -1,0 +1,8 @@
+_id: 470f2680-549c-11ed-94e3-5987e24a77e2
+_parent: hugo-deploy-static-page-using-github-actions
+reply_to: ''
+comment: "Ah I figured it out, or well did it probably wrong way.\r\nSo I changed it to  Branch gh-pages and root.\r\n\r\nIt works, but probably not the main idea with this. Wondering why I couldn't make it read from main repository and publish using main branch."
+name: thepenguinthatwants
+email: 29129dd15d0b61628a2e90bc0915eba6
+avatar: 'https://avatars.githubusercontent.com/u/46752217?v=4'
+date: '2022-10-25T19:36:10.364Z'
