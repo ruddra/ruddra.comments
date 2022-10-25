@@ -1,0 +1,8 @@
+_id: d221adc0-549b-11ed-94e3-5987e24a77e2
+_parent: hugo-deploy-static-page-using-github-actions
+reply_to: ''
+comment: "Hi thanks for the good post.\r\nI might be bit too dull, as I don't get it, should it be one and same repository for github.action or separate repository?\r\n\r\nI am just getting page not found. https://github.com/thepenguinthatwants/thepenguinthatwants.github.io/tree/main\r\n\r\nIt also created gh-pages branch. Which doesn't seem to have public folder."
+name: thepenguinthatwants
+email: 29129dd15d0b61628a2e90bc0915eba6
+avatar: 'https://avatars.githubusercontent.com/u/46752217?v=4'
+date: '2022-10-25T19:32:54.291Z'
