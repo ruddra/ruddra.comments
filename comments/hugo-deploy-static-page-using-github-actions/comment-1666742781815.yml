@@ -1,0 +1,11 @@
+_id: 05d42050-54c2-11ed-a0f0-290c31451fc4
+_parent: hugo-deploy-static-page-using-github-actions
+reply_to: 470f2680-549c-11ed-94e3-5987e24a77e2
+comment: >-
+  The contents from public folder of your Hugo repository should be pushed to
+  your <username>.github.io repository (in the root). See my github page
+  repository here as an example: https://github.com/ruddra/ruddra.github.io
+name: Arnab Kumar Shil
+email: 32eeb1c619ba12f413b8f94d9d308024
+avatar: 'https://avatars.githubusercontent.com/u/3099861?v=4'
+date: '2022-10-26T00:06:21.813Z'
