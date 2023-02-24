@@ -1,0 +1,18 @@
+_id: e44f2630-b427-11ed-b004-17789c85663c
+_parent: install-mysqlclient-macos
+reply_to: f482f520-b406-11ed-94cd-e361e0ed8d9c
+comment: >-
+  I think either you did not install `mysql-connector-c` or installed a
+  versioned package such as `mysql-connector-c@version-number`. In the first,
+  please see if you have installed the connector, otherwise install it using
+  brew. For the second case, I think this Stack Overflow answer might help:
+  https://stackoverflow.com/a/54367240/2696165. If neither of them helps, then I
+  suggest clean up the system by uninstalling and pruning
+  mysql/mysql-connector-c and initiate the mysql installation process from the
+  beginning. This Stack Overflow answer might help regarding cleanup:
+  https://stackoverflow.com/questions/28225045/no-such-keg-usr-local-cellar-git
+  (instead of git, it will be mysql for your case). Thanks.
+name: Arnab Kumar Shil
+email: 32eeb1c619ba12f413b8f94d9d308024
+avatar: 'https://avatars.githubusercontent.com/u/3099861?v=4'
+date: '2023-02-24T09:44:54.742Z'
