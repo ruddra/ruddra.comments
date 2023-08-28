@@ -1,0 +1,8 @@
+_id: e2525ec0-4585-11ee-ab39-77ba6f4336fd
+_parent: install-mysqlclient-macos
+reply_to: ''
+comment: "Thanks very much for these instructions. Unfortunately mysql-connector-c is not valid anymore:\r\n```\r\nbrew install mysql-connector-c\r\nWarning: No available formula with the name \"homebrew/core/mysql-connector-c\".\r\nPlease tap it and then try again: brew tap homebrew/core\r\n```\r\nIt hs bee replaced by mysql-client apparently: https://formulae.brew.sh/formula/mysql-client#default\r\nif I replace mysql-connector-c by mysql-client in the instructions above then trying to pip install mysqlclient fails with the following error\r\n```\r\nException: Can not find valid pkg-config name.\r\n      Specify MYSQLCLIENT_CFLAGS and MYSQLCLIENT_LDFLAGS env vars manually\r\n```\r\nAny idea how I could solve this?\r\nThanks in advance for your help"
+name: Mickael Coriat
+email: ddb2a859687a51bfd486c2df074bb193
+avatar: 'https://avatars.githubusercontent.com/u/6765438?v=4'
+date: '2023-08-28T09:33:02.837Z'
