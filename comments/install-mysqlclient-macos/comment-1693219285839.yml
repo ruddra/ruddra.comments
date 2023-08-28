@@ -1,0 +1,8 @@
+_id: 6ff3e9c0-458f-11ee-9f03-fd8f20ce4819
+_parent: install-mysqlclient-macos
+reply_to: e2525ec0-4585-11ee-ab39-77ba6f4336fd
+comment: "I found a solution here: https://github.com/PyMySQL/mysqlclient/discussions/624#discussioncomment-6277044\r\n\r\nThe problem comes from mysqlclient v2.2.0 which now requires pkg-config. I finally solved the issue by replacing `mysql-connector-c` with `mysql-client` and installing pkg-config along with it:\r\n`brew install mysql-client pkg-config`\r\n\r\nThen using:\r\n`export PKG_CONFIG_PATH=\"/usr/local/opt/mysql-client/lib/pkgconfig`\r\n\r\nNow `pip install mysqlclient` works straight away without unlinking/linking mysql."
+name: Mickael Coriat
+email: ddb2a859687a51bfd486c2df074bb193
+avatar: 'https://avatars.githubusercontent.com/u/6765438?v=4'
+date: '2023-08-28T10:41:25.836Z'
