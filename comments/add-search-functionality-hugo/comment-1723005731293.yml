@@ -1,0 +1,8 @@
+_id: 68de3850-5477-11ef-9ab4-1d9c4b8a7236
+_parent: add-search-functionality-hugo
+reply_to: ''
+comment: "json lint did not pass on supplied file, used a quick modification count method to create proper json.\r\ndiff -du index.tmp.json index.json\r\n--- index.tmp.json      2024-08-07 04:39:30.307461137 +0000\r\n+++ index.json  2024-08-06 20:02:06.742308071 +0000\r\n@@ -1,13 +1,21 @@\r\n {\r\n        \"items\" : [\r\n-               {{ range $.Site.RegularPages -}}\r\n+               {{ $pages := $.Site.RegularPages -}}\r\n+               {{ $cnt := 0 }}\r\n+               {{ range $pages }}\r\n+               {{ $cnt = add $cnt 1 }}\r\n                {\r\n-\r\n                        \"url\" : \"{{ .Permalink }}\",\r\n                        \"title\" : \"{{ .Title }}\",\r\n-                       \"content\": {{ .Content | plainify | jsonify }},\r\n+                       \"content\": {{ .Content | plainify | jsonify }}\r\n+               {{ if eq $cnt (len $pages) }}\r\n+                       }\r\n+                       {{ else }}\r\n+                       },\r\n+               {{ end -}}\r\n\r\n-                       {{ end -}}\r\n+       {{ end -}}\r\n        ]\r\n-               }\r\n+}\r\n+"
+name: Colin Ansel Rasor
+email: 0949cb31d303b2db796b628e0c8f4e3b
+avatar: 'https://avatars.githubusercontent.com/u/1300369?v=4'
+date: '2024-08-07T04:42:11.290Z'
