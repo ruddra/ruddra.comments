@@ -1,6 +1,8 @@
 _id: 1514035473
 name: Malik Rumi
 email: 4676d7d41da2b2b924f061315e5f95eb
-reply_to: ''
+reply_to: ""
 comment: I have 2017.3. The above did not work. What did was putting settings in the script path and adding django setting module with a value of mysite.settimgs to the environmental variable.
-date: '2017-12-23T19:24:33Z' 
+date: "2017-12-23T19:24:33Z"
+_parent: how-to-configure-django-tornado-in-pycharm-community-edition
+avatar: "https://www.gravatar.com/avatar/a27764f687ad3cee6b6a1818cfbe3013"

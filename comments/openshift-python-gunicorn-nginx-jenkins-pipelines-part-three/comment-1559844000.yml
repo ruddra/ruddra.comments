@@ -6,3 +6,5 @@ comment: "Hi Rudra,
 
 I went through your blog on automated deployment from jenkins to openshift.I have followed the same steps and tried to import the yaml file in Openshift and started the pipeline.But not sure why I could not see any stages there. Kindly help me."
 date: '2019-06-07T00:00:00Z'
+avatar: "https://www.gravatar.com/avatar/a27764f687ad3cee6b6a1818cfbe3013"
+_parent: openshift-python-gunicorn-nginx-jenkins-pipelines-part-three

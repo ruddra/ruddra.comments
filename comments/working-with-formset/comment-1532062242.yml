@@ -1,6 +1,8 @@
 _id: 1532062242
 name: Viscmad Singh
 email: c621d57928bd2a2b66cb09cad6bb1415
-reply_to: ''
+reply_to: ""
 comment: I am not able to figure out code for editing the inline objects. They wont show up.
-date: '2018-07-20T10:50:42Z' 
+date: "2018-07-20T10:50:42Z"
+_parent: working-with-formset
+avatar: https://www.gravatar.com/avatar/3b3f3b3b3b3b3b3b3b3b3b3b3b3b3b

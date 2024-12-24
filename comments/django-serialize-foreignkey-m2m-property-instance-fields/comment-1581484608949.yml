@@ -1,7 +1,8 @@
 _id: debf32e0-4d56-11ea-816c-35d9e07a64ce
 _parent: django-serialize-foreignkey-m2m-property-instance-fields
-reply_to: ''
+reply_to: ""
 name: Joselito
 email: d139fee888e187a65dd82d1d81c0669d
 comment: "Nice article, very helpful for a beginner like me.<br>\r\ni have followed your instructions because i need to serialize my queryset that contain __PointField__ _(from django.contrib.gis.db)_ and __Property__ but it look like point field are not serialized correctly\r\n<p style=\"background-color:#efefef;\">\r\nfrom django.contrib.gis.serializers.geojson import Serializer\r\n<br>from django.db.models import Manager\r\n<br>class CustomSerializer(Serializer):\r\n<br>....\r\n<br>### then i used it later in my code\r\n<br>serializers = CustomSerializer()\r\n<br>data = serializers.serialize(myquery, fields=('mypointfield','name'))</p>\r\nwhen i run it, i get the error __TypeError: Object of type 'Point' is not JSON serializable__\r\n<br>But if i use the serializers from django core, point field are serialized correctly<p style=\"background-color:#efefef;\">from django.core import serializers\r\n<br>serializers.serialize('geojson',  myquery, geometry_field=['mypointfield'])</p>\r\ni would have thought that using __django.contrib.gis.serializers.geojson__  should have handled my PointField.<br>Do you have any thoughts or directions that can help me serialize those geometry field ?\r\n<br>Thanks a lot"
-date: '2020-02-12T05:16:48.939Z'
+date: "2020-02-12T05:16:48.939Z"
+avatar: "https://www.gravatar.com/avatar/a27764f687ad3cee6b6a1818cfbe3013"

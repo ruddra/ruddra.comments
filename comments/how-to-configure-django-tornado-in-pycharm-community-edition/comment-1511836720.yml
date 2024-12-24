@@ -1,6 +1,8 @@
 _id: 1511836720
 name: Srikanth Atkapuram
 email: cb9de5f349820daaa2599c887ef1eb0f
-reply_to: ''
+reply_to: ""
 comment: hello rudra sir iam getting problem on connection of django in pycharm 2017 version can u help me please and i had already follow the above steps but in my coonection path <a href="http://manage.py" rel="nofollow noopener" title="manage.py">manage.py</a> not going to be shown sir
-date: '2017-11-28T08:38:40Z' 
+date: "2017-11-28T08:38:40Z"
+_parent: how-to-configure-django-tornado-in-pycharm-community-edition
+avatar: "https://www.gravatar.com/avatar/a27764f687ad3cee6b6a1818cfbe3013"

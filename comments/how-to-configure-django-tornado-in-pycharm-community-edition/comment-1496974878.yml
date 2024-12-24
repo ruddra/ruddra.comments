@@ -1,6 +1,8 @@
 _id: 1496974878
 name: Saraswati Sonani
 email: 3190059e1e3f5e37f309f8d76e6e46d8
-reply_to: ''
+reply_to: ""
 comment: after adding new root what should we have to do please guide because i m new in django and python
-date: '2017-06-09T08:21:18Z' 
+date: "2017-06-09T08:21:18Z"
+_parent: 1496974878
+avatar: "https://www.gravatar.com/avatar/3190059e1e3f5e37f309f8d76e6e46d8"

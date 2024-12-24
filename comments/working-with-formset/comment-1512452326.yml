@@ -17,3 +17,5 @@ comment: "
 {% endfor %}
 ```"
 date: '2017-12-05T11:38:46Z' 
+avatar: https://www.gravatar.com/avatar/9b46f7f44771570cf87563037bc42c0c
+_parent: working-with-formset

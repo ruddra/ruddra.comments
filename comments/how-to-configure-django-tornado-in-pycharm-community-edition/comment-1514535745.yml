@@ -1,6 +1,8 @@
 _id: 1514535745
 name: Pablo Ferreira
 email: 795ed5a15c7dda1c0b3ac50289df9ee5
-reply_to: ''
+reply_to: ""
 comment: I wanna do this but I don't speak english and don't know programming. :P
-date: '2017-12-29T14:22:25Z' 
+date: "2017-12-29T14:22:25Z"
+_parent: how-to-configure-django-tornado-in-pycharm-community-edition
+avatar: "https://www.gravatar.com/avatar/a27764f687ad3cee6b6a1818cfbe3013"
