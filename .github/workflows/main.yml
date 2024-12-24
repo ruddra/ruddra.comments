@@ -2,6 +2,8 @@ name: CI
 
 on:
   push:
+    paths-ignore:
+      - "comments/newsletter-subscription/**"
     branches:
       - master
 
@@ -9,6 +11,6 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-    - name: Build Website
-      run: |
+      - name: Build Website
+        run: |
           curl -XPOST -u "${{secrets.PAT_USERNAME}}:${{secrets.TOKEN}}" -H "Accept: application/vnd.github.everest-preview+json"  -H "Content-Type: application/json" https://api.github.com/repos/${{secrets.PAT_USERNAME}}/${{secrets.REPO_NAME}}/dispatches --data '{"event_type": "build_application"}'
