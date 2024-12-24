@@ -1,21 +1,22 @@
 _id: 1512452326
 name: Raja Polipilli
 email: 9b46f7f44771570cf87563037bc42c0c
-reply_to: ''
-comment: "
-```
-{% for product in form.products %}  
- &lt;tbody class=product-instances&gt;
-
- &lt;tr&gt;   
- &lt;td&gt;{{ product.name }}&lt;/td&gt;  
- &lt;td&gt;{{ product.quantity }}&lt;/td&gt;   
- &lt;td&gt;{{ product.price }}&lt;/td&gt;  
- &lt;td&gt; &lt;input id=input_add type=button name=add value= Add More  class=tr_clone_add btn data_input&gt; &lt;/td&gt;  
- &lt;/tr&gt;  
- &lt;/tbody&gt;  
-{% endfor %}
-```"
-date: '2017-12-05T11:38:46Z' 
+reply_to: ""
+comment: |
+  {% raw %}
+  {% for product in form.products %}
+    <tbody class="product-instances">
+      <tr>
+        <td>{{ product.name }}</td>
+        <td>{{ product.quantity }}</td>
+        <td>{{ product.price }}</td>
+        <td>
+          <input id="input_add" type="button" name="add" value="Add More" class="tr_clone_add btn" data_input>
+        </td>
+      </tr>
+    </tbody>
+  {% endfor %}
+  {% endraw %}
+date: "2017-12-05T11:38:46Z"
 avatar: https://www.gravatar.com/avatar/9b46f7f44771570cf87563037bc42c0c
 _parent: working-with-formset
